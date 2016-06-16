@@ -3,31 +3,74 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/AboutViewController.m" timestamp="1466064687276">
+        <mark key="[" line="82" column="28" />
+        <mark key="]" line="82" column="32" />
+        <mark key="." line="82" column="32" />
+        <mark key="^" line="82" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService.m" timestamp="1466064790820">
+        <mark key="'" line="68" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466063560017">
         <mark key="[" line="95" column="16" />
         <mark key="]" line="95" column="15" />
         <mark key="." line="95" column="15" />
         <mark key="^" line="95" column="15" />
       </file>
+      <file name="/a.dummy" timestamp="1466064687760">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="68" column="3" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService.m" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>KRLogManager</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="2" type="4">
+        <text>ddfilelo</text>
+      </register>
+      <register name="3" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="4" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="5" type="4">
+        <text>MIN([KRLogManager sharedInstance].fileLogger.logFileManager.maximumNumberOfLogFiles, 10)</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLnZlcnNpb25MYWJlbCBzZXRVc2VySW50ZXJhY3Rpb25FbmFibGVkOllFU107CiAgICBbc2VsZi52ZXJzaW9uTGFiZWwgYWRkR2VzdHVyZVJlY29nbml6ZXI6W1tVSVRhcEdlc3R1cmVSZWNvZ25pemVyIGFsbG9jXSBpbml0V2l0aFRhcmdldDpzZWxmIGFjdGlvbjpAc2VsZWN0b3Ioc2hvd0dpdENvbW1pdEhhc2gpXV07Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="/" type="4">
+        <text>city</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>city</last-search>
+      <last-offset />
+      <last-pattern>city</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>city</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
@@ -40,6 +83,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
