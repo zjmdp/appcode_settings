@@ -18,46 +18,66 @@
         <mark key="." line="95" column="15" />
         <mark key="^" line="95" column="15" />
       </file>
-      <file name="/a.dummy" timestamp="1466064687760">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/SearchCenterViewController.m" timestamp="1466065685695">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+      </file>
+      <file name="/LLDB" timestamp="1466065691101">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1466065427002">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
     </filemarks>
     <jumps>
       <jump line="68" column="3" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService.m" />
+      <jump line="165" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>KRLogManager</text>
-      </register>
       <register name="&quot;" type="4">
-        <text>KRLogManager</text>
+        <text encoding="base64">PCMoQk9PTClhbmltYXRlZCM+</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">PCMoQk9PTClhbmltYXRlZCM+</text>
+      </register>
+      <register name="/" type="4">
+        <text>city</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">PCMoQk9PTClhbmltYXRlZCM+</text>
       </register>
       <register name="2" type="4">
-        <text>ddfilelo</text>
+        <text>Debug</text>
       </register>
       <register name="3" type="4">
         <text>KRLogManager</text>
       </register>
       <register name="4" type="4">
-        <text>KRLogManager</text>
+        <text>ddfilelo</text>
       </register>
       <register name="5" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="6" type="4">
+        <text>KRLogManager</text>
+      </register>
+      <register name="7" type="4">
         <text>MIN([KRLogManager sharedInstance].fileLogger.logFileManager.maximumNumberOfLogFiles, 10)</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIFtzZWxmLnZlcnNpb25MYWJlbCBzZXRVc2VySW50ZXJhY3Rpb25FbmFibGVkOllFU107CiAgICBbc2VsZi52ZXJzaW9uTGFiZWwgYWRkR2VzdHVyZVJlY29nbml6ZXI6W1tVSVRhcEdlc3R1cmVSZWNvZ25pemVyIGFsbG9jXSBpbml0V2l0aFRhcmdldDpzZWxmIGFjdGlvbjpAc2VsZWN0b3Ioc2hvd0dpdENvbW1pdEhhc2gpXV07Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
-      </register>
-      <register name="-" type="4">
-        <text>KRLogManager</text>
-      </register>
-      <register name="/" type="4">
-        <text>city</text>
       </register>
     </registers>
     <search>
@@ -86,6 +106,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
