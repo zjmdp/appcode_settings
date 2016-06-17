@@ -25,6 +25,19 @@
         <mark key="^" line="110" column="19" />
         <mark key="." line="110" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" timestamp="1466151462973">
+        <mark key="'" line="65" column="102" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.h" timestamp="1466151280138">
+        <mark key="[" line="27" column="73" />
+        <mark key="]" line="27" column="84" />
+        <mark key="^" line="27" column="84" />
+        <mark key="." line="27" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCalenderViewController.m" timestamp="1466148053348">
         <mark key="'" line="69" column="14" />
         <mark key="[" line="144" column="13" />
@@ -38,10 +51,22 @@
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1466151287329">
+        <mark key="[" line="63" column="64" />
+        <mark key="]" line="63" column="75" />
+        <mark key="." line="63" column="75" />
+        <mark key="^" line="63" column="75" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1466143378606">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="102" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.h" timestamp="1466151295517">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466137897751">
         <mark key="[" line="52" column="0" />
@@ -64,9 +89,10 @@
         <mark key="." line="81" column="96" />
         <mark key="^" line="81" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1466137780164">
-        <mark key="[" line="423" column="0" />
-        <mark key="]" line="423" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1466151366268">
+        <mark key="[" line="464" column="108" />
+        <mark key="]" line="464" column="108" />
+        <mark key="." line="464" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1466147937491">
         <mark key="'" line="757" column="0" />
@@ -85,12 +111,23 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FeedCategory.h" timestamp="1466151351811">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.m" timestamp="1466147446584">
         <mark key="'" line="80" column="40" />
         <mark key="[" line="75" column="30" />
         <mark key="]" line="75" column="30" />
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FeedCategory.m" timestamp="1466151202266">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" timestamp="1466144590176">
         <mark key="'" line="187" column="7" />
@@ -119,11 +156,11 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1466148030749">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1466151370490">
         <mark key="'" line="14" column="11" />
-        <mark key="[" line="99" column="91" />
-        <mark key="]" line="99" column="91" />
-        <mark key="." line="99" column="91" />
+        <mark key="[" line="109" column="112" />
+        <mark key="]" line="109" column="112" />
+        <mark key="." line="109" column="112" />
         <mark key="^" line="99" column="91" />
       </file>
     </filemarks>
@@ -155,13 +192,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCalenderViewController.m" />
       <jump line="5" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCalenderViewController.m" />
       <jump line="69" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCalenderViewController.m" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" />
+      <jump line="65" column="102" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>right</text>
@@ -170,31 +209,31 @@
         <text encoding="base64">ICAgICAgICBbW1VJQmFyQnV0dG9uSXRlbSBhcHBlYXJhbmNlXSBzZXRUaXRsZVRleHRBdHRyaWJ1dGVzOkB7TlNGb250QXR0cmlidXRlTmFtZSA6W1VJRm9udCBzeXN0ZW1Gb250T2ZTaXplOjE0IHdlaWdodDpVSUZvbnRXZWlnaHRSZWd1bGFyXX0gCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>4</text>
+        <text>_</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>.name</text>
       </register>
       <register name="3" type="4">
-        <text>[UIBarButtonItem appearance</text>
+        <text>.name</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByaWdodEl0ZW0gc2V0dGl0bAo=</text>
+        <text encoding="base64">Ly8gICAgQHdlYWtpZnkoc2VsZikKLy8gICAgW1tzZWxmIHJhY19zaWduYWxGb3JTZWxlY3RvcjpAc2VsZWN0b3IoaGFuZGxlUmVzdWx0OmF0VXJsOm1vZGVsQ2xhc3M6KV0KLy8gICAgICAgICAgICBzdWJzY3JpYmVOZXh0Ol4oaWQgeCkgewovLyAgICAgICAgICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCi8vICAgICAgICAgICAgICAgIGlmIChzZWxmLmZpcnN0UGFnZSA9PSBZRVMpIHsKLy8gICAgICAgICAgICAgICAgICAgIEZlZWRDZW50ZXJWaWV3Q29udHJvbGxlckxlZ2FjeSAqcGFyZW50VkMgPSAoRmVlZENlbnRlclZpZXdDb250cm9sbGVyTGVnYWN5ICopc2VsZi5wYXJlbnRWaWV3Q29udHJvbGxlcjsKLy8gICAgICAgICAgICAgICAgICAgIGlmIChzZWxmLmxhc3RDb250ZW50T2Zmc2V0LnkgPj0gW3BhcmVudFZDIGdldEhlYWRlckhlaWdodF0gLSBTVElDS19IRUlHSFQpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBzZWxmLmxhc3RDb250ZW50T2Zmc2V0ID0gQ0dQb2ludE1ha2Uoc2VsZi5sYXN0Q29udGVudE9mZnNldC54LCBbcGFyZW50VkMgZ2V0SGVhZGVySGVpZ2h0XSAtIFNUSUNLX0hFSUdIVCk7Ci8vICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcgc2V0Q29udGVudE9mZnNldDpzZWxmLmxhc3RDb250ZW50T2Zmc2V0XTsKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH1dOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbW1VJQmFyQnV0dG9uSXRlbSBhcHBlYXJhbmNlXSBzZXRUaXRsZVRleHRBdHRyaWJ1dGVzOkB7TlNGb250QXR0cmlidXRlTmFtZSA6W1VJRm9udCBzeXN0ZW1Gb250T2ZTaXplOjE0XX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsK</text>
+        <text encoding="base64">QGNsYXNzIEZlZAo=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">c2VsZi5uYXZpZ2F0aW9uSXRlbS5yaWdodEJhckJ1dHRvbkl0ZW0gPSA=</text>
+        <text>NSInteger</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFtbVUlCYXJCdXR0b25JdGVtIGFwcGVhcmFuY2VdIHNldFRpdGxlVGV4dEF0dHJpYnV0ZXM6QHtOU0ZvbnRBdHRyaWJ1dGVOYW1lIDpbVUlGb250IHN5c3RlbUZvbnRPZlNpemU6MTRdfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICAK</text>
+      <register name="7" type="4">
+        <text>FEED_LAYOUT_TYPE_MEDIUM_CELL</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbW1VJQmFyQnV0dG9uSXRlbSBhcHBlYXJhbmNlXSBzZXRUaXRsZVRleHRBdHRyaWJ1dGVzOkB7TlNGb250QXR0cmlidXRlTmFtZSA6W1VJRm9udCBzeXN0ZW1Gb250T2ZTaXplOjE0XX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbW1VJQmFyQnV0dG9uSXRlbSBhcHBlYXJhbmNlXSBzZXRUaXRsZVRleHRBdHRyaWJ1dGVzOkB7TlNGb250QXR0cmlidXRlTmFtZSA6W1VJRm9udCBzeXN0ZW1Gb250T2ZTaXplOjE0IHdlaWdodDpVSUZvbnRXZWlnaHRSZWd1bGFyXX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsK</text>
+      <register name="9" type="4">
+        <text>NSString</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -215,6 +254,7 @@
         <entry>right</entry>
       </history-search>
       <history-cmd>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
