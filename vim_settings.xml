@@ -52,8 +52,11 @@
         <mark key="]" line="12" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/PlaceOrderWebViewController.m" timestamp="1466066917988" />
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" timestamp="1466139188955">
-        <mark key="[" line="52" column="125" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" timestamp="1466142430777">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="69" />
+        <mark key="." line="36" column="69" />
+        <mark key="^" line="36" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466137500505">
         <mark key="[" line="81" column="83" />
@@ -131,11 +134,11 @@
       <jump line="57" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.m" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I3ByYWdtYSAK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>UICollectionViewDelegate</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>getca</text>
@@ -143,32 +146,32 @@
       <register name="0" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgVUlJbWFnZVZpZXcgKmljb25JbWFnZVZpZXc7CkBwcm9wZXJ0eSAobm9uYXRvbWljLCBzdHJvbmcpIFVJTGFiZWwgKm5hbWVMYWJlbDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">I3ByYWdtYSAK</text>
+      <register name="1" type="4">
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>UICollectionViewDelegate</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>kCategoryCollectionCell</text>
+        <text>1</text>
       </register>
-      <register name="4" type="4">
-        <text>kcate</text>
+      <register name="4" type="2">
+        <text encoding="base64">I3ByYWdtYSAK</text>
       </register>
       <register name="5" type="4">
+        <text>UICollectionViewDelegate</text>
+      </register>
+      <register name="6" type="4">
+        <text>kCategoryCollectionCell</text>
+      </register>
+      <register name="7" type="4">
+        <text>kcate</text>
+      </register>
+      <register name="8" type="4">
         <text>CategoryCollectionCell</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEZlZWRDYXRlZ29yeSAqZmVlZENhdGVnb3J5ID0gbW9kZWw7CiAgICBbc2VsZi5pY29uSW1hZ2VWaWV3IHNkX3NldEltYWdlV2l0aFVSTDpVUkwoZmVlZENhdGVnb3J5Lmljb25VcmwpIHBsYWNlaG9sZGVySW1hZ2U6UExBQ0VIT0xERVJfU01BTExdOwogICAgW3NlbGYubmFtZUxhYmVsIHNldFRleHQ6ZmVlZENhdGVnb3J5LmRpc3BsYXlOYW1lXTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuaWNvbkltYWdlVmlldyA9IFtVSUltYWdlVmlldyBuZXddOwogICAgc2VsZi5pY29uSW1hZ2VWaWV3LmNvbnRlbnRNb2RlID0gVUlWaWV3Q29udGVudE1vZGVTY2FsZUFzcGVjdEZpbGw7CiAgICBzZWxmLmljb25JbWFnZVZpZXcuY2xpcHNUb0JvdW5kcyA9IFlFUzsKCiAgICBbc2VsZi5jb250ZW50VmlldyBhZGRTdWJ2aWV3OnNlbGYuaWNvbkltYWdlVmlld107CiAgICBbc2VsZi5pY29uSW1hZ2VWaWV3IG1hc19tYWtlQ29uc3RyYWludHM6XihNQVNDb25zdHJhaW50TWFrZXIgKm1ha2UpIHsKICAgICAgICBtYWtlLmNlbnRlclguZXF1YWxUbyhzZWxmLmljb25JbWFnZVZpZXcuc3VwZXJ2aWV3KTsKICAgICAgICBtYWtlLndpZHRoLmVxdWFsVG8oQCg0MCkpOwogICAgICAgIG1ha2UuaGVpZ2h0LmVxdWFsVG8oQCg0MCkpOwogICAgICAgIG1ha2UudG9wLmVxdWFsVG8oc2VsZi5pY29uSW1hZ2VWaWV3LnN1cGVydmlldyk7CiAgICB9XTsKCiAgICBzZWxmLm5hbWVMYWJlbCA9IFtVSUxhYmVsIG5ld107CiAgICBzZWxmLm5hbWVMYWJlbC50ZXh0Q29sb3IgPSBTWVNURU1fQkxBQ0s7CiAgICBzZWxmLm5hbWVMYWJlbC5udW1iZXJPZkxpbmVzID0gMjsKICAgIHNlbGYubmFtZUxhYmVsLmZvbnQgPSBGT05UX1NNQUxMOwogICAgc2VsZi5uYW1lTGFiZWwudGV4dEFsaWdubWVudCA9IE5TVGV4dEFsaWdubWVudENlbnRlcjsKICAgIHNlbGYubmFtZUxhYmVsLmFkanVzdHNGb250U2l6ZVRvRml0V2lkdGggPSBZRVM7CiAgICBzZWxmLm5hbWVMYWJlbC5taW5pbXVtU2NhbGVGYWN0b3IgPSAwLjU7CiAgICBbc2VsZi5jb250ZW50VmlldyBhZGRTdWJ2aWV3OnNlbGYubmFtZUxhYmVsXTsKICAgIFtzZWxmLm5hbWVMYWJlbCBtYXNfbWFrZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgbWFrZS5jZW50ZXJYLmVxdWFsVG8oc2VsZi5uYW1lTGFiZWwuc3VwZXJ2aWV3KTsKICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhzZWxmLm5hbWVMYWJlbC5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KDQpOwogICAgICAgIG1ha2UudHJhaWxpbmcuZXF1YWxUbyhzZWxmLm5hbWVMYWJlbC5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KC00KTsKICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKHNlbGYuaWNvbkltYWdlVmlldy5tYXNfYm90dG9tKS53aXRoLm9mZnNldCg2KTsKICAgIH1dOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZlZWRDYXRlZ29yeSAqZmVlZENhdGVnb3J5ID0gbW9kZWw7CiAgICBbc2VsZi5pY29uSW1hZ2VWaWV3IHNkX3NldEltYWdlV2l0aFVSTDpVUkwoZmVlZENhdGVnb3J5Lmljb25VcmwpIHBsYWNlaG9sZGVySW1hZ2U6UExBQ0VIT0xERVJfU01BTExdOwogICAgW3NlbGYubmFtZUxhYmVsIHNldFRleHQ6ZmVlZENhdGVnb3J5LmRpc3BsYXlOYW1lXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
