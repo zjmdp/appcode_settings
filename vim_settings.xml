@@ -68,13 +68,14 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466403574090">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466412116656">
         <mark key="'" line="26" column="11" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="383" column="75" />
+        <mark key="]" line="383" column="75" />
+        <mark key="." line="383" column="75" />
+        <mark key="^" line="383" column="75" />
       </file>
-      <file name="/LLDB" timestamp="1466401400336">
+      <file name="/LLDB" timestamp="1466412381593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466137500505">
@@ -211,11 +212,11 @@
       <jump line="26" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>ara</text>
@@ -223,32 +224,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDIiKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXIK</text>
+      <register name="1" type="4">
+        <text>4</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbVU1lc3NhZ2Ugc2V0QXV0b0FsZXJ0Ok5PXTsK</text>
+      <register name="2" type="4">
+        <text>4</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFrZS53aWR0aC5lcXVhbFRvKEAoMTAwKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIG1ha2UuaGVpZ2h0LmVxdWFsVG8oQCg4MCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBza2lwQnV0dG9uLnRpdGxlYwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDEiKTsK</text>
+        <text encoding="base64">ICAgIHNlbGYuY292ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDIiKTsK</text>
+        <text encoding="base64">ICAgICAgICBbVU1lc3NhZ2Ugc2V0QXV0b0FsZXJ0Ok5PXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDMiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFtVTWVzc2FnZSBzZXRBdXRvQWxlcnQ6Tk9dOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbVU1lc3NhZ2Ugc2V0QXV0b0FsZXJ0Ok5PXTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
