@@ -3,18 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466397751804">
+      <file name="/a.dummy" timestamp="1466425260505">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1466425709396">
+        <mark key="[" line="58" column="143" />
+        <mark key="]" line="58" column="143" />
+        <mark key="^" line="58" column="114" />
+        <mark key="." line="58" column="143" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Categories/UIViewController+Base.m" timestamp="1466419971973">
         <mark key="[" line="175" column="0" />
         <mark key="]" line="177" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466405573346">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="29" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466425791629">
+        <mark key="'" line="104" column="28" />
+        <mark key="[" line="104" column="65" />
+        <mark key="]" line="104" column="65" />
+        <mark key="." line="104" column="65" />
+        <mark key="^" line="104" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Order.m" timestamp="1466066943348">
         <mark key="[" line="144" column="103" />
@@ -115,17 +122,14 @@
         <mark key="^" line="362" column="20" />
         <mark key="." line="362" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1466151366268">
-        <mark key="[" line="464" column="108" />
-        <mark key="]" line="464" column="108" />
-        <mark key="." line="464" column="108" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1466425169497">
+        <mark key="[" line="684" column="73" />
+        <mark key="]" line="684" column="79" />
+        <mark key="." line="684" column="79" />
+        <mark key="^" line="684" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1466419990340">
-        <mark key="'" line="419" column="31" />
-        <mark key="[" line="155" column="62" />
-        <mark key="]" line="155" column="62" />
-        <mark key="." line="155" column="62" />
-        <mark key="^" line="155" column="62" />
+        <mark key="'" line="417" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.h" timestamp="1466147350557">
         <mark key="'" line="5" column="0" />
@@ -236,55 +240,59 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="417" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
+      <jump line="30" column="7" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="39" column="70" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="100" column="78" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="104" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>time</text>
+        <text>, @&quot;type&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>time</text>
+        <text>, @&quot;type&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text>topic_center_banner</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoX2FmdGVyKGRpc3BhdGNoX3RpbWUoRElTUEFUQ0hfVElNRV9OT1csIChpbnQ2NF90KSh0aW1lICogTlNFQ19QRVJfU0VDKSksIGRpc3BhdGNoX2dldF9tYWluX3F1ZXVlKCksIF57CiAgICAgICAgYmxvY2soKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIFtBUkFuYWx5dGljcyBldmVudDprRXZlbnRUb3BpY0NlbnRlckJhbm5lckNsaWNrIHdpdGhQcm9wZXJ0aWVzOkB7QCJiYW5uZXJJZCIgOiBbQChiYW5uZXIuYmFubmVySWQpIHN0cmluZ1ZhbHVlXX1dOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>time</text>
+        <text>, @&quot;type&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text>NSEC_PER_SEC</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIFtBUkFuYWx5dGljcyBldmVudDprRXZlbnRUb3BpY0NlbnRlckJhbm5lckNsaWNrIHdpdGhQcm9wZXJ0aWVzOkB7QCJiYW5uZXJJZCIgOiBbQChiYW5uZXIuYmFubmVySWQpIHN0cmluZ1ZhbHVlXX1dOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFtzZWxmIHVwZGF0ZUFkSW5mb107Cg==</text>
+      <register name="3" type="4">
+        <text>TopicCenter</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBibG9jaygpOwo=</text>
+      <register name="4" type="4">
+        <text>_</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc3BhCg==</text>
+      <register name="5" type="4">
+        <text>feed</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc3BhdGNoX2FmdGVyKGRpc3BhdGNoKQo=</text>
+      <register name="6" type="4">
+        <text>Feed</text>
       </register>
       <register name="7" type="4">
-        <text>4</text>
+        <text>, @&quot;type&quot;, nil</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFtbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBjbGVhckFsbEV0YWdzXTsK</text>
+      <register name="8" type="4">
+        <text>]</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>, [@(banner.type) stringValue</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search>topic_center_banner</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern>topic_center_banner</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -297,6 +305,8 @@
         <entry>true</entry>
         <entry>ara</entry>
         <entry>skip</entry>
+        <entry>banner</entry>
+        <entry>topic_center_banner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
