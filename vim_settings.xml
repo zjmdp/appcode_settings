@@ -6,6 +6,10 @@
       <file name="/a.dummy" timestamp="1466397751804">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Categories/UIViewController+Base.m" timestamp="1466419971973">
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="177" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466405573346">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="26" />
@@ -20,6 +24,11 @@
       </file>
       <file name="/fragment.m" timestamp="1466137816171">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/User.m" timestamp="1466418031350">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.h" timestamp="1466137310729">
         <mark key="'" line="109" column="0" />
@@ -66,17 +75,17 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466414683377">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="395" column="64" />
-        <mark key="]" line="395" column="79" />
-        <mark key="." line="395" column="79" />
-        <mark key="^" line="395" column="79" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466419098444">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="398" column="47" />
+        <mark key="]" line="398" column="47" />
+        <mark key="." line="398" column="47" />
+        <mark key="^" line="398" column="47" />
       </file>
-      <file name="/LLDB" timestamp="1466414753202">
+      <file name="/LLDB" timestamp="1466419796509">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466414230875">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
         <mark key="[" line="81" column="83" />
         <mark key="]" line="81" column="96" />
         <mark key="." line="81" column="96" />
@@ -111,10 +120,12 @@
         <mark key="]" line="464" column="108" />
         <mark key="." line="464" column="108" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1466414069778">
-        <mark key="[" line="470" column="0" />
-        <mark key="]" line="470" column="31" />
-        <mark key="." line="470" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1466419990340">
+        <mark key="'" line="419" column="31" />
+        <mark key="[" line="155" column="62" />
+        <mark key="]" line="155" column="62" />
+        <mark key="." line="155" column="62" />
+        <mark key="^" line="155" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.h" timestamp="1466147350557">
         <mark key="'" line="5" column="0" />
@@ -141,6 +152,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Categories/AFHTTPSessionManager+RACSupport.m" timestamp="1466418463847" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" timestamp="1466144590176">
         <mark key="'" line="187" column="7" />
         <mark key="[" line="152" column="36" />
@@ -222,46 +234,48 @@
       <jump line="26" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="92" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
+      <jump line="417" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="35" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>time</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>time</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoX2FmdGVyKGRpc3BhdGNoX3RpbWUoRElTUEFUQ0hfVElNRV9OT1csIChpbnQ2NF90KSh0aW1lICogTlNFQ19QRVJfU0VDKSksIGRpc3BhdGNoX2dldF9tYWluX3F1ZXVlKCksIF57CiAgICAgICAgYmxvY2soKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>time</text>
       </register>
       <register name="2" type="4">
-        <text>@</text>
+        <text>NSEC_PER_SEC</text>
       </register>
-      <register name="3" type="4">
-        <text>%</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIFtzZWxmIHVwZGF0ZUFkSW5mb107Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.with.offset(-10)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBibG9jaygpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.with.offset(-10)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRpc3BhCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>5</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRpc3BhdGNoX2FmdGVyKGRpc3BhdGNoKQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>4</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFtbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBjbGVhckFsbEV0YWdzXTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
