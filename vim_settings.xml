@@ -7,7 +7,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/UMessage/UMessage.h" timestamp="1466400550426" />
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466137497417">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466403582502">
         <mark key="[" line="29" column="24" />
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
@@ -68,16 +68,14 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466137897751">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466403574090">
+        <mark key="'" line="26" column="11" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
       <file name="/LLDB" timestamp="1466401400336">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" timestamp="1466147382214">
-        <mark key="'" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466137500505">
         <mark key="[" line="81" column="83" />
@@ -210,6 +208,7 @@
       <jump line="473" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="474" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="470" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="26" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -219,7 +218,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>ara</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygidGVzdDIiKTsK</text>
@@ -256,9 +255,9 @@
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>ara</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>ara</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -269,6 +268,7 @@
         <entry>left</entry>
         <entry>right</entry>
         <entry>true</entry>
+        <entry>ara</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
