@@ -13,8 +13,8 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="177" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466475247116">
-        <mark key="'" line="54" column="29" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466493152273">
+        <mark key="'" line="55" column="23" />
         <mark key="[" line="104" column="65" />
         <mark key="]" line="104" column="65" />
         <mark key="." line="104" column="65" />
@@ -58,7 +58,7 @@
         <mark key="^" line="14" column="45" />
         <mark key="." line="14" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466419098444">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466492978508">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="398" column="47" />
         <mark key="]" line="398" column="47" />
@@ -190,6 +190,7 @@
       <jump line="16" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
       <jump line="46" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
       <jump line="47" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="55" column="23" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -199,7 +200,7 @@
         <text>, @&quot;type&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>category</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBUkFuYWx5dGljcyBldmVudDprRXZlbnRUb3BpY0NlbnRlckJhbm5lckNsaWNrIHdpdGhQcm9wZXJ0aWVzOkB7QCJiYW5uZXJJZCIgOiBbQChiYW5uZXIuYmFubmVySWQpIHN0cmluZ1ZhbHVlXX1dOwo=</text>
@@ -236,9 +237,9 @@
       </register>
     </registers>
     <search>
-      <last-search>category</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern>category</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -256,6 +257,7 @@
         <entry>sendpost</entry>
         <entry>send_post</entry>
         <entry>category</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
