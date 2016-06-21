@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466425260505">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1466425709396">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -16,8 +13,8 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="177" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466425791629">
-        <mark key="'" line="104" column="28" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466475247116">
+        <mark key="'" line="54" column="29" />
         <mark key="[" line="104" column="65" />
         <mark key="]" line="104" column="65" />
         <mark key="." line="104" column="65" />
@@ -181,6 +178,8 @@
       <jump line="39" column="70" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="100" column="78" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="104" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="9" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="54" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -190,7 +189,7 @@
         <text>, @&quot;type&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>topic_center_banner</text>
+        <text>send_post</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtBUkFuYWx5dGljcyBldmVudDprRXZlbnRUb3BpY0NlbnRlckJhbm5lckNsaWNrIHdpdGhQcm9wZXJ0aWVzOkB7QCJiYW5uZXJJZCIgOiBbQChiYW5uZXIuYmFubmVySWQpIHN0cmluZ1ZhbHVlXX1dOwo=</text>
@@ -227,9 +226,9 @@
       </register>
     </registers>
     <search>
-      <last-search>topic_center_banner</last-search>
+      <last-search>send_post</last-search>
       <last-offset />
-      <last-pattern>topic_center_banner</last-pattern>
+      <last-pattern>send_post</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -244,6 +243,8 @@
         <entry>skip</entry>
         <entry>banner</entry>
         <entry>topic_center_banner</entry>
+        <entry>sendpost</entry>
+        <entry>send_post</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
