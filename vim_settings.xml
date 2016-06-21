@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1466509959083">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1466425709396">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -13,7 +17,7 @@
         <mark key="[" line="175" column="0" />
         <mark key="]" line="177" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466493152273">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1466510175263">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="104" column="65" />
         <mark key="]" line="104" column="65" />
@@ -293,6 +297,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
