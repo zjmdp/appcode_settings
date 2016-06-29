@@ -58,7 +58,9 @@
         <mark key="[" line="119" column="0" />
         <mark key="]" line="121" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" timestamp="1467172455305" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" timestamp="1467181473654">
+        <mark key="'" line="40" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Categories/AFHTTPSessionManager+RACSupport.m" timestamp="1466418463847" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" timestamp="1467019333598">
         <mark key="'" line="16" column="16" />
@@ -288,6 +290,7 @@
       <jump line="1063" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1082" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1130" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
+      <jump line="40" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -297,7 +300,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>self.page</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zbGlkZVZpZXcuc2xpZGVEZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgIHNlbGYuc2xpZGVWaWV3LnNsaWRlRGF0YVNvdXJjZSA9IHNlbGY7Cg==</text>
@@ -334,15 +337,14 @@
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>self.page</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>self.page</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
         <entry>true</entry>
         <entry>skip</entry>
         <entry>banner</entry>
@@ -362,6 +364,7 @@
         <entry>reloaddata</entry>
         <entry>reload</entry>
         <entry>insert</entry>
+        <entry>self.page</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
