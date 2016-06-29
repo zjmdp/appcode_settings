@@ -22,6 +22,10 @@
         <mark key="." line="144" column="103" />
         <mark key="^" line="144" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/GridFeedListViewController.m" timestamp="1467184422152">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="155" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1466687088651" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1466562762234">
         <mark key="'" line="35" column="0" />
@@ -30,7 +34,7 @@
         <mark key="." line="398" column="47" />
         <mark key="^" line="398" column="47" />
       </file>
-      <file name="/LLDB" timestamp="1467169885885">
+      <file name="/LLDB" timestamp="1467184855746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
@@ -46,8 +50,10 @@
         <mark key="." line="684" column="79" />
         <mark key="^" line="684" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467013830274">
-        <mark key="'" line="17" column="11" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467184501548">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1467168565721">
         <mark key="'" line="15" column="11" />
@@ -126,9 +132,9 @@
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1467167586631">
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="120" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1467182644392">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="114" column="92" />
         <mark key="." line="63" column="75" />
         <mark key="^" line="63" column="75" />
       </file>
@@ -174,6 +180,12 @@
         <mark key="^" line="958" column="7" />
         <mark key="." line="958" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1467184938299">
+        <mark key="'" line="275" column="9" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="51" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" timestamp="1467013847905">
         <mark key="'" line="11" column="11" />
         <mark key="[" line="57" column="0" />
@@ -201,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="3" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService.m" />
-      <jump line="165" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
-      <jump line="7" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.h" />
-      <jump line="110" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.h" />
       <jump line="172" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCalenderViewController.m" />
       <jump line="15" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.h" />
       <jump line="752" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
@@ -258,7 +266,6 @@
       <jump line="17" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GridTopicFeedCollectionCell.m" />
       <jump line="66" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GridTopicFeedCollectionCell.m" />
-      <jump line="17" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="11" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" />
       <jump line="50" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/MediumFeedCell.m" />
       <jump line="14" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
@@ -291,62 +298,81 @@
       <jump line="1082" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1130" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="40" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" />
+      <jump line="310" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="314" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="316" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="302" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="312" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="57" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="313" column="91" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="16" column="56" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="323" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="19" column="140" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="17" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
+      <jump line="120" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
+      <jump line="324" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="321" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="274" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
     </jumps>
     <registers>
+      <register name="a" type="2">
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
+      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi5zbGlkZVZpZXcgcmVsb2FkRGF0YV07Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuZ3Vlc3NMaWtlQ29sbGVjdGlvblZpZXcuZGF0YVNvdXJjZSA9IHNlbGY7Cg==</text>
+      </register>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>collectionView</text>
       </register>
       <register name="/" type="4">
-        <text>self.page</text>
+        <text>back</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zbGlkZVZpZXcuc2xpZGVEZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgIHNlbGYuc2xpZGVWaWV3LnNsaWRlRGF0YVNvdXJjZSA9IHNlbGY7Cg==</text>
+        <text encoding="base64">ICAgIFVJQ29sbGVjdGlvblZpZXdMZWZ0QWxpZ25lZExheW91dCAqZmxvd0xheW91dCA9IChVSUNvbGxlY3Rpb25WaWV3TGVmdEFsaWduZWRMYXlvdXQgKilzZWxmLmNvbGxlY3Rpb25WaWV3LmNvbGxlY3Rpb25WaWV3TGF5b3V0OwogICAgZmxvd0xheW91dC5zY3JvbGxEaXJlY3Rpb24gPSBVSUNvbGxlY3Rpb25WaWV3U2Nyb2xsRGlyZWN0aW9uSG9yaXpvbnRhbDsKICAgIGZsb3dMYXlvdXQubWluaW11bUxpbmVTcGFjaW5nID0gMTA7CiAgICBmbG93TGF5b3V0Lm1pbmltdW1JbnRlcml0ZW1TcGFjaW5nID0gMTA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi5zbGlkZVZpZXcgcmVsb2FkRGF0YV07Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuZ3Vlc3NMaWtlQ29sbGVjdGlvblZpZXcuZGF0YVNvdXJjZSA9IHNlbGY7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYuc2xpZGVWaWV3IHJlbG9hZERhdGFdOwo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgcmVsb2FkRGF0YV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYuc2xpZGVWaWV3IHJlbG9hZERhdGFdOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbGxlYwo=</text>
       </register>
       <register name="4" type="4">
-        <text>data</text>
+        <text>collectionView</text>
       </register>
-      <register name="5" type="4">
-        <text>slideDelegate</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zbGlkZVZpZXcuc2xpZGVEZWxlZ2F0ZSA9IHNlbGY7Cg==</text>
+      <register name="6" type="4">
+        <text>UICollectionViewDelegate</text>
       </register>
-      <register name="7" type="4">
-        <text>!</text>
+      <register name="7" type="2">
+        <text encoding="base64">LSBzaXplZm9yCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>viewModel</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZi5zbGlkZVZpZXcgcmVsb2FkRGF0YV07Cg==</text>
+        <text encoding="base64">ICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.page</last-search>
+      <last-search>back</last-search>
       <last-offset />
-      <last-pattern>self.page</last-pattern>
+      <last-pattern>back</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
-        <entry>skip</entry>
         <entry>banner</entry>
         <entry>topic_center_banner</entry>
         <entry>sendpost</entry>
@@ -365,6 +391,8 @@
         <entry>reload</entry>
         <entry>insert</entry>
         <entry>self.page</entry>
+        <entry>regi</entry>
+        <entry>back</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
