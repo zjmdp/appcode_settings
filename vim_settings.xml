@@ -244,8 +244,8 @@
         <mark key="." line="152" column="68" />
         <mark key="^" line="152" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1466562638242">
-        <mark key="'" line="184" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467191764593">
+        <mark key="'" line="183" column="62" />
         <mark key="[" line="121" column="74" />
         <mark key="]" line="121" column="74" />
         <mark key="." line="121" column="74" />
@@ -263,9 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
-      <jump line="187" column="7" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" />
-      <jump line="14" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" />
       <jump line="119" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" />
       <jump line="84" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.m" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.h" />
@@ -363,6 +360,9 @@
       <jump line="379" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="63" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="349" column="58" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="29" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
+      <jump line="226" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
+      <jump line="183" column="62" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -378,7 +378,7 @@
         <text>ew</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>controller</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8oc2VwYXJhdG9yVmlldy5zdXBlcnZpZXcpOwo=</text>
@@ -415,15 +415,14 @@
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>controller</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>controller</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>banner</entry>
         <entry>topic_center_banner</entry>
         <entry>sendpost</entry>
         <entry>send_post</entry>
@@ -443,6 +442,7 @@
         <entry>self.page</entry>
         <entry>regi</entry>
         <entry>back</entry>
+        <entry>controller</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
