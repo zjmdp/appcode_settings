@@ -41,7 +41,7 @@
         <mark key="." line="398" column="47" />
         <mark key="^" line="398" column="47" />
       </file>
-      <file name="/LLDB" timestamp="1467186058523">
+      <file name="/LLDB" timestamp="1467187633263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
@@ -64,10 +64,10 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467185724923">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="70" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467188011043">
+        <mark key="'" line="17" column="11" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="117" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.m" timestamp="1466147446584">
         <mark key="'" line="80" column="40" />
@@ -105,11 +105,11 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1467185931210">
-        <mark key="[" line="488" column="41" />
-        <mark key="]" line="488" column="57" />
-        <mark key="." line="488" column="57" />
-        <mark key="^" line="488" column="57" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1467187843548">
+        <mark key="[" line="488" column="61" />
+        <mark key="]" line="488" column="61" />
+        <mark key="." line="488" column="61" />
+        <mark key="^" line="488" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/JSQMessagesViewController/JSQMessagesViewController/Controllers/JSQMessagesViewController.m" timestamp="1467173441048" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1467018734171">
@@ -188,12 +188,12 @@
         <mark key="^" line="45" column="73" />
         <mark key="." line="45" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467185944290">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467187867490">
         <mark key="'" line="487" column="0" />
-        <mark key="[" line="487" column="41" />
-        <mark key="]" line="487" column="46" />
-        <mark key="^" line="487" column="46" />
-        <mark key="." line="487" column="46" />
+        <mark key="[" line="487" column="49" />
+        <mark key="]" line="487" column="50" />
+        <mark key="^" line="487" column="50" />
+        <mark key="." line="487" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/SimpleFeedCell.m" timestamp="1467014547945">
         <mark key="[" line="44" column="0" />
@@ -216,12 +216,12 @@
         <mark key="^" line="958" column="7" />
         <mark key="." line="958" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1467186448395">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1467188021499">
         <mark key="'" line="108" column="30" />
-        <mark key="[" line="365" column="11" />
-        <mark key="]" line="366" column="25" />
-        <mark key="." line="366" column="25" />
-        <mark key="^" line="366" column="25" />
+        <mark key="[" line="336" column="67" />
+        <mark key="]" line="336" column="74" />
+        <mark key="." line="336" column="74" />
+        <mark key="^" line="336" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" timestamp="1467013847905">
         <mark key="'" line="11" column="11" />
@@ -356,7 +356,6 @@
       <jump line="16" column="56" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="323" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="19" column="140" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="17" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="324" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="321" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -364,52 +363,53 @@
       <jump line="66" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="487" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
       <jump line="108" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
+      <jump line="17" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>feeds</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>feeds</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY29sbGVjdGlvblZpZXcuY29udGVudEluc2V0ID0gVUlFZGdlSW5zZXRzTWFrZSgwLCAxMCwgMCwgMTApOwo=</text>
+        <text encoding="base64">ICAgIFtBUkFuYWx5dGljcyBldmVudDprRXZlbnRHdWVzc0xpa2VGZWVkQ2xpY2tdOwogICAgRmVlZERldGFpbFZpZXdDb250cm9sbGVyICp2YyA9IFtGZWVkRGV0YWlsVmlld0NvbnRyb2xsZXIgbmV3XTsKICAgIHZjLmhpZGVzQm90dG9tQmFyV2hlblB1c2hlZCA9IFlFUzsKICAgIHZjLnZpZXdNb2RlbCA9IFtbRmVlZERldGFpbFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWRzW2luZGV4UGF0aC5yb3ddXTsKICAgIFtbVXRpbHMgZ2V0TmF2aWdhdGlvbkNvbnRyb2xsZXJdIHB1c2hWaWV3Q29udHJvbGxlcjp2YyBhbmltYXRlZDpZRVNdOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>5</text>
+        <text>feeds</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>FONT_SMALL</text>
-      </register>
-      <register name="5" type="4">
-        <text>font</text>
-      </register>
-      <register name="6" type="4">
-        <text>=</text>
-      </register>
-      <register name="7" type="4">
         <text>]</text>
       </register>
-      <register name="8" type="4">
-        <text>:</text>
+      <register name="3" type="4">
+        <text>[Utils getNavigationController</text>
       </register>
-      <register name="9" type="4">
-        <text>T</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>6</text>
+      </register>
+      <register name="6" type="4">
+        <text>0</text>
+      </register>
+      <register name="7" type="4">
+        <text>=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBoCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJWaWV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
