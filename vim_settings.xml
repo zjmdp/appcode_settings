@@ -92,12 +92,12 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/MJRefresh/MJRefresh/Base/MJRefreshComponent.m" timestamp="1467019333598">
         <mark key="'" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/MediumFeedCell.m" timestamp="1467017423899">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/MediumFeedCell.m" timestamp="1467259966761">
         <mark key="'" line="50" column="4" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="77" column="4" />
-        <mark key="^" line="54" column="56" />
-        <mark key="." line="54" column="56" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="115" />
+        <mark key="^" line="46" column="113" />
+        <mark key="." line="46" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/SearchCenterViewController.m" timestamp="1466065685695">
         <mark key="[" line="40" column="28" />
@@ -118,11 +118,11 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GridTopicFeedCollectionCell.m" timestamp="1467013827573">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GridTopicFeedCollectionCell.m" timestamp="1467259977297">
         <mark key="'" line="66" column="14" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="67" column="4" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1467196744304">
@@ -357,47 +357,47 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>LikeFeedClick</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLmFkZHJlc3NMYWJlbCBzZXRUZXh0OnNpbXBsZVZpZXdNb2RlbC5hZGRyZXNzXTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>LikeFeedClick</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>controller</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrRXZlbnRHcmlkVG9waWNGZWVkQ2xpY2sgICAgICAgICAgICAgID0gQCJncmlkX3RvcGljX2ZlZWRfY2xpY2siOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmLmFkZHJlc3NMYWJlbCBzZXRUZXh0OltOU1N0cmluZyBzdHJpbmdXaXRoRm9ybWF0OkAiJUDCtyVAIixzaW1wbGVWaWV3TW9kZWwuYWRkcmVzcywgc2ltcGxlVmlld01vZGVsLnRpbWVdXTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>LikeFeedClick</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLmFkZHJlc3NMYWJlbCBzZXRUZXh0OnNpbXBsZVZpZXdNb2RlbC5hZGRyZXNzXTsK</text>
       </register>
       <register name="2" type="4">
-        <text>kEventGuessLikeFeedClick</text>
+        <text>]</text>
       </register>
       <register name="3" type="4">
-        <text>kEventGuessLikeFeedClick</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>grid_topic_feed_click</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>GridTopicFeedClick</text>
+        <text>LikeFeedClick</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFVJVmlldyAqc2VwYXJhdG9yVmlldyA9IFtVSVZpZXcgbmV3XTsKLy8gICAgICAgIHNlcGFyYXRvclZpZXcuYmFja2dyb3VuZENvbG9yID0gQ09OVFJPTExFUl9CR19DT0xPUjsKLy8gICAgICAgIFtoZWFkZXJWaWV3IGFkZFN1YnZpZXc6c2VwYXJhdG9yVmlld107Ci8vICAgICAgICBbc2VwYXJhdG9yVmlldyBtYXNfbWFrZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7Ci8vICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhzZXBhcmF0b3JWaWV3LnN1cGVydmlldyk7Ci8vICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8oc2VwYXJhdG9yVmlldy5zdXBlcnZpZXcpOwovLyAgICAgICAgICAgIG1ha2UudHJhaWxpbmcuZXF1YWxUbyhzZXBhcmF0b3JWaWV3LnN1cGVydmlldyk7Ci8vICAgICAgICAgICAgbWFrZS5oZWlnaHQuZXF1YWxUbyhAKDUpKTsKLy8gICAgICAgIH1dOwoK</text>
+      <register name="6" type="4">
+        <text>kEventGuessLikeFeedClick</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>kEventGuessLikeFeedClick</text>
       </register>
       <register name="8" type="4">
-        <text>ew</text>
+        <text>grid_topic_feed_click</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>GridTopicFeedClick</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -470,6 +470,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
