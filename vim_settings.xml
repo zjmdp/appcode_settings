@@ -62,6 +62,7 @@
       <file name="/LLDB" timestamp="1467187633263">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/XMonsterJSQMessagesViewController.h" timestamp="1467173870339" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1466425169497">
         <mark key="[" line="684" column="73" />
         <mark key="]" line="684" column="79" />
@@ -96,12 +97,8 @@
         <mark key="[" line="119" column="0" />
         <mark key="]" line="121" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" timestamp="1467347042902">
-        <mark key="[" line="163" column="27" />
-        <mark key="]" line="164" column="34" />
-        <mark key="." line="164" column="34" />
-        <mark key="^" line="164" column="34" />
-      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.h" timestamp="1467348308761" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Categories/AFHTTPSessionManager+RACSupport.m" timestamp="1466418463847" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/MediumFeedCell.m" timestamp="1467260780779">
         <mark key="'" line="50" column="4" />
         <mark key="[" line="46" column="0" />
@@ -120,6 +117,7 @@
         <mark key="." line="488" column="61" />
         <mark key="^" line="488" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/JSQMessagesViewController/JSQMessagesViewController/Controllers/JSQMessagesViewController.m" timestamp="1467173441048" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/GoRefreshFooterView.m" timestamp="1467017223052">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="48" />
@@ -200,6 +198,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/INTULocationManager/LocationManager/INTULocationManager/INTULocationManager.m" timestamp="1466999574866" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FeedCategory.m" timestamp="1466151202266">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="36" />
@@ -363,7 +362,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>.covers</text>
+        <text>52</text>
       </register>
       <register name="0" type="4">
         <text>=</text>
@@ -400,15 +399,14 @@
       </register>
     </registers>
     <search>
-      <last-search>.covers</last-search>
+      <last-search>52</last-search>
       <last-offset />
-      <last-pattern>.covers</last-pattern>
+      <last-pattern>52</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendpost</entry>
         <entry>send_post</entry>
         <entry>category</entry>
         <entry>search</entry>
@@ -428,6 +426,7 @@
         <entry>ara</entry>
         <entry>ana</entry>
         <entry>.covers</entry>
+        <entry>52</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
