@@ -178,7 +178,7 @@
         <mark key="^" line="45" column="73" />
         <mark key="." line="45" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467187867490">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467359516764">
         <mark key="'" line="487" column="0" />
         <mark key="[" line="487" column="49" />
         <mark key="]" line="487" column="50" />
@@ -325,7 +325,6 @@
       <jump line="321" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="274" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="66" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="487" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
       <jump line="108" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="17" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="336" column="74" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -345,6 +344,7 @@
       <jump line="66" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="422" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="53" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.h" />
+      <jump line="487" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -360,7 +360,7 @@
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>52</text>
+        <text>All rights</text>
       </register>
       <register name="0" type="4">
         <text>=</text>
@@ -397,16 +397,14 @@
       </register>
     </registers>
     <search>
-      <last-search>52</last-search>
+      <last-search>All rights</last-search>
       <last-offset />
-      <last-pattern>52</last-pattern>
+      <last-pattern>All rights</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>send_post</entry>
-        <entry>category</entry>
         <entry>search</entry>
         <entry>base_width</entry>
         <entry>w</entry>
@@ -425,6 +423,8 @@
         <entry>ana</entry>
         <entry>.covers</entry>
         <entry>52</entry>
+        <entry>all rights</entry>
+        <entry>All rights</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
