@@ -197,6 +197,12 @@
         <mark key="^" line="488" column="17" />
         <mark key="." line="488" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1467614869083">
+        <mark key="[" line="36" column="17" />
+        <mark key="]" line="36" column="50" />
+        <mark key="^" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/SimpleFeedCell.m" timestamp="1467014547945">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="55" />
@@ -369,13 +375,13 @@
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>system.close</text>
+        <text>titi</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>system.close</text>
+        <text>titi</text>
       </register>
       <register name="/" type="4">
         <text>All rights</text>
@@ -384,31 +390,31 @@
         <text encoding="base64">ICAgIFVJQmFyQnV0dG9uSXRlbSAqbGVmdEl0ZW0gPSBbW1VJQmFyQnV0dG9uSXRlbSBhbGxvY10gaW5pdFdpdGhJbWFnZTpbVUlJbWFnZSBpbWFnZU5hbWVkOkAiY3VzdG9tX2JhY2tfYXJyb3ciXSBzdHlsZTpVSUJhckJ1dHRvbkl0ZW1TdHlsZVBsYWluIHRhcmdldDpzZWxmIGFjdGlvbjpAc2VsZWN0b3IoZ29Ub1ByZXZpb3VzQ29udHJvbGxlcildOwogICAgc2VsZi5uYXZpZ2F0aW9uSXRlbS5sZWZ0QmFyQnV0dG9uSXRlbSA9IGxlZnRJdGVtOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>system.close</text>
+        <text>titi</text>
       </register>
       <register name="2" type="4">
         <text>system.close</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text>system.close</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmlsOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">c2VsZi5uYXZpZ2F0aW9uSXRlbS5sZWZ0QmFyQnV0dG9uSXRlbS5yYWNfY29tbWFuZCA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEB3ZWFraWZ5KHNlbGYpCiAgICBzZWxmLm5hdmlnYXRpb25JdGVtLmxlZnRCYXJCdXR0b25JdGVtLnJhY19jb21tYW5kID0gW1tSQUNDb21tYW5kIGFsbG9jXSBpbml0V2l0aFNpZ25hbEJsb2NrOl5SQUNTaWduYWwgKihpZCBpbnB1dCkgewogICAgICAgIEBzdHJvbmdpZnkoc2VsZikKICAgICAgICBpZiAoW3NlbGYud2ViVmlldyBjYW5Hb0JhY2tdKXsKICAgICAgICAgICAgW3NlbGYud2ViVmlldyBnb0JhY2tdOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBbc2VsZi5uYXZpZ2F0aW9uQ29udHJvbGxlciBwb3BWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFU107CiAgICAgICAgfQogICAgICAgIHJldHVybiBbUkFDU2lnbmFsIGVtcHR5XTsKICAgIH1dOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxlZnRJdGVtLnJhY19jb21tYW5kID0gCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@selector(goToPreviousController)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
