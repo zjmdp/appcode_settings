@@ -73,6 +73,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" timestamp="1467693673585">
+        <mark key="'" line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1467621002429">
         <mark key="[" line="684" column="73" />
         <mark key="]" line="684" column="79" />
@@ -167,6 +170,9 @@
         <mark key="]" line="82" column="32" />
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1467694015353">
+        <mark key="'" line="86" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.h" timestamp="1466151295517">
         <mark key="[" line="14" column="34" />
@@ -267,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
-      <jump line="66" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
       <jump line="473" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="474" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="470" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
@@ -367,6 +370,9 @@
       <jump line="265" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
       <jump line="791" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
+      <jump line="82" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="86" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -382,7 +388,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>system_co</text>
+        <text>collect</text>
       </register>
       <register name="0" type="4">
         <text>NSNotificationCenter</text>
@@ -419,16 +425,14 @@
       </register>
     </registers>
     <search>
-      <last-search>system_co</last-search>
+      <last-search>collect</last-search>
       <last-offset />
-      <last-pattern>system_co</last-pattern>
+      <last-pattern>collect</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>base_width</entry>
-        <entry>w</entry>
         <entry>self.viewModels</entry>
         <entry>loadF</entry>
         <entry>reloadData</entry>
@@ -447,6 +451,8 @@
         <entry>all rights</entry>
         <entry>All rights</entry>
         <entry>system_co</entry>
+        <entry>webser</entry>
+        <entry>collect</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
