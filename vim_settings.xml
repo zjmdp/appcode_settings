@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1467722501558">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1467362141084">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -44,10 +47,9 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" timestamp="1467709366798">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" timestamp="1467722189061">
         <mark key="'" line="27" column="11" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="84" column="6" />
+        <mark key="[" line="48" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1467345207145">
         <mark key="'" line="45" column="57" />
@@ -120,7 +122,7 @@
         <mark key="." line="490" column="22" />
         <mark key="^" line="490" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1467684950650">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1467722157257">
         <mark key="'" line="14" column="11" />
         <mark key="]" line="45" column="14" />
       </file>
@@ -137,7 +139,7 @@
         <mark key="." line="43" column="89" />
         <mark key="^" line="43" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1467650598525">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1467722504056">
         <mark key="'" line="55" column="23" />
         <mark key="[" line="123" column="65" />
         <mark key="]" line="123" column="83" />
@@ -274,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="470" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="26" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="92" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
@@ -374,6 +375,7 @@
       <jump line="82" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="86" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
+      <jump line="188" column="19" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -389,7 +391,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>webser</text>
+        <text>ana</text>
       </register>
       <register name="0" type="4">
         <text>NSNotificationCenter</text>
@@ -426,9 +428,9 @@
       </register>
     </registers>
     <search>
-      <last-search>webser</last-search>
+      <last-search>ana</last-search>
       <last-offset />
-      <last-pattern>webser</last-pattern>
+      <last-pattern>ana</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -445,8 +447,6 @@
         <entry>regi</entry>
         <entry>back</entry>
         <entry>controller</entry>
-        <entry>ara</entry>
-        <entry>ana</entry>
         <entry>.covers</entry>
         <entry>52</entry>
         <entry>all rights</entry>
@@ -454,6 +454,8 @@
         <entry>system_co</entry>
         <entry>collect</entry>
         <entry>webser</entry>
+        <entry>ara</entry>
+        <entry>ana</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -495,6 +497,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
