@@ -44,7 +44,8 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" timestamp="1467620874768">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" timestamp="1467709366798">
+        <mark key="'" line="27" column="11" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="84" column="6" />
       </file>
@@ -273,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="473" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="474" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="470" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="26" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
@@ -373,6 +373,7 @@
       <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
       <jump line="82" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="86" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -388,7 +389,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>collect</text>
+        <text>webser</text>
       </register>
       <register name="0" type="4">
         <text>NSNotificationCenter</text>
@@ -425,9 +426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>collect</last-search>
+      <last-search>webser</last-search>
       <last-offset />
-      <last-pattern>collect</last-pattern>
+      <last-pattern>webser</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -451,8 +452,8 @@
         <entry>all rights</entry>
         <entry>All rights</entry>
         <entry>system_co</entry>
-        <entry>webser</entry>
         <entry>collect</entry>
+        <entry>webser</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
