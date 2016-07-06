@@ -80,11 +80,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467798136248">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="120" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1467799580769">
+        <mark key="[" line="101" column="35" />
+        <mark key="]" line="101" column="35" />
+        <mark key="." line="101" column="35" />
+        <mark key="^" line="101" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/CategoryFilterCell.m" timestamp="1466147446584">
         <mark key="'" line="80" column="40" />
@@ -226,6 +226,13 @@
         <mark key="^" line="36" column="50" />
         <mark key="." line="36" column="50" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1467799593696">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="91" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FeedCategory.h" timestamp="1467779350011">
         <mark key="'" line="11" column="11" />
         <mark key="[" line="36" column="40" />
@@ -312,9 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" />
-      <jump line="310" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="314" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="316" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="302" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="312" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -412,6 +416,9 @@
       <jump line="16" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
       <jump line="115" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
       <jump line="121" column="3" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
+      <jump line="71" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="63" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -427,7 +434,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>category</text>
+        <text>GAI</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihyZW1haW5kZXIgPiAwKXsKICAgICAgICAgICAgcmV0dXJuIChsaW5lcyArIDEpICogSVRFTV9IRUlHSFQgKyBsaW5lcyAqIDEwICsgMzA7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIHJldHVybiBsaW5lcyAqIElURU1fSEVJR0hUICsgKGxpbmVzIC0gMSkgKiAxMCArIDMwOwogICAgICAgIH0K</text>
@@ -464,15 +471,14 @@
       </register>
     </registers>
     <search>
-      <last-search>category</last-search>
+      <last-search>GAI</last-search>
       <last-offset />
-      <last-pattern>category</last-pattern>
+      <last-pattern>GAI</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>back</entry>
         <entry>controller</entry>
         <entry>.covers</entry>
         <entry>52</entry>
@@ -492,6 +498,7 @@
         <entry>feedca</entry>
         <entry>lat</entry>
         <entry>category</entry>
+        <entry>GAI</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
