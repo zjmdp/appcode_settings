@@ -57,7 +57,7 @@
         <mark key="." line="143" column="120" />
         <mark key="^" line="143" column="120" />
       </file>
-      <file name="/LLDB" timestamp="1467792808762">
+      <file name="/LLDB" timestamp="1467793814150">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
@@ -196,12 +196,15 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467790964941">
-        <mark key="'" line="412" column="23" />
-        <mark key="[" line="330" column="38" />
-        <mark key="]" line="330" column="38" />
-        <mark key="." line="330" column="38" />
-        <mark key="^" line="330" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedListViewController.m" timestamp="1467793694856">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="46" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467793975192">
+        <mark key="'" line="416" column="23" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="38" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467723315113">
         <mark key="'" line="489" column="0" />
@@ -281,6 +284,10 @@
         <mark key="]" line="178" column="33" />
         <mark key="." line="178" column="33" />
         <mark key="^" line="178" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/SearchHeaderView.m" timestamp="1467723561097">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467644633479">
         <mark key="'" line="0" column="0" />
@@ -416,47 +423,47 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLmxvYWREYXRhRGlzcG9zYWJsZSBkaXNwb3NlXTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>category</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KyAoTlNWYWx1ZVRyYW5zZm9ybWVyICopZmVlZE1hbkpTT05UcmFuc2Zvcm1lcnsKICAgIHJldHVybiBbTVRMSlNPTkFkYXB0ZXIgZGljdGlvbmFyeVRyYW5zZm9ybWVyV2l0aE1vZGVsQ2xhc3M6W1VzZXIgY2xhc3NdXTsKfQo=</text>
+        <text encoding="base64">ICAgIE5TU3RyaW5nICpjYXRlZ29yeSA9ICgoTmVhcmJ5Q2VudGVyVmlld0NvbnRyb2xsZXIgKilzZWxmLnBhcmVudFZpZXdDb250cm9sbGVyKS5zZWxlY3RlZENhdGVnb3J5Lm5hbWU7CiAgICBpZighVkFMVUVEU1RSSU5HKGNhdGVnb3J5KSl7CiAgICAgICAgY2F0ZWdvcnkgPSBAImFsbCI7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>4</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFtzZWxmLmxvYWREYXRhRGlzcG9zYWJsZSBkaXNwb3NlXTsK</text>
       </register>
       <register name="2" type="4">
-        <text>4</text>
+        <text>name</text>
       </register>
       <register name="3" type="4">
-        <text>backgroundColor</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>]</text>
+        <text>selectedCategory</text>
       </register>
-      <register name="5" type="4">
-        <text>[UIColor colorWithRed:0 green:0 blue:0</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIE5TU3RyaW5nICpjYXRlZ29yeSA9ICgoTmVhcmJ5Q2VudGVyVmlld0NvbnRyb2xsZXIgKilzZWxmLnBhcmVudFZpZXdDb250cm9sbGVyKS5zZWxlY3RlZENhdGVnb3J5Lm5hbWU7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>cateory</text>
       </register>
       <register name="7" type="4">
-        <text>alpha</text>
+        <text>selectedCategory</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>FeedCategory</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>4</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
