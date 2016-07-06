@@ -247,12 +247,12 @@
         <mark key="^" line="958" column="7" />
         <mark key="." line="958" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1467772419554">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1467820791880">
         <mark key="'" line="214" column="39" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="165" column="0" />
-        <mark key="." line="165" column="0" />
-        <mark key="^" line="161" column="7" />
+        <mark key="[" line="177" column="58" />
+        <mark key="]" line="177" column="58" />
+        <mark key="." line="177" column="58" />
+        <mark key="^" line="177" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/ARAnalytics/ARAnalytics.m" timestamp="1467810678716" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/WishListViewController.m" timestamp="1467105421783">
@@ -423,13 +423,13 @@
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>6</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>sd_</text>
@@ -438,34 +438,34 @@
         <text encoding="base64">ICAgICAgICBpZihyZW1haW5kZXIgPiAwKXsKICAgICAgICAgICAgcmV0dXJuIChsaW5lcyArIDEpICogSVRFTV9IRUlHSFQgKyBsaW5lcyAqIDEwICsgMzA7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIHJldHVybiBsaW5lcyAqIElURU1fSEVJR0hUICsgKGxpbmVzIC0gMSkgKiAxMCArIDMwOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>6</text>
       </register>
       <register name="2" type="4">
-        <text>-</text>
-      </register>
-      <register name="3" type="4">
-        <text>+</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAxMTUgKiBXSURUSF9TQ0FMRV9GQUNUT1IgKyAxMDA7Cg==</text>
-      </register>
-      <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="9" type="4">
-        <text>3</text>
+      <register name="3" type="4">
+        <text>8</text>
+      </register>
+      <register name="4" type="4">
+        <text>;</text>
+      </register>
+      <register name="5" type="4">
+        <text>-</text>
+      </register>
+      <register name="6" type="4">
+        <text>+</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -502,8 +502,8 @@
         <entry>we</entry>
         <entry>W</entry>
         <entry>&quot;w</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
