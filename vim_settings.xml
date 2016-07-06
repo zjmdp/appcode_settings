@@ -58,7 +58,7 @@
         <mark key="." line="143" column="120" />
         <mark key="^" line="143" column="120" />
       </file>
-      <file name="/LLDB" timestamp="1467786791064">
+      <file name="/LLDB" timestamp="1467786898814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
@@ -93,6 +93,9 @@
         <mark key="]" line="75" column="30" />
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.h" timestamp="1467354575981">
+        <mark key="'" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/SearchCenterViewController.m" timestamp="1466065685695">
         <mark key="[" line="40" column="28" />
@@ -162,6 +165,9 @@
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1467694015353">
+        <mark key="'" line="86" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1467723464052" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.h" timestamp="1466151295517">
         <mark key="[" line="14" column="34" />
@@ -194,12 +200,12 @@
         <mark key="^" line="54" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedListViewController.m" timestamp="1467736604772" />
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467786890170">
-        <mark key="'" line="127" column="22" />
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="34" />
-        <mark key="^" line="63" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467787017370">
+        <mark key="'" line="285" column="85" />
+        <mark key="[" line="345" column="79" />
+        <mark key="]" line="345" column="78" />
+        <mark key="." line="345" column="78" />
+        <mark key="^" line="345" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467723315113">
         <mark key="'" line="489" column="0" />
@@ -266,16 +272,15 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="43" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1467787163961">
+        <mark key="'" line="46" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" timestamp="1466144590176">
         <mark key="'" line="187" column="7" />
         <mark key="[" line="152" column="36" />
         <mark key="]" line="152" column="68" />
         <mark key="." line="152" column="68" />
         <mark key="^" line="152" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/SearchHeaderView.m" timestamp="1467723561097">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467644633479">
         <mark key="'" line="0" column="0" />
@@ -297,21 +302,15 @@
         <mark key="^" line="43" column="21" />
         <mark key="." line="43" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" timestamp="1467787282665">
+        <mark key="'" line="141" column="41" />
+        <mark key="[" line="135" column="3" />
+        <mark key="]" line="135" column="3" />
+        <mark key="." line="135" column="3" />
+        <mark key="^" line="135" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="907" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="911" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="1461" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="1469" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="531" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="539" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="460" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="1035" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="1103" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="1124" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="1158" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="1101" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1022" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1025" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
@@ -399,68 +398,79 @@
       <jump line="12" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
       <jump line="133" column="113" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
       <jump line="126" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="62" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="134" column="58" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="190" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="196" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="277" column="81" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="281" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="285" column="85" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" />
+      <jump line="137" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" />
+      <jump line="141" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" />
+      <jump line="16" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="47" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="46" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Feed</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Feed</text>
       </register>
       <register name="/" type="4">
-        <text>feedca</text>
+        <text>category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIENMTG9jYXRpb25EaXN0YW5jZSBkaXN0YW5jZSA9IFtzZWxmIGdldFJhZGl1c107CiAgICBMU0dMb2dEZWJ1ZyhAInJhZGl1cyBvZiBtYXA6JUAiLCBAKGRpc3RhbmNlKSk7CiAgICBDTExvY2F0aW9uQ29vcmRpbmF0ZTJEIGNlbnRlckNvb3IgPSBbc2VsZi5tYXBWaWV3IGNlbnRlckNvb3JkaW5hdGVdOwogICAgTFNHTG9nRGVidWcoQCJjZW50ZXIgY29vcmRpbmF0ZTogJUAgJUAiLCBAKGNlbnRlckNvb3IubGF0aXR1ZGUpLCBAKGNlbnRlckNvb3IubG9uZ2l0dWRlKSk7CiAgICBbc2VsZi5sb2FkRGF0YURpc3Bvc2FibGUgZGlzcG9zZV07CiAgICBAd2Vha2lmeShzZWxmKQogICAgRmVlZENhdGVnb3J5ICpzZWxlY3RlZENhdGVnb3J5ID0gKChOZWFyYnlDZW50ZXJWaWV3Q29udHJvbGxlciAqKXNlbGYucGFyZW50Vmlld0NvbnRyb2xsZXIpLnNlbGVjdGVkQ2F0ZWdvcnk7CiAgICBzZWxmLmxvYWREYXRhRGlzcG9zYWJsZSA9IFtbW1dlYlNlcnZpY2Ugc2hhcmVkU2VydmljZV0gZ2V0TmVhckJ5RmVlZHNCeUNhdGVnb3J5OnNlbGVjdGVkQ2F0ZWdvcnkubmFtZSByYWRpdXM6ZGlzdGFuY2VdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlTmV4dDpeKGlkIHgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm5lYXJieUZlZWRzID0geDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYgcmVzZXRBbm5vdGF0aW9uczp4XTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVycm9yOl4oTlNFcnJvciAqZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZiBoYW5kbGVFcnJvcjplcnJvcl07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfV07Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>Feed</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">LyoqCiAqIAogKi8KQHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgTlNTdHJpbmcgKmNhdGVnb3J5Owo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>lat</text>
+      </register>
+      <register name="4" type="4">
+        <text>NearbyFeed</text>
+      </register>
+      <register name="5" type="4">
+        <text>;</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNlbGYgb251cGRhdGUK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIENMTG9jYXRpb25EaXN0YW5jZSBkaXN0YW5jZSA9IFtzZWxmIGdldFJhZGl1c107CiAgICBMU0dMb2dEZWJ1ZyhAInJhZGl1cyBvZiBtYXA6JUAiLCBAKGRpc3RhbmNlKSk7CiAgICBDTExvY2F0aW9uQ29vcmRpbmF0ZTJEIGNlbnRlckNvb3IgPSBbc2VsZi5tYXBWaWV3IGNlbnRlckNvb3JkaW5hdGVdOwogICAgTFNHTG9nRGVidWcoQCJjZW50ZXIgY29vcmRpbmF0ZTogJUAgJUAiLCBAKGNlbnRlckNvb3IubGF0aXR1ZGUpLCBAKGNlbnRlckNvb3IubG9uZ2l0dWRlKSk7CiAgICBbc2VsZi5sb2FkRGF0YURpc3Bvc2FibGUgZGlzcG9zZV07CiAgICBAd2Vha2lmeShzZWxmKQogICAgRmVlZENhdGVnb3J5ICpzZWxlY3RlZENhdGVnb3J5ID0gKChOZWFyYnlDZW50ZXJWaWV3Q29udHJvbGxlciAqKXNlbGYucGFyZW50Vmlld0NvbnRyb2xsZXIpLnNlbGVjdGVkQ2F0ZWdvcnk7CiAgICBzZWxmLmxvYWREYXRhRGlzcG9zYWJsZSA9IFtbW1dlYlNlcnZpY2Ugc2hhcmVkU2VydmljZV0gZ2V0TmVhckJ5RmVlZHNCeUNhdGVnb3J5OnNlbGVjdGVkQ2F0ZWdvcnkubmFtZSByYWRpdXM6ZGlzdGFuY2VdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlTmV4dDpeKGlkIHgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm5lYXJieUZlZWRzID0geDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYgcmVzZXRBbm5vdGF0aW9uczp4XTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVycm9yOl4oTlNFcnJvciAqZXJyb3IpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZiBoYW5kbGVFcnJvcjplcnJvcl07CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfV07Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGZWVkQ2F0ZWdvcnkgKnNlbGVjdGVkQ2F0ZWdvcnkgPSAoKE5lYXJieUNlbnRlclZpZXdDb250cm9sbGVyICopc2VsZi5wYXJlbnRWaWV3Q29udHJvbGxlcikuc2VsZWN0ZWRDYXRlZ29yeTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOU0FycmF5ICpmaWx0ZXJlZEFycmF5ID0gIFtzZWxmIGZpbHRlcmVkQXJyYXk6c2VsZWN0ZWRDYXRlZ29yeV07Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>filteredArray</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYubG9hZERhdGFEaXNwb3NhYmxlID0gW1tbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBnZXROZWFyQnlGZWVkc0J5TGF0OltAKGNlbnRlckNvb3IubGF0aXR1ZGUpIHN0cmluZ1ZhbHVlXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG5nOltAKGNlbnRlckNvb3IubG9uZ2l0dWRlKSBzdHJpbmdWYWx1ZV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhZGl1czooTlNJbnRlZ2VyKWRpc3RhbmNlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0aFBhZ2U6MV0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogIEBwYXJhbSBwYWdlICAgIOWIhumhtQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogIEBwYXJhbSBsYXQgICAgIOe6rOW6pgogKiAgQHBhcmFtIGxuZyAgICAg57uP5bqmCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGZWVkQ2F0ZWdvcnkgKnNlbGVjdGVkQ2F0ZWdvcnkgPSAoKE5lYXJieUNlbnRlclZpZXdDb250cm9sbGVyICopc2VsZi5wYXJlbnRWaWV3Q29udHJvbGxlcikuc2VsZWN0ZWRDYXRlZ29yeTsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOU0FycmF5ICpmaWx0ZXJlZEFycmF5ID0gIFtzZWxmIGZpbHRlcmVkQXJyYXk6c2VsZWN0ZWRDYXRlZ29yeV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>feedca</last-search>
+      <last-search>category</last-search>
       <last-offset />
-      <last-pattern>feedca</last-pattern>
+      <last-pattern>category</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.page</entry>
-        <entry>regi</entry>
         <entry>back</entry>
         <entry>controller</entry>
         <entry>.covers</entry>
@@ -479,6 +489,8 @@
         <entry>nearby</entry>
         <entry>self.nearbyFeeds</entry>
         <entry>feedca</entry>
+        <entry>lat</entry>
+        <entry>category</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
