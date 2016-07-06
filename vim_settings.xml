@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1467798334079">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1467362141084">
         <mark key="[" line="58" column="143" />
         <mark key="]" line="58" column="143" />
@@ -25,6 +22,7 @@
         <mark key="." line="144" column="103" />
         <mark key="^" line="144" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/JSPatch.framework/Headers/JSPatch.h" timestamp="1467736150238" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.h" timestamp="1466137310729">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="108" column="53" />
@@ -209,8 +207,8 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467797895269">
-        <mark key="'" line="64" column="34" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467811552830">
+        <mark key="'" line="109" column="12" />
         <mark key="[" line="324" column="24" />
         <mark key="]" line="324" column="23" />
         <mark key="." line="324" column="23" />
@@ -229,8 +227,12 @@
         <mark key="^" line="36" column="50" />
         <mark key="." line="36" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1467809428096">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1467811524026">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="56" column="50" />
+        <mark key="." line="56" column="50" />
+        <mark key="^" line="56" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FeedCategory.h" timestamp="1467779350011">
         <mark key="'" line="11" column="11" />
@@ -259,6 +261,7 @@
         <mark key="." line="165" column="0" />
         <mark key="^" line="161" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/ARAnalytics/ARAnalytics.m" timestamp="1467810678716" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/WishListViewController.m" timestamp="1467105421783">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="144" column="8" />
@@ -289,6 +292,9 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="47" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/ARAnalytics/ARAnalyticsProviders.h" timestamp="1467810804126">
+        <mark key="'" line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467644633479">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="121" column="74" />
@@ -318,9 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="312" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="57" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="313" column="91" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="16" column="56" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="323" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -418,68 +421,69 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="63" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="25" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/ARAnalytics/ARAnalyticsProviders.h" />
+      <jump line="363" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="109" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>GAI</text>
+        <text>sd_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihyZW1haW5kZXIgPiAwKXsKICAgICAgICAgICAgcmV0dXJuIChsaW5lcyArIDEpICogSVRFTV9IRUlHSFQgKyBsaW5lcyAqIDEwICsgMzA7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIHJldHVybiBsaW5lcyAqIElURU1fSEVJR0hUICsgKGxpbmVzIC0gMSkgKiAxMCArIDMwOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="2" type="4">
+        <text>-</text>
+      </register>
+      <register name="3" type="4">
         <text>+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiAxMTUgKiBXSURUSF9TQ0FMRV9GQUNUT1IgKyAxMDA7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>0</text>
       </register>
-      <register name="8" type="4">
-        <text>3</text>
-      </register>
       <register name="9" type="4">
-        <text>ITEM_HEIGHT</text>
+        <text>3</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>GAI</last-search>
+      <last-search>sd_</last-search>
       <last-offset />
-      <last-pattern>GAI</last-pattern>
+      <last-pattern>sd_</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>controller</entry>
-        <entry>.covers</entry>
         <entry>52</entry>
         <entry>all rights</entry>
         <entry>All rights</entry>
@@ -498,6 +502,8 @@
         <entry>lat</entry>
         <entry>category</entry>
         <entry>GAI</entry>
+        <entry>umeng</entry>
+        <entry>sd_</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
