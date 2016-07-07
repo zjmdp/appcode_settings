@@ -317,12 +317,11 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/ARAnalytics/ARAnalyticsProviders.h" timestamp="1467810804126">
         <mark key="'" line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467863185738">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467896670552">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="121" column="74" />
-        <mark key="]" line="121" column="74" />
-        <mark key="." line="121" column="74" />
-        <mark key="^" line="121" column="59" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/PayContainerViewController.m" timestamp="1467866359035">
         <mark key="[" line="102" column="0" />
@@ -456,47 +455,47 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2RlZmluZSBORUFSQllfRkVFRF9QQVRIX1YyICAgICAgICAgICAgIEAiL3YyL25lYXJieS9mZWVkcyIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAoUkFDU2lnbmFsICopZ2V0TmVhckJ5RmVlZHNCeUNhdGVnb3J5OihOU1N0cmluZyAqKWNhdGVnb3J5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhdDooTlNTdHJpbmcgKilsYXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbG5nOihOU1N0cmluZyAqKWxuZwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYWRpdXM6KE5TSW50ZWdlcilyYWRpdXM7Cg==</text>
+        <text encoding="base64">I2RlZmluZSBORUFSQllfRkVFRF9QQVRIICAgICAgICAgICAgICAgIEAiL3YxL25lYXJieS9mZWVkcyIK</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">I2RlZmluZSBORUFSQllfRkVFRF9QQVRIX1YyICAgICAgICAgICAgIEAiL3YyL25lYXJieS9mZWVkcyIK</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>1</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text encoding="base64">ICAg</text>
       </register>
-      <register name="4" type="4">
-        <text>[</text>
+      <register name="4" type="2">
+        <text encoding="base64">I2RlZmluZSBORUFSQllfRkVFRF9QQVRIX1YyICAgICAgICAgICAgICAgIEAiL3YxL25lYXJieS9mZWVkcyIK</text>
       </register>
       <register name="5" type="4">
-        <text>scaledimage</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>image</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBbVUlJbWFnZSBpbWFnZVdpdGhDR0ltYWdlOltpbWFnZSBDR0ltYWdlXSBzY2FsZToyLjAgb3JpZW50YXRpb246PCMoVUlJbWFnZU9yaWVudGF0aW9uKW9yaWVudGF0aW9uIz5dCg==</text>
+      <register name="7" type="4">
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>[</text>
       </register>
       <register name="9" type="4">
-        <text>image</text>
+        <text>scaledimage</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
