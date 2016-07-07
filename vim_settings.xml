@@ -131,6 +131,9 @@
         <mark key="." line="43" column="89" />
         <mark key="^" line="43" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" timestamp="1467858772070">
+        <mark key="'" line="13" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1467778000419">
         <mark key="'" line="88" column="82" />
         <mark key="[" line="123" column="65" />
@@ -207,12 +210,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467811552830">
-        <mark key="'" line="109" column="12" />
-        <mark key="[" line="324" column="24" />
-        <mark key="]" line="324" column="23" />
-        <mark key="." line="324" column="23" />
-        <mark key="^" line="324" column="23" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1467858879795">
+        <mark key="'" line="111" column="12" />
+        <mark key="[" line="371" column="64" />
+        <mark key="]" line="371" column="68" />
+        <mark key="." line="371" column="68" />
+        <mark key="^" line="371" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1467723315113">
         <mark key="'" line="489" column="0" />
@@ -317,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="313" column="91" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="16" column="56" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="323" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="19" column="140" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -417,67 +419,67 @@
       <jump line="25" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/ARAnalytics/ARAnalyticsProviders.h" />
       <jump line="363" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
       <jump line="109" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="13" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sd_</text>
+        <text>predi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihyZW1haW5kZXIgPiAwKXsKICAgICAgICAgICAgcmV0dXJuIChsaW5lcyArIDEpICogSVRFTV9IRUlHSFQgKyBsaW5lcyAqIDEwICsgMzA7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIHJldHVybiBsaW5lcyAqIElURU1fSEVJR0hUICsgKGxpbmVzIC0gMSkgKiAxMCArIDMwOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>SELF MATCHES %@</text>
       </register>
       <register name="3" type="4">
-        <text>8</text>
+        <text>value</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>array_to_search</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlbGYuY2F0ZWdvcmllcy5yYWNfc2VxdWVuY2UgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>+</text>
-      </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="4">
+        <text>)</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sd_</last-search>
+      <last-search>predi</last-search>
       <last-offset />
-      <last-pattern>sd_</last-pattern>
+      <last-pattern>predi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>52</entry>
         <entry>all rights</entry>
         <entry>All rights</entry>
         <entry>system_co</entry>
@@ -497,6 +499,7 @@
         <entry>GAI</entry>
         <entry>umeng</entry>
         <entry>sd_</entry>
+        <entry>predi</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
