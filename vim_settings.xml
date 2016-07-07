@@ -315,11 +315,11 @@
         <mark key="." line="143" column="41" />
         <mark key="^" line="143" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1467786576489">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="57" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="43" column="95" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1467879759985">
+        <mark key="[" line="162" column="59" />
+        <mark key="]" line="162" column="80" />
+        <mark key="." line="162" column="80" />
+        <mark key="^" line="162" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" timestamp="1467792952480">
         <mark key="'" line="193" column="7" />
@@ -350,11 +350,11 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="47" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.h" timestamp="1467786599578">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="21" />
-        <mark key="^" line="43" column="21" />
-        <mark key="." line="43" column="21" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.h" timestamp="1467879742336">
+        <mark key="[" line="187" column="5" />
+        <mark key="]" line="187" column="10" />
+        <mark key="^" line="187" column="10" />
+        <mark key="." line="187" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" timestamp="1467873665595">
         <mark key="'" line="143" column="41" />
@@ -470,14 +470,14 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZWVkLnR5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>nil</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>nil</text>
       </register>
       <register name="/" type="4">
         <text>loaddata</text>
@@ -485,32 +485,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtbW1tXZWJTZXJ2aWNlIHNoYXJlZFNlcnZpY2VdIGdldFJlY29tbWVuZGF0aW9uRmVlZHNdCiAgICAgICAgICAgIGZpbmFsbHk6XnsKICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikKICAgICAgICAgICAgICAgIFtzZWxmLmxvYWRpbmdJbmRpY2F0b3JWaWV3IHN0b3BBbmltYXRpbmddOwogICAgICAgICAgICAgICAgW3NlbGYubG9hZGluZ0luZGljYXRvclZpZXcgcmVtb3ZlRnJvbVN1cGVydmlld107CiAgICAgICAgICAgICAgICBzZWxmLmxvYWRpbmdJbmRpY2F0b3JWaWV3ID0gbmlsOwogICAgICAgICAgICAgICAgW3NlbGYgc3RvcFJvdGF0ZV07CiAgICAgICAgICAgIH1dCiAgICAgICAgICAgIHN1YnNjcmliZU5leHQ6XihpZCB4KSB7CiAgICAgICAgICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCiAgICAgICAgICAgICAgICBzZWxmLmZlZWRzID0geDsKICAgICAgICAgICAgICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlbG9hZERhdGFdOwogICAgICAgICAgICB9IGVycm9yOl4oTlNFcnJvciAqZXJyb3IpIHsKICAgICAgICAgICAgICAgIC8vVE9ETwogICAgICAgICAgICB9XTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>nil</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">fXsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>getAliyunRecommendationFeeds</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmZWVkLnR5Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>]</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>@</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>zip</text>
       </register>
-      <register name="6" type="4">
-        <text>x</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="8" type="4">
-        <text>d</text>
-      </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
