@@ -44,7 +44,7 @@
         <mark key="^" line="94" column="45" />
         <mark key="." line="94" column="45" />
       </file>
-      <file name="/LLDB" timestamp="1468232747300">
+      <file name="/LLDB" timestamp="1468248586112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/BadgeCollectionViewController.m" timestamp="1468232424487">
@@ -54,11 +54,11 @@
         <mark key="^" line="207" column="35" />
         <mark key="." line="207" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/OrderDetailViewController.m" timestamp="1468247713447">
-        <mark key="[" line="121" column="7" />
-        <mark key="]" line="120" column="62" />
-        <mark key="." line="120" column="62" />
-        <mark key="^" line="120" column="62" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/OrderDetailViewController.m" timestamp="1468248575415">
+        <mark key="[" line="116" column="10" />
+        <mark key="]" line="116" column="18" />
+        <mark key="." line="116" column="18" />
+        <mark key="^" line="116" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
         <mark key="[" line="81" column="83" />
@@ -688,13 +688,13 @@
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>view</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>view</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
@@ -703,31 +703,31 @@
         <text encoding="base64">ICAgICAgICBtYWtlLmJvdHRvbS5lcXVhbFRvKGJ1dHRvbi5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KC0xNzcpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>7</text>
+        <text>view</text>
       </register>
-      <register name="2" type="4">
-        <text>7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNlbCxmCg==</text>
       </register>
       <register name="3" type="4">
-        <text>1</text>
+        <text>7</text>
       </register>
       <register name="4" type="4">
-        <text>bottom</text>
+        <text>7</text>
       </register>
       <register name="5" type="4">
+        <text>1</text>
+      </register>
+      <register name="6" type="4">
+        <text>bottom</text>
+      </register>
+      <register name="7" type="4">
         <text>width</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIHMK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ1dHRvbiAK</text>
-      </register>
-      <register name="9" type="4">
-        <text>UIBarButtonItemStylePlain</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
