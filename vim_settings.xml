@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" timestamp="1467858772070">
         <mark key="'" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468209933207">
-        <mark key="'" line="273" column="0" />
-        <mark key="[" line="170" column="67" />
-        <mark key="]" line="170" column="83" />
-        <mark key="^" line="170" column="83" />
-        <mark key="." line="170" column="83" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468211309399">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="172" column="41" />
+        <mark key="]" line="172" column="46" />
+        <mark key="^" line="172" column="46" />
+        <mark key="." line="172" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -463,47 +463,47 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>feed_click_from_poi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkU2hhcmUgICAgICAgICAgICAgICAgPSBAImZlZWRfc2hhcmUiOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>feed_click_from_poi</text>
+        <text>detail_click</text>
       </register>
       <register name="/" type="4">
         <text>nearby</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkQ2xpY2tGcm9tUG9pICAgICAgICAgICAgICAgID0gQCJmZWVkX2NsaWNrX2Zyb21fcG9pIjsK</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkU2hhcmUgICAgICAgICAgICAgICAgPSBAImZlZWRfc2hhcmUiOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>feed_click_from_poi</text>
+        <text>detail_click</text>
       </register>
       <register name="2" type="4">
-        <text>FromPoi</text>
+        <text>DetailClick</text>
       </register>
       <register name="3" type="4">
-        <text>Poi</text>
+        <text>feed_click_from_poi</text>
       </register>
       <register name="4" type="4">
-        <text>map</text>
+        <text>FromPoi</text>
       </register>
       <register name="5" type="4">
-        <text>Map</text>
+        <text>Poi</text>
       </register>
       <register name="6" type="4">
-        <text>main_page</text>
+        <text>map</text>
       </register>
       <register name="7" type="4">
-        <text>ainPage</text>
+        <text>Map</text>
       </register>
       <register name="8" type="4">
-        <text>guess_like</text>
+        <text>main_page</text>
       </register>
       <register name="9" type="4">
-        <text>GuessLike</text>
+        <text>ainPage</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
