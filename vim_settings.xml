@@ -3,24 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1467873429409">
+      <file name="/a.dummy" timestamp="1468218295466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1467362141084">
-        <mark key="[" line="58" column="143" />
-        <mark key="]" line="58" column="143" />
-        <mark key="^" line="58" column="114" />
-        <mark key="." line="58" column="143" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1468218514785">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1467347152614">
-        <mark key="'" line="422" column="41" />
-        <mark key="[" line="543" column="0" />
-        <mark key="]" line="543" column="40" />
-        <mark key="^" line="542" column="77" />
-        <mark key="." line="543" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/Reporter.m" timestamp="1467870100295">
-        <mark key="'" line="54" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1468217853789">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="590" column="0" />
+        <mark key="]" line="590" column="0" />
+        <mark key="." line="590" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Order.m" timestamp="1466066943348">
         <mark key="[" line="144" column="103" />
@@ -42,11 +37,21 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="/LLDB" timestamp="1468202865347">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1468218685719">
+        <mark key="[" line="92" column="97" />
+        <mark key="]" line="92" column="97" />
+        <mark key="^" line="92" column="97" />
+        <mark key="." line="92" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/Reporter.h" timestamp="1467870015727">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1468218364855">
+        <mark key="'" line="361" column="45" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="40" />
+        <mark key="." line="238" column="38" />
+        <mark key="^" line="238" column="38" />
+      </file>
+      <file name="/LLDB" timestamp="1468219790174">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Common.m" timestamp="1466419446672">
         <mark key="[" line="81" column="83" />
@@ -60,9 +65,6 @@
         <mark key="]" line="44" column="0" />
         <mark key="^" line="55" column="76" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" timestamp="1467693673585">
-        <mark key="'" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1468202816199">
         <mark key="'" line="578" column="38" />
@@ -90,6 +92,12 @@
         <mark key="]" line="75" column="30" />
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1468218545434">
+        <mark key="[" line="31" column="116" />
+        <mark key="]" line="31" column="119" />
+        <mark key="." line="31" column="119" />
+        <mark key="^" line="31" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/LoginViewController.m" timestamp="1467866179212">
         <mark key="[" line="173" column="61" />
@@ -127,6 +135,13 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1468219061471">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="152" column="141" />
+        <mark key="]" line="153" column="50" />
+        <mark key="." line="153" column="50" />
+        <mark key="^" line="153" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/GoRefreshFooterView.m" timestamp="1467017223052">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="48" />
@@ -140,15 +155,12 @@
         <mark key="." line="43" column="89" />
         <mark key="^" line="43" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" timestamp="1467858772070">
-        <mark key="'" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468212232897">
-        <mark key="'" line="279" column="0" />
-        <mark key="[" line="176" column="73" />
-        <mark key="]" line="176" column="86" />
-        <mark key="^" line="176" column="86" />
-        <mark key="." line="176" column="86" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468219891271">
+        <mark key="'" line="9" column="8" />
+        <mark key="[" line="166" column="95" />
+        <mark key="]" line="166" column="99" />
+        <mark key="." line="166" column="99" />
+        <mark key="^" line="166" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -159,6 +171,19 @@
       </file>
       <file name="/fragment.m" timestamp="1467268295454">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/LocationService.m" timestamp="1468218320279">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="54" />
+        <mark key="." line="56" column="54" />
+        <mark key="^" line="56" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CityListViewController.m" timestamp="1468218419495">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="122" column="33" />
+        <mark key="]" line="122" column="86" />
+        <mark key="." line="122" column="86" />
+        <mark key="^" line="122" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.h" timestamp="1466151280138">
         <mark key="[" line="27" column="73" />
@@ -199,11 +224,11 @@
         <mark key="." line="82" column="32" />
         <mark key="^" line="82" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1467798098329">
-        <mark key="[" line="169" column="51" />
-        <mark key="]" line="169" column="50" />
-        <mark key="^" line="169" column="50" />
-        <mark key="." line="169" column="50" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1468219829210">
+        <mark key="[" line="61" column="77" />
+        <mark key="]" line="61" column="76" />
+        <mark key="^" line="61" column="76" />
+        <mark key="." line="61" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.h" timestamp="1466151295517">
         <mark key="[" line="14" column="34" />
@@ -243,15 +268,11 @@
         <mark key="^" line="45" column="73" />
         <mark key="." line="45" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/PlaceOrderWebViewController.m" timestamp="1467362425003">
-        <mark key="[" line="53" column="24" />
-        <mark key="]" line="54" column="65" />
-        <mark key="." line="54" column="65" />
-        <mark key="^" line="54" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedListViewController.m" timestamp="1467881194647">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="56" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GridTopicFeedCell.m" timestamp="1468219842959">
+        <mark key="[" line="86" column="21" />
+        <mark key="]" line="86" column="23" />
+        <mark key="^" line="86" column="23" />
+        <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/GuessFeedListViewController.h" timestamp="1467881184911">
         <mark key="'" line="0" column="0" />
@@ -271,11 +292,12 @@
         <mark key="]" line="17" column="28" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1467614869083">
-        <mark key="[" line="36" column="17" />
-        <mark key="]" line="36" column="50" />
-        <mark key="^" line="36" column="50" />
-        <mark key="." line="36" column="50" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1468219898431">
+        <mark key="'" line="99" column="5" />
+        <mark key="[" line="82" column="47" />
+        <mark key="]" line="82" column="46" />
+        <mark key="^" line="82" column="46" />
+        <mark key="." line="82" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1467864390052">
         <mark key="[" line="85" column="0" />
@@ -321,9 +343,6 @@
         <mark key="." line="178" column="33" />
         <mark key="^" line="178" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/ARAnalytics/ARAnalyticsProviders.h" timestamp="1467810804126">
-        <mark key="'" line="25" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1467899438792">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="73" column="44" />
@@ -358,23 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="791" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
-      <jump line="58" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
-      <jump line="82" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="86" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
-      <jump line="188" column="19" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="295" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
-      <jump line="491" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
-      <jump line="15" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
-      <jump line="121" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
-      <jump line="21" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
-      <jump line="58" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="108" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
-      <jump line="109" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="161" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="210" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="211" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -458,77 +460,83 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
       <jump line="525" column="61" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="577" column="38" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="190" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="222" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="233" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="53" column="73" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="66" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="574" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="584" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="703" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="491" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="361" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CityListViewController.m" />
+      <jump line="9" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="14" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
+      <jump line="32" column="80" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" />
+      <jump line="98" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>dislike</text>
+        <text>Cell</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>dislike</text>
+        <text>Cell</text>
       </register>
       <register name="/" type="4">
-        <text>nearby</text>
+        <text>reporter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkRGlzbGlrZSAgICAgICAgICAgICAgICA9IEAiZmVlZF9kaXNsaWtlIjsK</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkQ2xpY2tGcm9tVG9waWMgICAgICAgICAgICAgICAgPSBAImZlZWRfY2xpY2tfZnJvbV90b3BpYyI7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>dislike</text>
+        <text>Cell</text>
       </register>
       <register name="2" type="4">
-        <text>Dislike</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
-        <text>L</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEZlZWQgKmZlZWQgPSBzZWxmLmRhdGFTb3VyY2VzIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>feed_share_goer</text>
+        <text>[</text>
       </register>
       <register name="5" type="4">
-        <text>ShareGoer</text>
+        <text encoding="base64">b2JqZWN0QXRJbmRleDo8IyhOU1VJbnRlZ2VyKWluZGV4Iz5d</text>
       </register>
-      <register name="6" type="4">
-        <text>oger</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlbGZjaGlsZAo=</text>
       </register>
       <register name="7" type="4">
-        <text>cancel</text>
+        <text>knewevent</text>
       </register>
-      <register name="8" type="4">
-        <text>Cancel</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNlbGYgc3VwZXIK</text>
       </register>
       <register name="9" type="4">
-        <text>detail_click</text>
+        <text>Heat</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nearby</last-search>
+      <last-search>reporter</last-search>
       <last-offset />
-      <last-pattern>nearby</last-pattern>
+      <last-pattern>reporter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ana</entry>
-        <entry>mainca</entry>
-        <entry>nearbyca</entry>
-        <entry>error</entry>
-        <entry>ara</entry>
-        <entry>read</entry>
-        <entry>self.nearbyFeeds</entry>
-        <entry>feedca</entry>
-        <entry>lat</entry>
-        <entry>category</entry>
-        <entry>GAI</entry>
         <entry>umeng</entry>
         <entry>sd_</entry>
         <entry>predi</entry>
@@ -538,12 +546,24 @@
         <entry>remove</entry>
         <entry>nearby_feed</entry>
         <entry>nearby</entry>
+        <entry>W</entry>
+        <entry>H</entry>
+        <entry>S</entry>
+        <entry>OOS</entry>
+        <entry>os</entry>
+        <entry>oosbu</entry>
+        <entry>oosbutton</entry>
+        <entry>oncity</entry>
+        <entry>typesort</entry>
+        <entry>right</entry>
+        <entry>reporter</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
