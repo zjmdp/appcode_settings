@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" timestamp="1467858772070">
         <mark key="'" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1467870224423">
-        <mark key="'" line="234" column="0" />
-        <mark key="[" line="52" column="76" />
-        <mark key="]" line="52" column="76" />
-        <mark key="." line="52" column="76" />
-        <mark key="^" line="52" column="76" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468207180429">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="154" column="58" />
+        <mark key="]" line="154" column="59" />
+        <mark key="^" line="154" column="59" />
+        <mark key="." line="154" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -463,47 +463,47 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZiBvbnNlZ21lbgo=</text>
+      <register name="&quot;" type="4">
+        <text>topic_share_cancel</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>onFavoriteFeedsSelected</text>
+        <text>topic_share_cancel</text>
       </register>
       <register name="/" type="4">
         <text>nearby</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKFtzZWxmIHNlbGVjdGVkU2VnbWVudEluZGV4XSl7CiAgICAgICAgICAgIGNhc2UgU0VHTUVOVEVEX0lOREVYX1BVQkxJU0hFRF9QT1NUUzoKICAgICAgICAgICAgICAgIFtzZWxmIG9uUHVibGlzaGVkUG9zdHNTZWxlY3RlZF07CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBTRUdNRU5URURfSU5ERVhfRkFWT1JJVEVfRkVFRFM6CiAgICAgICAgICAgICAgICBbc2VsZiBvbkZhdm9yaXRlRmVlZHNTZWxlY3RlZF07CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSBTRUdNRU5URURfSU5ERVhfQ09MTEVDVF9QT1NUOgogICAgICAgICAgICAgICAgW3NlbGYgb25Db2xsZWN0UG9zdFNlbGVjdGVkXTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFNFR01FTlRFRF9JTkRFWF9CQURHRToKICAgICAgICAgICAgICAgIFtzZWxmIG9uQmFkZ2VTZWxlY3RlZF07CiAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRUb3BpY1NoYXJlQ2FuY2VsICAgICAgICAgICAgICAgID0gQCJ0b3BpY19zaGFyZV9jYW5jZWwiOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZiBvbnNlZ21lbgo=</text>
+      <register name="1" type="4">
+        <text>topic_share_cancel</text>
       </register>
       <register name="2" type="4">
-        <text>onFavoriteFeedsSelected</text>
+        <text>T</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBTRUdNRU5URURfSU5ERVhfQ09MTEVDVF9QT1NUOgogICAgICAgICAgICAgICAgW3NlbGYgb25Db2xsZWN0UG9zdFNlbGVjdGVkXTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIFNFR01FTlRFRF9JTkRFWF9CQURHRToKICAgICAgICAgICAgICAgIFtzZWxmIG9uQmFkZ2VTZWxlY3RlZF07Cg==</text>
+      <register name="3" type="4">
+        <text>opicShareCancel</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRUb3BpY1NoYXJlICAgICAgICAgICAgICAgID0gQCJ0b3BpY19zaGFyZV9jYW5jZWwiOwo=</text>
       </register>
       <register name="5" type="4">
-        <text />
+        <text>feed_click</text>
       </register>
       <register name="6" type="4">
+        <text>H</text>
+      </register>
+      <register name="7" type="4">
+        <text>FeedClick</text>
+      </register>
+      <register name="8" type="4">
+        <text>click</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICBzd2l0Y2ggKFtzZWxmIHNlbGVjdGVkU2VnbWVudEluZGV4XSl7CiAgICAgICAgIGNhc2UgU0VHTUVOVEVEX0lOREVYX1BVQkxJU0hFRF9QT1NUUzoKICAgICAgICAgICAgIFtzZWxmIG9uUHVibGlzaGVkUG9zdHNTZWxlY3RlZF07CiAgICAgICAgICAgICBicmVhazsKICAgICAgICAgY2FzZSBTRUdNRU5URURfSU5ERVhfRkFWT1JJVEVfRkVFRFM6CiAgICAgICAgICAgICBbc2VsZiBvbkZhdm9yaXRlRmVlZHNTZWxlY3RlZF07CiAgICAgICAgICAgICBicmVhazsKICAgICAgICAgY2FzZSBTRUdNRU5URURfSU5ERVhfQ09MTEVDVF9QT1NUOgogICAgICAgICAgICAgW3NlbGYgb25Db2xsZWN0UG9zdFNlbGVjdGVkXTsKICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICBjYXNlIFNFR01FTlRFRF9JTkRFWF9CQURHRToKICAgICAgICAgICAgIFtzZWxmIG9uQmFkZ2VTZWxlY3RlZF07CiAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICBicmVhazsKICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
