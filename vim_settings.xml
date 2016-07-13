@@ -162,8 +162,8 @@
         <mark key="." line="213" column="4" />
         <mark key="^" line="103" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468316166727">
-        <mark key="'" line="29" column="68" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468379133152">
+        <mark key="'" line="145" column="24" />
         <mark key="[" line="194" column="64" />
         <mark key="]" line="194" column="75" />
         <mark key="." line="194" column="75" />
@@ -640,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="69" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="727" column="42" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="728" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="730" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -740,6 +739,7 @@
       <jump line="12" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/LocationService.m" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="29" column="68" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="145" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -755,7 +755,7 @@
         <text>: %@</text>
       </register>
       <register name="/" type="4">
-        <text>sub_ca</text>
+        <text>search_tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExTR0xvZ0RlYnVnKEAiZ2V0IGFkIGluZm8gc3VjY2VzcyBlcnJvciIpOwo=</text>
@@ -792,15 +792,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sub_ca</last-search>
+      <last-search>search_tag</last-search>
       <last-offset />
-      <last-pattern>sub_ca</last-pattern>
+      <last-pattern>search_tag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hotta</entry>
         <entry>tagdetail</entry>
         <entry>reporter</entry>
         <entry>add_st</entry>
@@ -820,6 +819,7 @@
         <entry>addweixin</entry>
         <entry>showtags</entry>
         <entry>sub_ca</entry>
+        <entry>search_tag</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
