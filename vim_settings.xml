@@ -77,17 +77,17 @@
         <mark key="." line="478" column="43" />
         <mark key="^" line="478" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1468832246446">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1468832335586">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="40" column="113" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1468832252534">
-        <mark key="'" line="51" column="7" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1468832343981">
+        <mark key="'" line="50" column="7" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="80" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TimelineViewController.m" timestamp="1468233597583">
         <mark key="'" line="74" column="0" />
@@ -544,7 +544,7 @@
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgVUlOaWIgKmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgYnVuZGxlOm5pbF07Ci8vICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyTmliOmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSldOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIEd1ZXNzTGlrZUNvbGxlY3Rpb25DZWxsICpjZWxsID0gW2NvbGxlY3Rpb25WaWV3IGRlcXVldWVSZXVzYWJsZUNlbGxXaXRoUmV1c2VJZGVudGlmaWVyOmtHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JJbmRleFBhdGg6aW5kZXhQYXRoXTsKICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWQuY2hpbGRGZWVkc1tpbmRleFBhdGgucm93XV07CiAgICBbY2VsbCBiaW5kVmlld01vZGVsOnZpZXdNb2RlbF07CiAgICByZXR1cm4gY2VsbDsK</text>
@@ -556,7 +556,7 @@
         <text>shy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFVJTmliICpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgYnVuZGxlOm5pbF07CiAgICBbc2VsZi5jb2xsZWN0aW9uVmlldyByZWdpc3Rlck5pYjpndWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGxdOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgVUlOaWIgKmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgYnVuZGxlOm5pbF07Ci8vICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyTmliOmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSldOwo=</text>
