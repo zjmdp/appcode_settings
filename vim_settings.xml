@@ -30,12 +30,12 @@
       <file name="/LLDB" timestamp="1468827210265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1468854365141">
-        <mark key="'" line="18" column="11" />
-        <mark key="[" line="86" column="58" />
-        <mark key="]" line="87" column="27" />
-        <mark key="." line="87" column="27" />
-        <mark key="^" line="87" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1468855004097">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1468854312927">
         <mark key="'" line="72" column="29" />
@@ -133,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" />
       <jump line="25" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" />
       <jump line="27" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" />
       <jump line="28" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" />
@@ -233,13 +232,14 @@
       <jump line="86" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" />
       <jump line="73" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" />
       <jump line="18" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
+      <jump line="34" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
+        <text encoding="base64">QHByb3BlcnR5ICh3ZWFrLCBub25hdG9taWMpIElCT3V0bGV0IFVJQnV0dG9uICpyb3RhdGVCdXR0b247Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIEd1ZXNzTGlrZUNvbGxlY3Rpb25DZWxsICpjZWxsID0gW2NvbGxlY3Rpb25WaWV3IGRlcXVldWVSZXVzYWJsZUNlbGxXaXRoUmV1c2VJZGVudGlmaWVyOmtHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JJbmRleFBhdGg6aW5kZXhQYXRoXTsKICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWQuY2hpbGRGZWVkc1tpbmRleFBhdGgucm93XV07CiAgICBbY2VsbCBiaW5kVmlld01vZGVsOnZpZXdNb2RlbF07CiAgICByZXR1cm4gY2VsbDsK</text>
@@ -254,31 +254,31 @@
         <text encoding="base64">ICAgIENHRmxvYXQgd2lkdGggPSAoU0NSRUVOX1dJRFRIIC0gMTUwKSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUjsKICAgIHJldHVybiBDR1NpemVNYWtlKHdpZHRoLCB3aWR0aCAqIDIzMCAvIDM0NSArIDYwICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
+        <text encoding="base64">QHByb3BlcnR5ICh3ZWFrLCBub25hdG9taWMpIElCT3V0bGV0IFVJQnV0dG9uICpyb3RhdGVCdXR0b247Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KyAoQ0dGbG9hdClnZXRDZWxsSGVpZ2h0ewogICAgcmV0dXJuIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDExMDsKfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgVUlOaWIgKmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgYnVuZGxlOm5pbF07Ci8vICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyTmliOmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSldOwo=</text>
+        <text encoding="base64">KyAoQ0dGbG9hdClnZXRDZWxsSGVpZ2h0ewogICAgcmV0dXJuIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDExMDsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEdlbmVyaWNJbWFnZVRpdGxlQ2VsbCAqY2VsbCA9IFtjb2xsZWN0aW9uVmlldyBkZXF1ZXVlUmV1c2FibGVDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICBGZWVkICpjaGlsZEZlZWQgPSBbX2ZlZWQuY2hpbGRGZWVkcyBvYmplY3RBdEluZGV4OmluZGV4UGF0aC5yb3ddOwogICAgQ292ZXIgKmNvdmVyID0gW2NoaWxkRmVlZC5jb3ZlcnMgb2JqZWN0QXRJbmRleDowXTsKICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6Y292ZXJdOwogICAgcmV0dXJuIGNlbGw7Cg==</text>
+        <text encoding="base64">Ly8gICAgVUlOaWIgKmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgYnVuZGxlOm5pbF07Ci8vICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyTmliOmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSldOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY2hpbGRWaWV3MiA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3MyA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3NCA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsK</text>
+        <text encoding="base64">ICAgIEdlbmVyaWNJbWFnZVRpdGxlQ2VsbCAqY2VsbCA9IFtjb2xsZWN0aW9uVmlldyBkZXF1ZXVlUmV1c2FibGVDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICBGZWVkICpjaGlsZEZlZWQgPSBbX2ZlZWQuY2hpbGRGZWVkcyBvYmplY3RBdEluZGV4OmluZGV4UGF0aC5yb3ddOwogICAgQ292ZXIgKmNvdmVyID0gW2NoaWxkRmVlZC5jb3ZlcnMgb2JqZWN0QXRJbmRleDowXTsKICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6Y292ZXJdOwogICAgcmV0dXJuIGNlbGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY2hpbGRWaWV3MSA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsK</text>
+        <text encoding="base64">ICAgIHNlbGYuY2hpbGRWaWV3MiA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3MyA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3NCA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhzZWxmLmNoaWxkVmlldzEuc3VwZXJ2aWV3KS53aXRoLm9mZnNldCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYuY2hpbGRWaWV3MSA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhzZWxmLmNoaWxkVmlldzIuc3VwZXJ2aWV3KS53aXRoLm9mZnNldCgxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhzZWxmLmNoaWxkVmlldzEuc3VwZXJ2aWV3KS53aXRoLm9mZnNldCgxMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhzZWxmLmNoaWxkVmlldzIuc3VwZXJ2aWV3KS53aXRoLm9mZnNldCgxMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
