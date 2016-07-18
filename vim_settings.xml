@@ -273,8 +273,8 @@
         <mark key="^" line="90" column="82" />
         <mark key="." line="90" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1468566042019">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1468812288720">
+        <mark key="'" line="185" column="0" />
         <mark key="[" line="73" column="44" />
         <mark key="]" line="73" column="44" />
         <mark key="." line="73" column="44" />
@@ -641,7 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="343" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="345" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -741,6 +740,7 @@
       <jump line="86" column="78" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" />
       <jump line="140" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" />
       <jump line="141" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" />
+      <jump line="185" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -756,7 +756,7 @@
         <text>self.category.name</text>
       </register>
       <register name="/" type="4">
-        <text>sele</text>
+        <text>factor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEdyaWRUb3BpY0ZlZWRDb2xsZWN0aW9uQ2VsbCAqY2VsbCA9IFtjb2xsZWN0aW9uVmlldyBkZXF1ZXVlUmV1c2FibGVDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprR3JpZFRvcGljQ2VsbElkZW50aWZpZXIgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICBTaW1wbGVGZWVkVmlld01vZGVsICp2aWV3TW9kZWwgPSBbW1NpbXBsZUZlZWRWaWV3TW9kZWwgYWxsb2NdIGluaXRXaXRoTW9kZWw6c2VsZi5mZWVkLmNoaWxkRmVlZHNbaW5kZXhQYXRoLnJvd11dOwogICAgW2NlbGwgYmluZFZpZXdNb2RlbDp2aWV3TW9kZWxdOwogICAgcmV0dXJuIGNlbGw7Cg==</text>
@@ -793,16 +793,14 @@
       </register>
     </registers>
     <search>
-      <last-search>sele</last-search>
+      <last-search>factor</last-search>
       <last-offset />
-      <last-pattern>sele</last-pattern>
+      <last-pattern>factor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add_s</entry>
-        <entry>poidetail</entry>
         <entry>dianping</entry>
         <entry>follow</entry>
         <entry>webview</entry>
@@ -821,6 +819,8 @@
         <entry>also</entry>
         <entry>feed</entry>
         <entry>sele</entry>
+        <entry>widh</entry>
+        <entry>factor</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
