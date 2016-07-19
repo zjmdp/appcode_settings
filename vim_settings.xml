@@ -231,8 +231,8 @@
         <mark key="." line="492" column="26" />
         <mark key="^" line="492" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" timestamp="1468225310161">
-        <mark key="'" line="59" column="51" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" timestamp="1468920019110">
+        <mark key="'" line="143" column="16" />
         <mark key="[" line="126" column="45" />
         <mark key="]" line="126" column="45" />
         <mark key="^" line="126" column="45" />
@@ -639,10 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
-      <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
-      <jump line="90" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
-      <jump line="19" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TimelineViewController.m" />
       <jump line="62" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TimelineViewController.m" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TimelineViewController.m" />
       <jump line="69" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
@@ -739,6 +735,10 @@
       <jump line="37" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="5" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="44" column="89" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
+      <jump line="32" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" />
+      <jump line="46" column="60" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" />
+      <jump line="47" column="59" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" />
+      <jump line="143" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketTableViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -754,7 +754,7 @@
         <text>UICollectionViewFlowLayout</text>
       </register>
       <register name="/" type="4">
-        <text>right</text>
+        <text>remark</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHJlYWRvbmx5KSBOU1N0cmluZyAqdGl0bGU7Cg==</text>
@@ -791,15 +791,14 @@
       </register>
     </registers>
     <search>
-      <last-search>right</last-search>
+      <last-search>remark</last-search>
       <last-offset />
-      <last-pattern>right</last-pattern>
+      <last-pattern>remark</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feed</entry>
         <entry>sele</entry>
         <entry>widh</entry>
         <entry>factor</entry>
@@ -819,6 +818,7 @@
         <entry>categorycell</entry>
         <entry>feedca</entry>
         <entry>right</entry>
+        <entry>remark</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
