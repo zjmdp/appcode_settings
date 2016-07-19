@@ -96,17 +96,18 @@
         <mark key="." line="684" column="79" />
         <mark key="^" line="684" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1468922119521" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1468906184117">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="33" column="51" />
         <mark key="." line="33" column="51" />
         <mark key="^" line="33" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.h" timestamp="1467797909336">
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.h" timestamp="1468921459189">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/Xib/BadgeInfoCollectionCell.xib" timestamp="1468915572290">
         <mark key="[" line="36" column="0" />
@@ -238,6 +239,7 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="126" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService.m" timestamp="1468572955336" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" timestamp="1467174812599">
         <mark key="'" line="1130" column="33" />
         <mark key="[" line="958" column="8" />
@@ -352,6 +354,7 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBarManager.h" timestamp="1468821877455" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/Xib/PostLikeCell.xib" timestamp="1468915611857">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -365,6 +368,7 @@
         <mark key="^" line="55" column="76" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFilterViewController.m" timestamp="1468566954690" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/Xib/HorizontalScrollFeedCell.xib" timestamp="1468915599241">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -611,11 +615,12 @@
         <mark key="." line="177" column="62" />
         <mark key="^" line="177" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" timestamp="1468912026670">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" timestamp="1468921530282">
         <mark key="'" line="12" column="11" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="54" column="81" />
+        <mark key="]" line="54" column="82" />
+        <mark key="." line="54" column="82" />
+        <mark key="^" line="54" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyCenterViewController.m" timestamp="1468415034908">
         <mark key="'" line="195" column="7" />
@@ -744,14 +749,14 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb2xvciBrZXk9ImJhY2tncm91bmRDb2xvciIgcmVkPSIwLjkwMTk2MDc4NDMxMzcyNTUxIiBncmVlbj0iMC45MDE5NjA3ODQzMTM3MjU1MSIgYmx1ZT0iMC45MDE5NjA3ODQzMTM3MjU1MSIgYWxwaGE9IjEiIGNvbG9yU3BhY2U9ImNhbGlicmF0ZWRSR0IiLz4K</text>
+      <register name="&quot;" type="4">
+        <text>thumbnailUrl</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIEd1ZXNzTGlrZUNvbGxlY3Rpb25DZWxsICpjZWxsID0gW2NvbGxlY3Rpb25WaWV3IGRlcXVldWVSZXVzYWJsZUNlbGxXaXRoUmV1c2VJZGVudGlmaWVyOmtHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JJbmRleFBhdGg6aW5kZXhQYXRoXTsKICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWQuY2hpbGRGZWVkc1tpbmRleFBhdGgucm93XV07CiAgICBbY2VsbCBiaW5kVmlld01vZGVsOnZpZXdNb2RlbF07CiAgICByZXR1cm4gY2VsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>UICollectionViewFlowLayout</text>
+        <text>thumbnailUrl</text>
       </register>
       <register name="/" type="4">
         <text>remark</text>
