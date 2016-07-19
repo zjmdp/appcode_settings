@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1468911165433">
+      <file name="/a.dummy" timestamp="1468913952996">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="13" />
       </file>
@@ -46,7 +46,7 @@
         <mark key="." line="17" column="42" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="/LLDB" timestamp="1468912104680">
+      <file name="/LLDB" timestamp="1468914132352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/BadgeCollectionViewController.m" timestamp="1468232424487">
@@ -94,9 +94,6 @@
         <mark key="]" line="684" column="79" />
         <mark key="." line="684" column="79" />
         <mark key="^" line="684" column="79" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1468895369040">
-        <mark key="'" line="33" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1468906184117">
         <mark key="[" line="32" column="40" />
@@ -281,6 +278,12 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1468807736324">
+        <mark key="'" line="141" column="21" />
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="142" column="26" />
+        <mark key="." line="142" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" timestamp="1468233883049">
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
@@ -347,11 +350,18 @@
         <mark key="^" line="76" column="11" />
         <mark key="." line="76" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1468218685719">
-        <mark key="[" line="92" column="97" />
-        <mark key="]" line="92" column="97" />
-        <mark key="^" line="92" column="97" />
-        <mark key="." line="92" column="97" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" timestamp="1468914487708">
+        <mark key="'" line="110" column="51" />
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1468913634813">
+        <mark key="'" line="64" column="34" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" timestamp="1467873498400">
         <mark key="'" line="16" column="0" />
@@ -384,18 +394,11 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/AdViewController.m" timestamp="1468311182079">
         <mark key="[" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/TLYShyNavBar/TLYShyNavBar/TLYShyNavBarManager.m" timestamp="1468823016504">
-        <mark key="'" line="526" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Info.plist" timestamp="1467863159267">
         <mark key="[" line="113" column="11" />
         <mark key="]" line="119" column="10" />
         <mark key="^" line="119" column="10" />
         <mark key="." line="119" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/SortItemCell.m" timestamp="1468829083021">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/SearchCenterViewController.m" timestamp="1468393644011">
         <mark key="[" line="216" column="0" />
@@ -559,10 +562,6 @@
         <mark key="^" line="45" column="73" />
         <mark key="." line="45" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GridTopicFeedCell.m" timestamp="1468832192808">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="81" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/AddWeixinTroopInfo.h" timestamp="1468295317743">
         <mark key="[" line="14" column="50" />
         <mark key="]" line="14" column="50" />
@@ -641,12 +640,9 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
-      <jump line="66" column="65" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="96" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="111" column="75" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="120" column="65" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
-      <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="52" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="90" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
@@ -741,68 +737,69 @@
       <jump line="73" column="19" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/FeedDetailViewModel.m" />
       <jump line="12" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/SimpleFeedViewModel.m" />
       <jump line="12" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/GuessLikeCollectionCell.m" />
+      <jump line="27" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
+      <jump line="64" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
+      <jump line="107" column="51" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrR3Vlc3NMaWtlQ29sbGVjdGlvbkNlbGwgICAgICAgID0gQCJHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCI7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIEd1ZXNzTGlrZUNvbGxlY3Rpb25DZWxsICpjZWxsID0gW2NvbGxlY3Rpb25WaWV3IGRlcXVldWVSZXVzYWJsZUNlbGxXaXRoUmV1c2VJZGVudGlmaWVyOmtHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JJbmRleFBhdGg6aW5kZXhQYXRoXTsKICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWQuY2hpbGRGZWVkc1tpbmRleFBhdGgucm93XV07CiAgICBbY2VsbCBiaW5kVmlld01vZGVsOnZpZXdNb2RlbF07CiAgICByZXR1cm4gY2VsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>UICollectionViewFlowLayout</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>feedca</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHJlYWRvbmx5KSBOU1N0cmluZyAqdGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLnRpdGxlTGFiZWwgc2V0VGV4dDpzaW1wbGVWaWV3TW9kZWwudGl0bGVdOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyQ2xhc3M6Q2F0ZWdvcnlDb2xsZWN0aW9uQ2VsbC5jbGFzcyBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjprQ2F0ZWdvcnlDb2xsZWN0aW9uQ2VsbF07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAoVUlWaWV3ICopZ2V0Q2xvc2VBbmltYXRpb25WaWV3OihOU0ludGVnZXIpY3VycmVudEluZGV4ewogICAgR2VuZXJpY0ltYWdlVGl0bGVDZWxsICpjZWxsID0gKEdlbmVyaWNJbWFnZVRpdGxlQ2VsbCAqKVtzZWxmLmNvbGxlY3Rpb25WaWV3IGNlbGxGb3JJdGVtQXRJbmRleFBhdGg6W05TSW5kZXhQYXRoIGluZGV4UGF0aEZvclJvdzpjdXJyZW50SW5kZXggaW5TZWN0aW9uOjBdXTsKICAgIFVJSW1hZ2VWaWV3ICphbmltYXRpb24gPSBjZWxsLmNvdmVyVmlldzsKICAgIHJldHVybiBhbmltYXRpb247Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHByb3BlcnR5ICh3ZWFrLCBub25hdG9taWMpIElCT3V0bGV0IFVJQnV0dG9uICpyb3RhdGVCdXR0b247Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
+        <text encoding="base64">ICAgIFtzZWxmLnRpdGxlTGFiZWwgc2V0VGV4dDpzaW1wbGVWaWV3TW9kZWwudGl0bGVdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KyAoQ0dGbG9hdClnZXRDZWxsSGVpZ2h0ewogICAgcmV0dXJuIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDExMDsKfQo=</text>
+        <text encoding="base64">LSAoVUlWaWV3ICopZ2V0Q2xvc2VBbmltYXRpb25WaWV3OihOU0ludGVnZXIpY3VycmVudEluZGV4ewogICAgR2VuZXJpY0ltYWdlVGl0bGVDZWxsICpjZWxsID0gKEdlbmVyaWNJbWFnZVRpdGxlQ2VsbCAqKVtzZWxmLmNvbGxlY3Rpb25WaWV3IGNlbGxGb3JJdGVtQXRJbmRleFBhdGg6W05TSW5kZXhQYXRoIGluZGV4UGF0aEZvclJvdzpjdXJyZW50SW5kZXggaW5TZWN0aW9uOjBdXTsKICAgIFVJSW1hZ2VWaWV3ICphbmltYXRpb24gPSBjZWxsLmNvdmVyVmlldzsKICAgIHJldHVybiBhbmltYXRpb247Cn0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgVUlOaWIgKmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgYnVuZGxlOm5pbF07Ci8vICAgIFtzZWxmLmNvbGxlY3Rpb25WaWV3IHJlZ2lzdGVyTmliOmdlbmVyaWNJbWFnZVRpdGxlQ2VsbCBmb3JDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSldOwo=</text>
+        <text encoding="base64">QHByb3BlcnR5ICh3ZWFrLCBub25hdG9taWMpIElCT3V0bGV0IFVJQnV0dG9uICpyb3RhdGVCdXR0b247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEdlbmVyaWNJbWFnZVRpdGxlQ2VsbCAqY2VsbCA9IFtjb2xsZWN0aW9uVmlldyBkZXF1ZXVlUmV1c2FibGVDZWxsV2l0aFJldXNlSWRlbnRpZmllcjpOU1N0cmluZ0Zyb21DbGFzcyhbR2VuZXJpY0ltYWdlVGl0bGVDZWxsIGNsYXNzXSkgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICBGZWVkICpjaGlsZEZlZWQgPSBbX2ZlZWQuY2hpbGRGZWVkcyBvYmplY3RBdEluZGV4OmluZGV4UGF0aC5yb3ddOwogICAgQ292ZXIgKmNvdmVyID0gW2NoaWxkRmVlZC5jb3ZlcnMgb2JqZWN0QXRJbmRleDowXTsKICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6Y292ZXJdOwogICAgcmV0dXJuIGNlbGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBDR1NpemVNYWtlKChTQ1JFRU5fV0lEVEggLSAzMC4wKSAvIDIsIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDU1KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY2hpbGRWaWV3MiA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3MyA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsKICAgIHNlbGYuY2hpbGRWaWV3NCA9IFtUb3BpY0NoaWxkQ2VsbFZpZXcgbmV3XTsK</text>
+        <text encoding="base64">KyAoQ0dGbG9hdClnZXRDZWxsSGVpZ2h0ewogICAgcmV0dXJuIDExNSAqIFdJRFRIX1NDQUxFX0ZBQ1RPUiArIDExMDsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>feedca</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>feedca</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>search_tag</entry>
-        <entry>also</entry>
         <entry>feed</entry>
         <entry>sele</entry>
         <entry>widh</entry>
@@ -821,6 +818,8 @@
         <entry>right</entry>
         <entry>tit</entry>
         <entry>title</entry>
+        <entry>categorycell</entry>
+        <entry>feedca</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
