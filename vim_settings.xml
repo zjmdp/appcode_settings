@@ -266,12 +266,6 @@
         <mark key="." line="143" column="41" />
         <mark key="^" line="143" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1469017719408">
-        <mark key="[" line="73" column="69" />
-        <mark key="]" line="73" column="69" />
-        <mark key="." line="73" column="69" />
-        <mark key="^" line="14" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1468911872557">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="26" column="29" />
@@ -437,11 +431,8 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1469021015862">
-        <mark key="[" line="326" column="56" />
-        <mark key="]" line="326" column="58" />
-        <mark key="." line="326" column="58" />
-        <mark key="^" line="326" column="58" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/main.m" timestamp="1469087896736">
+        <mark key="a" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/GoRefreshFooterView.m" timestamp="1467017223052">
         <mark key="[" line="13" column="32" />
@@ -645,6 +636,9 @@
         <mark key="." line="108" column="93" />
         <mark key="^" line="108" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" timestamp="1469087677198">
+        <mark key="'" line="169" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1468931008470">
         <mark key="'" line="54" column="4" />
         <mark key="[" line="427" column="26" />
@@ -688,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="282" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="28" column="66" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="170" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
@@ -788,6 +781,7 @@
       <jump line="43" column="86" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/MarkdownEditorViewController.m" />
       <jump line="46" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/MarkdownEditorViewController.m" />
       <jump line="256" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/YYText/YYText/String/YYTextParser.m" />
+      <jump line="169" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
