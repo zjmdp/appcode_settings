@@ -76,10 +76,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="41" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" timestamp="1469076801631">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="167" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" timestamp="1469100982449">
+        <mark key="'" line="83" column="9" />
+        <mark key="[" line="102" column="76" />
+        <mark key="]" line="103" column="68" />
+        <mark key="^" line="103" column="68" />
+        <mark key="." line="103" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m" timestamp="1469091335740" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1468906309703">
@@ -431,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="34" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
       <jump line="105" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
@@ -531,22 +532,23 @@
       <jump line="11" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/MarkdownParser.h" />
       <jump line="108" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/MarkdownEditorViewController.m" />
       <jump line="113" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/MarkdownEditorViewController.m" />
+      <jump line="82" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFlZRlBTTGFiZWwgKmZwc0xhYmVsID0gW1lZRlBTTGFiZWwgbmV3XTsKICAgIFVJV2luZG93ICpjdXJyZW50V2luZG93ID0gW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dLmtleVdpbmRvdzsKICAgIFtjdXJyZW50V2luZG93IGFkZFN1YnZpZXc6ZnBzTGFiZWxdOwogICAgW2Zwc0xhYmVsIG1hc19tYWtlQ29uc3RyYWludHM6XihNQVNDb25zdHJhaW50TWFrZXIgKm1ha2UpIHsKICAgICAgICBtYWtlLmNlbnRlci5lcXVhbFRvKGZwc0xhYmVsLnN1cGVydmlldyk7Ci8vICAgICAgICBtYWtlLnRyYWlsaW5nLmVxdWFsVG8oZnBzTGFiZWwuc3VwZXJ2aWV3KS53aXRoLm9mZnNldCgtMzApOwovLyAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhmcHNMYWJlbC5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KDUwKTsKLy8gICAgICAgIG1ha2UubGVmdC5lcXVhbFRvKGJ1dHRvbi5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KFNDUkVFTl9XSURUSCAtIDI4IC0gNTUpOwovLyAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhidXR0b24uc3VwZXJ2aWV3KS53aXRoLm9mZnNldChTQ1JFRU5fSEVJR0hUIC0gMTI3KTsKICAgIH1dOwoK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MarkDownParser</text>
+        <text>viewController</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIEd1ZXNzTGlrZUNvbGxlY3Rpb25DZWxsICpjZWxsID0gW2NvbGxlY3Rpb25WaWV3IGRlcXVldWVSZXVzYWJsZUNlbGxXaXRoUmV1c2VJZGVudGlmaWVyOmtHdWVzc0xpa2VDb2xsZWN0aW9uQ2VsbCBmb3JJbmRleFBhdGg6aW5kZXhQYXRoXTsKICAgIFNpbXBsZUZlZWRWaWV3TW9kZWwgKnZpZXdNb2RlbCA9IFtbU2ltcGxlRmVlZFZpZXdNb2RlbCBhbGxvY10gaW5pdFdpdGhNb2RlbDpzZWxmLmZlZWQuY2hpbGRGZWVkc1tpbmRleFBhdGgucm93XV07CiAgICBbY2VsbCBiaW5kVmlld01vZGVsOnZpZXdNb2RlbF07CiAgICByZXR1cm4gY2VsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>MarkDownParser</text>
+        <text>viewController</text>
       </register>
       <register name="/" type="4">
-        <text>resize</text>
+        <text>right</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMpIENHRmxvYXQgZm9udFNpemU7ICAgICAgICAgLy8vPCBkZWZhdWx0IGlzIDE0CkBwcm9wZXJ0eSAobm9uYXRvbWljKSBDR0Zsb2F0IGhlYWRlckZvbnRTaXplOyAgIC8vLzwgZGVmYXVsdCBpcyAyMAoKQHByb3BlcnR5IChudWxsYWJsZSwgbm9uYXRvbWljLCBzdHJvbmcpIFVJQ29sb3IgKnRleHRDb2xvcjsKQHByb3BlcnR5IChudWxsYWJsZSwgbm9uYXRvbWljLCBzdHJvbmcpIFVJQ29sb3IgKmNvbnRyb2xUZXh0Q29sb3I7CkBwcm9wZXJ0eSAobnVsbGFibGUsIG5vbmF0b21pYywgc3Ryb25nKSBVSUNvbG9yICpoZWFkZXJUZXh0Q29sb3I7CkBwcm9wZXJ0eSAobnVsbGFibGUsIG5vbmF0b21pYywgc3Ryb25nKSBVSUNvbG9yICppbmxpbmVUZXh0Q29sb3I7CkBwcm9wZXJ0eSAobnVsbGFibGUsIG5vbmF0b21pYywgc3Ryb25nKSBVSUNvbG9yICpjb2RlVGV4dENvbG9yOwpAcHJvcGVydHkgKG51bGxhYmxlLCBub25hdG9taWMsIHN0cm9uZykgVUlDb2xvciAqbGlua1RleHRDb2xvcjsKCi0gKHZvaWQpc2V0Q29sb3JXaXRoQnJpZ2h0VGhlbWU7IC8vLzwgcmVzZXQgdGhlIGNvbG9yIHByb3BlcnRpZXMgdG8gcHJlLWRlZmluZWQgdmFsdWUuCi0gKHZvaWQpc2V0Q29sb3JXaXRoRGFya1RoZW1lOyAgIC8vLzwgcmVzZXQgdGhlIGNvbG9yIHByb3BlcnRpZXMgdG8gcHJlLWRlZmluZWQgdmFsdWUuCg==</text>
@@ -583,9 +585,9 @@
       </register>
     </registers>
     <search>
-      <last-search>resize</last-search>
+      <last-search>right</last-search>
       <last-offset />
-      <last-pattern>resize</last-pattern>
+      <last-pattern>right</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -604,13 +606,13 @@
         <entry>umeng</entry>
         <entry>leanclou</entry>
         <entry>window</entry>
-        <entry>right</entry>
         <entry>30</entry>
         <entry>image</entry>
         <entry>att</entry>
         <entry>w</entry>
         <entry>aligntofont</entry>
         <entry>resize</entry>
+        <entry>right</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
