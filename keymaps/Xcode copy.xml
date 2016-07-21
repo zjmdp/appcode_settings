@@ -25,4 +25,9 @@
   <action id="Refresh" />
   <action id="Run" />
   <action id="SelectNextOccurrence" />
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta period" />
+    <keyboard-shortcut first-keystroke="meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
 </keymap>
