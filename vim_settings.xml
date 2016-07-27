@@ -372,6 +372,13 @@
         <mark key="." line="55" column="47" />
         <mark key="^" line="55" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/Utils.m" timestamp="1469590814307">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+        <mark key="^" line="185" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/OrderInfoCell.m" timestamp="1468308412535">
         <mark key="[" line="102" column="5" />
         <mark key="]" line="102" column="35" />
@@ -697,12 +704,12 @@
         <mark key="." line="107" column="48" />
         <mark key="^" line="107" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1469589270050">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1469590739635">
         <mark key="'" line="95" column="11" />
-        <mark key="[" line="260" column="9" />
-        <mark key="]" line="373" column="0" />
-        <mark key="^" line="590" column="59" />
-        <mark key="." line="260" column="9" />
+        <mark key="[" line="470" column="0" />
+        <mark key="]" line="470" column="0" />
+        <mark key="^" line="469" column="68" />
+        <mark key="." line="470" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerCollectionViewController.m" timestamp="1468227302567">
         <mark key="[" line="126" column="115" />
@@ -769,7 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZSSRichTextEditor/ZSSRichTextEditor.m" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZSSRichTextEditor/ZSSRichTextEditor.m" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="24" column="69" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -869,67 +875,67 @@
       <jump line="459" column="52" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="472" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="95" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="37" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/Utils.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgSW1hZ2VQaWNrZXIgKmltYWdlUGlja2VyOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>toolbarItems</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtBVk9TQ2xvdWQgcmVnaXN0ZXJGb3JSZW1vdGVOb3RpZmljYXRpb25dOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBzZWxmLmltYWdlUGlja2VyID0gW0ltYWdlUGlja2VyIG5ld107Ci8vICAgICAgICAgICAgc2VsZi5pbWFnZVBpY2tlci5kZWxlZ2F0ZSA9IHNlbGY7Ci8vICAgICAgICAgICAgc2VsZi5pbWFnZVBpY2tlci5hbGxvd3NNdWx0aXBsZVNlbGVjdGlvbiA9IFlFUzsKLy8gICAgICAgICAgICBzZWxmLmltYWdlUGlja2VyLm1heGltdW1OdW1iZXJPZlNlbGVjdGlvbiA9IE1BWF9QT1NUX1BIT1RPUzsKLy8gICAgICAgICAgICBbc2VsZi5pbWFnZVBpY2tlciBwcmVzZW50V2l0aFBhcmVudFZDOnNlbGZdOwovLyAgICAgICAgICAgIFtzZWxmIHJ1bk9uTWFpblF1ZXVlV2l0aG91dERlYWRsb2NraW5nQWZ0ZXI6MC4zIGJsb2NrOl57Ci8vICAgICAgICAgICAgICAgIFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gc2V0U3RhdHVzQmFyU3R5bGU6VUlTdGF0dXNCYXJTdHlsZURlZmF1bHRdOwovLyAgICAgICAgICAgIH1dOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>toolbarItems</text>
+        <text>avosc</text>
       </register>
       <register name="/" type="4">
-        <text>register</text>
+        <text>regi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtzZWxmLmJyaWRnZSBjYWxsSGFuZGxlcjpAInNldENvbW1hbmQiIGRhdGE6QHtAImNtZCI6IEAibGlzdCJ9XTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtBVk9TQ2xvdWQgcmVnaXN0ZXJGb3JSZW1vdGVOb3RpZmljYXRpb25dOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFWSW5zdGFsbGF0aW9uICpjdXJyZW50SW5zdGFsbGF0aW9uID0gW0FWSW5zdGFsbGF0aW9uIGN1cnJlbnRJbnN0YWxsYXRpb25dOwogICAgW2N1cnJlbnRJbnN0YWxsYXRpb24gc2V0RGV2aWNlVG9rZW5Gcm9tRGF0YTpkZXZpY2VUb2tlbl07CiAgICBbY3VycmVudEluc3RhbGxhdGlvbiBzYXZlSW5CYWNrZ3JvdW5kXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmJyaWRnZSBjYWxsSGFuZGxlcjpAInF1b3RlIl07Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgW1VNZXNzYWdlIHJlZ2lzdGVyRm9yUmVtb3RlTm90aWZpY2F0aW9uc107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH1dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFthdl0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZUNhbGxiYWNrKEAie2Vycm9yOjAsIGRhdGE6e319Iik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZUNhbGxiYWNrKEAie2Vycm9yOjAsIGRhdGE6e319Iik7CiAgICB9XTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH1dOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmLmJyaWRnZSBjYWxsSGFuZGxlcjpAInF1b3RlIl07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZUNhbGxiYWNrKEAie2Vycm9yOjAsIGRhdGE6e319Iik7Cg==</text>
+        <text encoding="base64">ICAgIH1dOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZUNhbGxiYWNrKEAie2Vycm9yOjAsIGRhdGE6e319Iik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>register</last-search>
+      <last-search>regi</last-search>
       <last-offset />
-      <last-pattern>register</last-pattern>
+      <last-pattern>regi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ac</entry>
         <entry>arti</entry>
         <entry>text</entry>
         <entry>separa</entry>
@@ -949,6 +955,7 @@
         <entry>qu</entry>
         <entry>self.too</entry>
         <entry>register</entry>
+        <entry>regi</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
