@@ -101,8 +101,8 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1468233642719">
-        <mark key="'" line="578" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1469674404179">
+        <mark key="'" line="429" column="85" />
         <mark key="[" line="477" column="23" />
         <mark key="]" line="478" column="43" />
         <mark key="." line="478" column="43" />
@@ -770,7 +770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" />
       <jump line="169" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" />
       <jump line="145" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" />
       <jump line="95" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -870,6 +869,7 @@
       <jump line="512" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="635" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="636" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="429" column="85" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -885,7 +885,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>handlepush</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbQVZBbmFseXRpY3MgYmVnaW5Mb2dQYWdlVmlldzpwYWdlVGl0bGVdOwo=</text>
@@ -922,15 +922,14 @@
       </register>
     </registers>
     <search>
-      <last-search>handlepush</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>handlepush</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>text</entry>
         <entry>separa</entry>
         <entry>feed_click</entry>
         <entry>reporter</entry>
@@ -950,6 +949,7 @@
         <entry>register</entry>
         <entry>regi</entry>
         <entry>handlepush</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
