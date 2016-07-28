@@ -101,10 +101,10 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1469679564241">
-        <mark key="'" line="694" column="8" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1469679659180">
+        <mark key="'" line="417" column="29" />
         <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="39" />
+        <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewControllerLegacy.m" timestamp="1467621002429">
@@ -769,7 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="76" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="157" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="105" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedPostListViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedPostListViewController.m" />
@@ -869,6 +868,7 @@
       <jump line="338" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="163" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="693" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="418" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -893,28 +893,28 @@
         <text encoding="base64">ICAgICAgICBbc2VsZi5uYW1lTGFiZWwgc2V0SGlkZGVuOllFU107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVMYWJlbC5oaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi5uYW1lTGFiZWwgc2V0SGlkZGVuOllFU107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCh5T2Zmc2V0IDw9IDAgJiYgYmFzZVJlZnJlc2hWYy50YWJsZVZpZXcuaXNEcmFnZ2luZykgfHwgIWJhc2VSZWZyZXNoVmMuaXNMb2FkaW5nRGF0YSkgewovLyAgICAgICAgICAgICAgICAgICAgQ0dGbG9hdCBmYWN0b3IgPSAteU9mZnNldCAvIFNQSU5ORVJfVE9UQUxfU0hPV19IRUlHSFQ7Ci8vICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGFscGhhID0gTUlOKDEuMCwgZmFjdG9yKTsKLy8gICAgICAgICAgICAgICAgICAgIHNlbGYuc3Bpbm5lclZpZXcuaGlkZGVuID0gTk87Ci8vICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LmFscGhhID0gYWxwaGE7Ci8vICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LnRyYW5zZm9ybSA9IENHQWZmaW5lVHJhbnNmb3JtUm90YXRlKENHQWZmaW5lVHJhbnNmb3JtSWRlbnRpdHksIGZhY3RvciAqIE1fUEkpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVMYWJlbC5oaWRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKCh5T2Zmc2V0IDw9IDAgJiYgYmFzZVJlZnJlc2hWYy50YWJsZVZpZXcuaXNEcmFnZ2luZykgfHwgIWJhc2VSZWZyZXNoVmMuaXNMb2FkaW5nRGF0YSkgewovLyAgICAgICAgICAgICAgICAgICAgQ0dGbG9hdCBmYWN0b3IgPSAteU9mZnNldCAvIFNQSU5ORVJfVE9UQUxfU0hPV19IRUlHSFQ7Ci8vICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGFscGhhID0gTUlOKDEuMCwgZmFjdG9yKTsKLy8gICAgICAgICAgICAgICAgICAgIHNlbGYuc3Bpbm5lclZpZXcuaGlkZGVuID0gTk87Ci8vICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LmFscGhhID0gYWxwaGE7Ci8vICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LnRyYW5zZm9ybSA9IENHQWZmaW5lVHJhbnNmb3JtUm90YXRlKENHQWZmaW5lVHJhbnNmb3JtSWRlbnRpdHksIGZhY3RvciAqIE1fUEkpOwovLyAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGZhY3RvciA9IC15T2Zmc2V0IC8gU1BJTk5FUl9UT1RBTF9TSE9XX0hFSUdIVDsKICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGFscGhhID0gTUlOKDEuMCwgZmFjdG9yKTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LmhpZGRlbiA9IE5POwogICAgICAgICAgICAgICAgICAgIHNlbGYuc3Bpbm5lclZpZXcuYWxwaGEgPSBhbHBoYTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LnRyYW5zZm9ybSA9IENHQWZmaW5lVHJhbnNmb3JtUm90YXRlKENHQWZmaW5lVHJhbnNmb3JtSWRlbnRpdHksIGZhY3RvciAqIE1fUEkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMU0dMb2dEZWJ1ZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGZhY3RvciA9IC15T2Zmc2V0IC8gU1BJTk5FUl9UT1RBTF9TSE9XX0hFSUdIVDsKICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGFscGhhID0gTUlOKDEuMCwgZmFjdG9yKTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LmhpZGRlbiA9IE5POwogICAgICAgICAgICAgICAgICAgIHNlbGYuc3Bpbm5lclZpZXcuYWxwaGEgPSBhbHBoYTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LnRyYW5zZm9ybSA9IENHQWZmaW5lVHJhbnNmb3JtUm90YXRlKENHQWZmaW5lVHJhbnNmb3JtSWRlbnRpdHksIGZhY3RvciAqIE1fUEkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMU0dMb2dEZWJ1ZygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExTR0xvZ0RlYnVnKEAic3RvcCBzcGlubmVyIGFuaW1hdGluZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
