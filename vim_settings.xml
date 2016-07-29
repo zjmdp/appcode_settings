@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1469766594864">
-        <mark key="'" line="226" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1469770887072">
+        <mark key="'" line="42" column="62" />
       </file>
       <file name="/a.dummy" timestamp="1469698972091">
         <mark key="[" line="0" column="0" />
@@ -757,7 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedPostListViewController.m" />
       <jump line="103" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedPostListViewController.m" />
       <jump line="92" column="78" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="225" column="72" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
@@ -809,7 +808,6 @@
       <jump line="49" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="74" column="38" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="79" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="80" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="63" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -857,6 +855,8 @@
       <jump line="418" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="64" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.h" />
       <jump line="498" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
+      <jump line="80" column="60" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="42" column="62" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -872,7 +872,7 @@
         <text>为</text>
       </register>
       <register name="/" type="4">
-        <text>lastcontent</text>
+        <text>notif</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgoeU9mZnNldCA8PSAwICYmIGJhc2VSZWZyZXNoVmMudGFibGVWaWV3LmlzRHJhZ2dpbmcpIHx8ICFiYXNlUmVmcmVzaFZjLmlzTG9hZGluZ0RhdGEpIHsKICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGZhY3RvciA9IC15T2Zmc2V0IC8gU1BJTk5FUl9UT1RBTF9TSE9XX0hFSUdIVDsKICAgICAgICAgICAgICAgICAgICBDR0Zsb2F0IGFscGhhID0gTUlOKDEuMCwgZmFjdG9yKTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LmhpZGRlbiA9IE5POwogICAgICAgICAgICAgICAgICAgIHNlbGYuc3Bpbm5lclZpZXcuYWxwaGEgPSBhbHBoYTsKICAgICAgICAgICAgICAgICAgICBzZWxmLnNwaW5uZXJWaWV3LnRyYW5zZm9ybSA9IENHQWZmaW5lVHJhbnNmb3JtUm90YXRlKENHQWZmaW5lVHJhbnNmb3JtSWRlbnRpdHksIGZhY3RvciAqIE1fUEkpOwogICAgICAgICAgICAgICAgfQo=</text>
@@ -909,15 +909,14 @@
       </register>
     </registers>
     <search>
-      <last-search>lastcontent</last-search>
+      <last-search>notif</last-search>
       <last-offset />
-      <last-pattern>lastcontent</last-pattern>
+      <last-pattern>notif</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>camera</entry>
         <entry>comment</entry>
         <entry>rep[orter</entry>
         <entry>tag</entry>
@@ -937,6 +936,7 @@
         <entry>islo</entry>
         <entry>isloa</entry>
         <entry>lastcontent</entry>
+        <entry>notif</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
