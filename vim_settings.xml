@@ -206,8 +206,8 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" timestamp="1468233859000">
-        <mark key="'" line="183" column="6" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" timestamp="1470128609512">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="187" column="0" />
         <mark key="]" line="187" column="0" />
         <mark key="^" line="92" column="44" />
@@ -807,9 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
-      <jump line="151" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
-      <jump line="272" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="459" column="52" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="472" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="95" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
@@ -907,6 +904,9 @@
       <jump line="279" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="112" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="263" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="70" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
+      <jump line="74" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -922,7 +922,7 @@
         <text>self.feed.introduction</text>
       </register>
       <register name="/" type="4">
-        <text>self.tableVi</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgW2NlbGwgY29uZmlndXJlQ2VsbDpzZWxmLmZlZWQuaW50cm9kdWN0aW9uXTsK</text>
@@ -959,16 +959,14 @@
       </register>
     </registers>
     <search>
-      <last-search>self.tableVi</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>self.tableVi</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>right</entry>
         <entry>qu</entry>
         <entry>self.too</entry>
         <entry>register</entry>
@@ -987,6 +985,8 @@
         <entry>troop</entry>
         <entry>pop</entry>
         <entry>self.tableVi</entry>
+        <entry>topic</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
