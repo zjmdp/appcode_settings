@@ -358,8 +358,8 @@
         <mark key="^" line="9" column="61" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1470202842114">
-        <mark key="'" line="646" column="44" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1470213592694">
+        <mark key="'" line="570" column="21" />
         <mark key="[" line="772" column="0" />
         <mark key="]" line="784" column="86" />
       </file>
@@ -895,8 +895,6 @@
       <jump line="70" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
       <jump line="74" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.m" />
-      <jump line="66" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="570" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="646" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="13" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/AdViewController.m" />
       <jump line="26" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/FLAnimatedImage/FLAnimatedImageView.h" />
@@ -918,6 +916,8 @@
       <jump line="562" column="60" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="127" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="360" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
+      <jump line="66" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="570" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -933,7 +933,7 @@
         <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>goac</text>
+        <text>rightba</text>
       </register>
       <register name="0" type="4">
         <text>//                                            destructiveButtonTitle:</text>
@@ -970,15 +970,14 @@
       </register>
     </registers>
     <search>
-      <last-search>goac</last-search>
+      <last-search>rightba</last-search>
       <last-offset />
-      <last-pattern>goac</last-pattern>
+      <last-pattern>rightba</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>notif</entry>
         <entry>noti</entry>
         <entry>close</entry>
         <entry>color</entry>
@@ -989,7 +988,6 @@
         <entry>self.tableVi</entry>
         <entry>topic</entry>
         <entry>tag</entry>
-        <entry>right</entry>
         <entry>rightb</entry>
         <entry>actions</entry>
         <entry>uiactionsh</entry>
@@ -998,6 +996,8 @@
         <entry>uiac</entry>
         <entry encoding="base64">Pnc=</entry>
         <entry>goac</entry>
+        <entry>right</entry>
+        <entry>rightba</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
