@@ -179,10 +179,10 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" timestamp="1470023728392">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="148" column="7" />
-        <mark key="]" line="148" column="7" />
-        <mark key="." line="148" column="7" />
-        <mark key="^" line="148" column="7" />
+        <mark key="[" line="192" column="7" />
+        <mark key="]" line="192" column="7" />
+        <mark key="." line="192" column="7" />
+        <mark key="^" line="192" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/TextQuoteCollectionCell.h" timestamp="1469440817790">
         <mark key="[" line="9" column="37" />
@@ -283,12 +283,11 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="126" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470279045069">
-        <mark key="'" line="199" column="26" />
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="69" />
-        <mark key="^" line="41" column="69" />
-        <mark key="." line="41" column="69" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470279733049">
+        <mark key="'" line="199" column="32" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" timestamp="1470207583424">
         <mark key="'" line="360" column="0" />
@@ -831,7 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="86" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="88" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="21" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
@@ -931,13 +929,14 @@
       <jump line="96" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="97" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="199" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
+      <jump line="204" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgSW1hZ2VQaWNrZXIgKmltYWdlUGlja2VyOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>我们需要获取你的地理位置, 以便我们可以提供更多更精彩的本地活动。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBzZWxmLmltYWdlUGlja2VyID0gW0ltYWdlUGlja2VyIG5ld107Ci8vICAgICAgICAgICAgc2VsZi5pbWFnZVBpY2tlci5kZWxlZ2F0ZSA9IHNlbGY7Ci8vICAgICAgICAgICAgc2VsZi5pbWFnZVBpY2tlci5hbGxvd3NNdWx0aXBsZVNlbGVjdGlvbiA9IFlFUzsKLy8gICAgICAgICAgICBzZWxmLmltYWdlUGlja2VyLm1heGltdW1OdW1iZXJPZlNlbGVjdGlvbiA9IE1BWF9QT1NUX1BIT1RPUzsKLy8gICAgICAgICAgICBbc2VsZi5pbWFnZVBpY2tlciBwcmVzZW50V2l0aFBhcmVudFZDOnNlbGZdOwovLyAgICAgICAgICAgIFtzZWxmIHJ1bk9uTWFpblF1ZXVlV2l0aG91dERlYWRsb2NraW5nQWZ0ZXI6MC4zIGJsb2NrOl57Ci8vICAgICAgICAgICAgICAgIFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gc2V0U3RhdHVzQmFyU3R5bGU6VUlTdGF0dXNCYXJTdHlsZURlZmF1bHRdOwovLyAgICAgICAgICAgIH1dOwo=</text>
@@ -946,52 +945,51 @@
         <text>我们需要获取你的地理位置, 以便我们可以提供更多更精彩的本地活动。</text>
       </register>
       <register name="/" type="4">
-        <text>badge</text>
+        <text encoding="base64">Pj4+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVJVXNlck5vdGlmaWNhdGlvblNldHRpbmdzICpncmFudGVkU2V0dGluZ3MgPSBbW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dIGN1cnJlbnRVc2VyTm90aWZpY2F0aW9uU2V0dGluZ3NdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KyAoQk9PTClpc1B1c2hOb3REZXRlcm1haW5kewogICAgVUlVc2VyTm90aWZpY2F0aW9uU2V0dGluZ3MgKmdyYW50ZWRTZXR0aW5ncyA9IFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gY3VycmVudFVzZXJOb3RpZmljYXRpb25TZXR0aW5nc107CiAgICByZXR1cm4gZ3JhbnRlZFNldHRpbmdzLnR5cGVzID09IG5pbDsKfQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiJsb2NhdGlvbi1zZXJ2aWNlLmFsbG93X2dwc19hbGVydF9kZXNjIj0i5ZGK6K+J5L2g6ZmE6L+R5pyA5aW9546p55qE5rS75YqoIjsKImxvY2F0aW9uLXNlcnZpY2UuYWxsb3dfZ3BzX2FsZXJ0X3RpdGxlIj0i6K+35omT5byAR1BT5a6a5L2NIjsKPT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KyAoQk9PTClpc1B1c2hOb3REZXRlcm1haW5kewogICAgVUlVc2VyTm90aWZpY2F0aW9uU2V0dGluZ3MgKmdyYW50ZWRTZXR0aW5ncyA9IFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gY3VycmVudFVzZXJOb3RpZmljYXRpb25TZXR0aW5nc107CiAgICByZXR1cm4gZ3JhbnRlZFNldHRpbmdzLnR5cGVzID09IG5pbDsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihbeCBib29sVmFsdWVdKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25zdGVyU3R5bGVEaWFsb2cgKmRpYWxvZyA9IFtbTW9uc3RlclN0eWxlRGlhbG9nIGFsbG9jXSBpbml0V2l0aFRpdGxlOm5pbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6TlNMb2NhbGl6ZWRTdHJpbmcoQCJwdXNoLXNldHRpbmcuanVtcF9oaW50IiwgbmlsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6TW9uc3RlclN0eWxlRGlhbG9nVHlwZURlZmF1bHQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhbmNlbEJ1dHRvblRpdGxlOk5TTG9jYWxpemVkU3RyaW5nKEAic3lzdGVtLmNhbmNlbCIsIG5pbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlybUJ1dHRvblRpdGxlOk5TTG9jYWxpemVkU3RyaW5nKEAic3lzdGVtLmNvbmZpcm0iLCBuaWwpXTsKICAgICAgICAgICAgICAgICAgICBbZGlhbG9nLnJhY19idXR0b25DbGlja2VkU2lnbmFsIHN1YnNjcmliZU5leHQ6XihpZCB4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChbeCBpbnRlZ2VyVmFsdWVdID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtSZXBvcnRlciBldmVudDprTmV3RXZlbnRKdW1wU3lzdGVtUHVzaFNldHRpbmddOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgTlNVUkwgKmFwcFNldHRpbmdzID0gW05TVVJMIFVSTFdpdGhTdHJpbmc6VUlBcHBsaWNhdGlvbk9wZW5TZXR0aW5nc1VSTFN0cmluZ107CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dIG9wZW5VUkw6YXBwU2V0dGluZ3NdOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfV07CiAgICAgICAgICAgICAgICAgICAgW2RpYWxvZyBzaG93XTsK</text>
+        <text encoding="base64">ICAgICAgICBpZihbeCBib29sVmFsdWVdKXsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>badge</last-search>
+      <last-search encoding="base64">Pj4+</last-search>
       <last-offset />
-      <last-pattern>badge</last-pattern>
+      <last-pattern encoding="base64">Pj4+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.tableVi</entry>
         <entry>topic</entry>
         <entry>tag</entry>
         <entry>rightb</entry>
@@ -1011,6 +1009,7 @@
         <entry>invi</entry>
         <entry>跳转</entry>
         <entry>badge</entry>
+        <entry encoding="base64">Pj4+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
