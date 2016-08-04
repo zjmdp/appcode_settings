@@ -96,8 +96,8 @@
         <mark key="^" line="17" column="43" />
         <mark key="." line="17" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1470214948408">
-        <mark key="'" line="152" column="16" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" timestamp="1470277733559">
+        <mark key="'" line="97" column="30" />
         <mark key="[" line="347" column="15" />
         <mark key="]" line="348" column="30" />
         <mark key="." line="348" column="30" />
@@ -190,7 +190,7 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1470227222768">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1470278081157">
         <mark key="[" line="40" column="65" />
         <mark key="]" line="40" column="80" />
         <mark key="." line="40" column="80" />
@@ -783,6 +783,12 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" timestamp="1469525131238">
         <mark key="'" line="145" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/MobileVerifyViewController.m" timestamp="1470202435545">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="65" />
+        <mark key="." line="177" column="62" />
+        <mark key="^" line="177" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1470207148608">
         <mark key="[" line="253" column="0" />
         <mark key="]" line="253" column="0" />
@@ -825,12 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="163" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="154" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
-      <jump line="79" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
-      <jump line="81" column="56" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="84" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="86" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
       <jump line="88" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/LCActionSheet/LCActionSheet.h" />
@@ -925,6 +925,12 @@
       <jump line="132" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" />
       <jump line="355" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
       <jump line="199" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
+      <jump line="28" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="38" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="43" column="61" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="81" column="17" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="96" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
+      <jump line="97" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -940,7 +946,7 @@
         <text>的</text>
       </register>
       <register name="/" type="4">
-        <text>跳转</text>
+        <text>badge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFVJVXNlck5vdGlmaWNhdGlvblNldHRpbmdzICpncmFudGVkU2V0dGluZ3MgPSBbW1VJQXBwbGljYXRpb24gc2hhcmVkQXBwbGljYXRpb25dIGN1cnJlbnRVc2VyTm90aWZpY2F0aW9uU2V0dGluZ3NdOwo=</text>
@@ -977,15 +983,14 @@
       </register>
     </registers>
     <search>
-      <last-search>跳转</last-search>
+      <last-search>badge</last-search>
       <last-offset />
-      <last-pattern>跳转</last-pattern>
+      <last-pattern>badge</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pop</entry>
         <entry>self.tableVi</entry>
         <entry>topic</entry>
         <entry>tag</entry>
@@ -1005,6 +1010,7 @@
         <entry>jsbad</entry>
         <entry>invi</entry>
         <entry>跳转</entry>
+        <entry>badge</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
