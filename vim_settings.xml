@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1470535182005">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1470545014294">
+        <mark key="'" line="17" column="9" />
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="379" column="0" />
+        <mark key="." line="379" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1470537291844">
         <mark key="[" line="0" column="0" />
@@ -118,7 +118,8 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1470421184839">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1470545029997">
+        <mark key="'" line="518" column="0" />
         <mark key="[" line="518" column="28" />
         <mark key="]" line="518" column="38" />
         <mark key="^" line="518" column="38" />
@@ -219,7 +220,7 @@
         <mark key="^" line="45" column="73" />
         <mark key="." line="45" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470537319140">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470545028053">
         <mark key="'" line="487" column="0" />
         <mark key="[" line="517" column="28" />
         <mark key="]" line="517" column="31" />
@@ -285,9 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="531" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="96" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="422" column="42" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="539" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="460" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="1035" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
@@ -338,7 +336,6 @@
       <jump line="331" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="336" column="66" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="17" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
       <jump line="66" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
       <jump line="130" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -385,6 +382,10 @@
       <jump line="76" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/ArticleAuthorCell.m" />
       <jump line="10" column="29" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ArticleActionBarItem.m" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ArticleActionBarItem.m" />
+      <jump line="29" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="362" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="17" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="518" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -400,7 +401,7 @@
         <text>self.post.shareInfo.title</text>
       </register>
       <register name="/" type="4">
-        <text>avatar</text>
+        <text>GoAc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgVUlJbWFnZVZpZXcgKmltYWdlVmlldzsK</text>
@@ -437,9 +438,9 @@
       </register>
     </registers>
     <search>
-      <last-search>avatar</last-search>
+      <last-search>GoAc</last-search>
       <last-offset />
-      <last-pattern>avatar</last-pattern>
+      <last-pattern>GoAc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -455,9 +456,7 @@
         <entry>GoAction</entry>
         <entry>rightBar</entry>
         <entry>show</entry>
-        <entry>goac</entry>
         <entry>GoAC</entry>
-        <entry>GoAc</entry>
         <entry>collect</entry>
         <entry>time</entry>
         <entry>regi</entry>
@@ -465,6 +464,8 @@
         <entry>separa</entry>
         <entry>followButton</entry>
         <entry>avatar</entry>
+        <entry>goac</entry>
+        <entry>GoAc</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
