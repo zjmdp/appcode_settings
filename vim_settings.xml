@@ -6,9 +6,10 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1470639874895">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470385730372">
+      <file name="/a.dummy" timestamp="1470650120767">
         <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/BannerCell.m" timestamp="1469589092725">
         <mark key="[" line="35" column="0" />
@@ -321,12 +322,12 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="126" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470385338810">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1470650216353">
         <mark key="'" line="513" column="0" />
-        <mark key="[" line="514" column="21" />
-        <mark key="]" line="514" column="22" />
-        <mark key="." line="514" column="22" />
-        <mark key="^" line="514" column="22" />
+        <mark key="[" line="463" column="46" />
+        <mark key="]" line="463" column="46" />
+        <mark key="." line="463" column="46" />
+        <mark key="^" line="463" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/WishListViewController.m" timestamp="1470321335961">
         <mark key="[" line="118" column="0" />
@@ -533,12 +534,17 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1470385331928">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/SearchCenterViewController.m" timestamp="1470650145500">
+        <mark key="[" line="187" column="71" />
+        <mark key="]" line="187" column="71" />
+        <mark key="." line="187" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1470650162913">
         <mark key="'" line="515" column="0" />
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="26" />
-        <mark key="." line="516" column="25" />
-        <mark key="^" line="516" column="26" />
+        <mark key="[" line="462" column="46" />
+        <mark key="]" line="462" column="46" />
+        <mark key="." line="462" column="46" />
+        <mark key="^" line="462" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/MonsterStyleDialog.m" timestamp="1469600570042">
         <mark key="[" line="61" column="19" />
@@ -966,14 +972,14 @@
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrUG9zdFJlcGx5Q2VsbElkZW50aWZpZXIgPSBAIlBvc3RSZXBseUNlbGwiOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYgKFZBTFVFREFSUkFZKHNlbGYucG9zdC50YWdzKSkgewogICAgICAgIHNlbGYudGFnQ29sbGVjdGlvblZpZXdIZWlnaHQuY29uc3RhbnQgPSAyMjsKICAgICAgICBbc2VsZi50YWdDb2xsZWN0aW9uVmlldyByZWxvYWREYXRhXTsKICAgIH1lbHNlewogICAgICAgIHNlbGYudGFnQ29sbGVjdGlvblZpZXdIZWlnaHQuY29uc3RhbnQgPSAwOwogICAgICAgIFtzZWxmLnRhZ0NvbGxlY3Rpb25WaWV3IHJlbG9hZERhdGFdOwogICAgfQogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>图</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpwb3N0UmVwbHkgPSBbVUlOaWIgbmliV2l0aE5pYk5hbWU6a1Bvc3RSZXBseUNlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RSZXBseSBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtQb3N0UmVwbHlDZWxsSWRlbnRpZmllcl07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>图</text>
       </register>
       <register name="/" type="4">
         <text>regis</text>
