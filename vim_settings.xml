@@ -213,12 +213,12 @@
         <mark key="." line="9" column="59" />
         <mark key="^" line="9" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1470715506917">
-        <mark key="'" line="278" column="4" />
-        <mark key="[" line="215" column="86" />
-        <mark key="]" line="218" column="2" />
-        <mark key="." line="218" column="2" />
-        <mark key="^" line="218" column="2" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1470716745449">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="223" column="57" />
+        <mark key="]" line="223" column="61" />
+        <mark key="." line="223" column="61" />
+        <mark key="^" line="223" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -900,8 +900,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
-      <jump line="358" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="395" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
       <jump line="387" column="100" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="18" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -1000,67 +998,68 @@
       <jump line="475" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PostDetailViewController.m" />
       <jump line="274" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="221" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrUG9zdFJlcGx5Q2VsbElkZW50aWZpZXIgPSBAIlBvc3RSZXBseUNlbGwiOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Draft</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpwb3N0UmVwbHkgPSBbVUlOaWIgbmliV2l0aE5pYk5hbWU6a1Bvc3RSZXBseUNlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RSZXBseSBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtQb3N0UmVwbHlDZWxsSWRlbnRpZmllcl07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Draft</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text>post_send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2hfYWZ0ZXIoZGlzcGF0Y2hfdGltZShESVNQQVRDSF9USU1FX05PVywgKGludDY0X3QpKDEgKiBOU0VDX1BFUl9TRUMpKSwgZGlzcGF0Y2hfZ2V0X21haW5fcXVldWUoKSwgXnsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtVdGlscyBzaG93UHVzaEFsZXJ0V2l0aEludGVydmFsOjMgKiAyNCAqIDYwICogNjAgdGl0bGU6bmlsIG1lc3NhZ2U6bmlsXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRBcnRpY2xlRGVsZXRlRHJhZnQgICAgICAgICAgICA9IEAiYXJ0aWNsZV9kZWxldGVfZHJhZnQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYgcnVuT25NYWluUXVldWVXaXRob3V0RGVhZGxvY2tpbmdBZnRlcjoxLiBibG9jazpeewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW1V0aWxzIHNob3dQdXNoQWxlcnRXaXRoSW50ZXJ2YWw6MCB0aXRsZTpuaWwgbWVzc2FnZTpMUyhAImZlZWQtZGV0YWlsLm9vc19zdXBwbHlfaGludCIpXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfV07Cg==</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRBcnRpY2xlQ29udGludWVFZGl0RHJhZnQgICAgICA9IEAiYXJ0aWNsZV9kZWxldGVfZHJhZnQiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYgcnVuT25NYWluUXVldWVXaXRob3V0RGVhZGxvY2tpbmdBZnRlcjoxLiBibG9jazpeewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW1V0aWxzIHNob3dQdXNoQWxlcnRXaXRoSW50ZXJ2YWw6MCB0aXRsZTpuaWwgbWVzc2FnZTpMUyhAImZlZWQtZGV0YWlsLm9vc19zdXBwbHlfaGludCIpXTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGEK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5uYXZpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5uYXZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBVU0hfCg==</text>
+        <text encoding="base64">ICAgIEEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>publish</last-search>
+      <last-search>post_send</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern>post_send</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>showac</entry>
         <entry>more</entry>
         <entry>liked</entry>
         <entry>article</entry>
@@ -1080,6 +1079,7 @@
         <entry>guideview2</entry>
         <entry>24</entry>
         <entry>publish</entry>
+        <entry>post_send</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
