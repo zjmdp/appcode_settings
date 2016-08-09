@@ -9,7 +9,7 @@
         <mark key="]" line="221" column="27" />
         <mark key="." line="219" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470721709247">
+      <file name="/a.dummy" timestamp="1470728703337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -392,7 +392,8 @@
         <mark key="^" line="50" column="54" />
         <mark key="." line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/OrderInfoCell.m" timestamp="1470207401336">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/OrderInfoCell.m" timestamp="1470727897278">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="11" />
         <mark key="]" line="95" column="26" />
         <mark key="^" line="95" column="26" />
@@ -708,8 +709,8 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1470717670447">
-        <mark key="'" line="51" column="46" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1470728244358">
+        <mark key="'" line="396" column="14" />
         <mark key="[" line="368" column="0" />
         <mark key="]" line="368" column="0" />
         <mark key="^" line="307" column="54" />
@@ -903,10 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="521" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
-      <jump line="480" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
-      <jump line="530" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="622" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="18" column="115" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="514" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
       <jump line="515" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
@@ -1003,6 +1000,10 @@
       <jump line="324" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="21" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="147" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/OrderInfoCell.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/OrderInfoCell.m" />
+      <jump line="390" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="396" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1018,7 +1019,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text>chatButton</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoX2FmdGVyKGRpc3BhdGNoX3RpbWUoRElTUEFUQ0hfVElNRV9OT1csIChpbnQ2NF90KSgxICogTlNFQ19QRVJfU0VDKSksIGRpc3BhdGNoX2dldF9tYWluX3F1ZXVlKCksIF57CiAgICAgICAgW1V0aWxzIHNob3dQdXNoQWxlcnRXaXRoSW50ZXJ2YWw6MjQgKiA2MCAqIDYwIHRpdGxlOm5pbCBtZXNzYWdlOk5TTG9jYWxpemVkU3RyaW5nKEAicG9zdC5wdXNoX21lc3NhZ2UiLCBuaWwpXTsKICAgIH0pOwo=</text>
@@ -1055,16 +1056,14 @@
       </register>
     </registers>
     <search>
-      <last-search>publish</last-search>
+      <last-search>chatButton</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern>chatButton</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
-        <entry>url</entry>
         <entry>handleopen</entry>
         <entry>liekBar</entry>
         <entry>callHan</entry>
@@ -1083,6 +1082,8 @@
         <entry>delete</entry>
         <entry>goaction</entry>
         <entry>publish</entry>
+        <entry>share</entry>
+        <entry>chatButton</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
