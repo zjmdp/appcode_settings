@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1471266426156">
-        <mark key="'" line="160" column="10" />
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
-        <mark key="^" line="38" column="37" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1471268815030">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="247" column="22" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="236" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1471264286139">
         <mark key="[" line="0" column="0" />
@@ -864,6 +864,7 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="42" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/TOCropViewController/TOCropViewController.h" timestamp="1471267822038" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/SVWebViewController/SVWebViewController/SVWebViewController.h" timestamp="1469105391494">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="13" column="56" />
@@ -995,9 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" />
-      <jump line="223" column="63" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.m" />
-      <jump line="182" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.m" />
       <jump line="181" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.m" />
       <jump line="242" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.h" />
       <jump line="66" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
@@ -1086,7 +1084,6 @@
       <jump line="21" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="247" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="623" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="245" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="134" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -1095,13 +1092,17 @@
       <jump line="621" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="719" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="157" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="481" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="467" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="118" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TOCropViewControllerDelegate</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>UIImageView</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaWYoc2VsZi51cGxvYWRlZENvdmVyICE9IG5pbCl7CiAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBvc3QuaW1hZ2VVcmxzID0gQFtzZWxmLnVwbG9hZGVkQ292ZXJdOwogICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
@@ -1110,55 +1111,54 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>UIImageView</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>tocro</text>
+        <text>publish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgVUlJbWFnZVZpZXcgKmNvdmVySW1hZ2VWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgaWYoc2VsZi51cGxvYWRlZENvdmVyICE9IG5pbCl7CiAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBvc3QuaW1hZ2VVcmxzID0gQFtzZWxmLnVwbG9hZGVkQ292ZXJdOwogICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3IHJlbW92ZUZyb21TdXBlcnZpZXddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHBvc3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtzZWxmIHVwbG9hZENvdmVyOmNvdmVdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVJQnV0dG9uICogZGVsZXRlQnV0dG9uID0gW1VJQnV0dG9uIG5ld107CiAgICBbZGVsZXRlQnV0dG9uIHNldEltYWdlOltVSUltYWdlIGltYWdlTmFtZWQ6QCJpY29uX2Nsb3NlIl0gZm9yU3RhdGU6VUlDb250cm9sU3RhdGVOb3JtYWxdOwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdmVyICpjb3ZlciA9IHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgIFtzZWxmIHVwbG9hZENvdmVyOiA9IF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYgY292ZXJmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5zaG93QWN0aXZpdHlTaGVldE9uRG9uZSA9IFlFUzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgW3NlbGYgb25Db3ZlckFkZGVkOltpbWFnZXMgZmlyc3RPYmplY3RdXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Vic2MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tocro</last-search>
+      <last-search>publish</last-search>
       <last-offset />
-      <last-pattern>tocro</last-pattern>
+      <last-pattern>publish</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all_sub</entry>
         <entry>guide</entry>
         <entry>guid</entry>
         <entry>gud</entry>
@@ -1178,6 +1178,7 @@
         <entry>300</entry>
         <entry>400</entry>
         <entry>tocro</entry>
+        <entry>publish</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
