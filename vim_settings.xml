@@ -308,6 +308,12 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="20" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" timestamp="1471250190898">
+        <mark key="'" line="93" column="25" />
+        <mark key="]" line="93" column="58" />
+        <mark key="." line="93" column="58" />
+        <mark key="^" line="93" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/ArticleCell.h" timestamp="1470315649736">
         <mark key="[" line="24" column="31" />
         <mark key="]" line="24" column="49" />
@@ -381,6 +387,13 @@
         <mark key="]" line="520" column="33" />
         <mark key="." line="520" column="33" />
         <mark key="^" line="520" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" timestamp="1471250144481">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="12" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleListViewController.m" timestamp="1470799543912">
         <mark key="[" line="15" column="35" />
@@ -968,11 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="396" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="520" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
-      <jump line="519" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" />
-      <jump line="89" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="924" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="566" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="33" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
@@ -1068,67 +1076,71 @@
       <jump line="27" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
       <jump line="83" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
+      <jump line="21" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" />
+      <jump line="20" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" />
+      <jump line="54" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
+      <jump line="93" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrUG9zdFJlcGx5Q2VsbElkZW50aWZpZXIgPSBAIlBvc3RSZXBseUNlbGwiOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGVsZQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIFVJTmliICpwb3N0UmVwbHkgPSBbVUlOaWIgbmliV2l0aE5pYk5hbWU6a1Bvc3RSZXBseUNlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RSZXBseSBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtQb3N0UmVwbHlDZWxsSWRlbnRpZmllcl07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FONT_SMALL</text>
+        <text>Controller</text>
       </register>
       <register name="/" type="4">
-        <text>delegate</text>
+        <text>self.dele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhpbWFnZVZpZXcuc3VwZXJ2aWV3KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZGVsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZGNvdgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLmRlbGVnYXRlIGltYWdlUGlja2VyQ29udHJvbGxlcjppbWFnZVBpY2tlckNvbnRyb2xsZXIgZGlkRmluaXNoUGlja2luZ0ltYWdlczpzZWxlY3RlZEltYWdlc107Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFthZGRCdXR0b24gc2V0VGl0bGU6PCMoTlNTdHJpbmcgKil0aXRsZSM+IGZvclN0YXRlOjwjKFVJQ29udHJvbFN0YXRlKXN0YXRlIz5dOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LSAoVUlWaWV3Q29udHJvbGxlciAqKWdldEN1cnJlbnRQaWNrZXJDb250cm9sbGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LSAoVUlWaWV3Q29udHJvbGxlciAqKWdldEN1cnJlbnRQaWNrZXJDb250cm9sbGVyIHsKfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1ha2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFkZGNvdgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIFthZGRCdXR0b24gc2V0VGl0bGU6PCMoTlNTdHJpbmcgKil0aXRsZSM+IGZvclN0YXRlOjwjKFVJQ29udHJvbFN0YXRlKXN0YXRlIz5dOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtzZWxmIHNldENlbnRlcl07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>delegate</last-search>
+      <last-search>self.dele</last-search>
       <last-offset />
-      <last-pattern>delegate</last-pattern>
+      <last-pattern>self.dele</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buildact</entry>
         <entry>goaction</entry>
         <entry>delete</entry>
         <entry>save_dra</entry>
@@ -1148,6 +1160,7 @@
         <entry>insert</entry>
         <entry>reload</entry>
         <entry>delegate</entry>
+        <entry>self.dele</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
