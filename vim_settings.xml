@@ -752,12 +752,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471352840935">
-        <mark key="'" line="269" column="82" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="225" column="68" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471357185193">
+        <mark key="'" line="172" column="6" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+        <mark key="^" line="226" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell2.m" timestamp="1470801797151">
         <mark key="[" line="8" column="29" />
@@ -1053,7 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" />
       <jump line="20" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" />
       <jump line="54" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
@@ -1153,6 +1152,7 @@
       <jump line="812" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="195" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
       <jump line="12" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
+      <jump line="172" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1171,7 +1171,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>invita</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2RlZmluZSBJTlZJVEFUSU9OX1BBVEggICAgICAgICAgICAgICAgIEAiL3YyL2ludml0YXRpb25zIgo=</text>
@@ -1208,15 +1208,14 @@
       </register>
     </registers>
     <search>
-      <last-search>invita</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>invita</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>self.postView</entry>
         <entry>goactionsh</entry>
         <entry>self.postV</entry>
         <entry>launch</entry>
@@ -1236,6 +1235,7 @@
         <entry>showhu</entry>
         <entry>invi</entry>
         <entry>invita</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
