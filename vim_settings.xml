@@ -749,12 +749,11 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471341293751">
-        <mark key="'" line="227" column="14" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="62" />
-        <mark key="." line="10" column="62" />
-        <mark key="^" line="10" column="62" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471348826080">
+        <mark key="'" line="229" column="14" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell2.m" timestamp="1470801797151">
         <mark key="[" line="8" column="29" />
@@ -1151,8 +1150,8 @@
       <register name="a" type="4">
         <text>TOCropViewControllerDelegate</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
@@ -1170,31 +1169,31 @@
         <text encoding="base64">ICAgIFtJUUtleWJvYXJkTWFuYWdlciBzaGFyZWRNYW5hZ2VyXS5lbmFibGUgPSBZRVM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZiBzZW5kQ29tbWVudF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTk87CiAgICB9CiAgICByZXR1cm4gWUVTOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmIGJ1aWxkSW5wdXRUb29sQmFyXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChbdGV4dEZpZWxkIGlzRXF1YWw6c2VsZi5pbnB1dFRleHRGaWVsZF0pIHsKICAgICAgICBpZiAoVkFMVUVEU1RSSU5HKHRleHRGaWVsZC50ZXh0KSkgewogICAgICAgICAgICBbdGV4dEZpZWxkIHJlc2lnbkZpcnN0UmVzcG9uZGVyXTsKICAgICAgICB9ZWxzZXsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZiBzZW5kQ29tbWVudF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTk87CiAgICB9CiAgICByZXR1cm4gWUVTOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcmVzZXRTZW5kQ29tbWVudENvbnRleHRdOwo=</text>
+        <text encoding="base64">ICAgIGlmIChbdGV4dEZpZWxkIGlzRXF1YWw6c2VsZi5pbnB1dFRleHRGaWVsZF0pIHsKICAgICAgICBpZiAoVkFMVUVEU1RSSU5HKHRleHRGaWVsZC50ZXh0KSkgewogICAgICAgICAgICBbdGV4dEZpZWxkIHJlc2lnbkZpcnN0UmVzcG9uZGVyXTsKICAgICAgICB9ZWxzZXsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuaW5wdXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmlucHV0VGV4dEZpZWxkLnRleHQgPSBAIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgcmVzZXRTZW5kQ29tbWVudENvbnRleHRdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFtzZWxmIHNlbmRDb21tZW50XTsK</text>
+        <text encoding="base64">ICAgIHNlbGYuaW5wdXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmlucHV0VGV4dEZpZWxkLnRleHQgPSBAIiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
