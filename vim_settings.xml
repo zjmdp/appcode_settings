@@ -670,12 +670,12 @@
         <mark key="^" line="514" column="59" />
         <mark key="." line="514" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471335848534">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="57" column="105" />
-        <mark key="]" line="57" column="109" />
-        <mark key="." line="57" column="109" />
-        <mark key="^" line="57" column="109" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471338794095">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="64" column="42" />
+        <mark key="]" line="64" column="42" />
+        <mark key="." line="64" column="42" />
+        <mark key="^" line="64" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.h" timestamp="1471333941367">
         <mark key="'" line="0" column="0" />
@@ -743,10 +743,10 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471337759575">
-        <mark key="[" line="128" column="33" />
-        <mark key="]" line="128" column="43" />
-        <mark key="." line="128" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471338560024">
+        <mark key="[" line="29" column="44" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="44" />
         <mark key="^" line="128" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell2.m" timestamp="1470801797151">
@@ -1039,8 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="464" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
-      <jump line="4" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/main.js" />
       <jump line="88" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="134" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
@@ -1139,13 +1137,15 @@
       <jump line="117" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="126" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="129" column="71" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
+      <jump line="13" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>TOCropViewControllerDelegate</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SYSTEM_BLACK</text>
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
@@ -1154,13 +1154,13 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>SYSTEM_BLACK</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>view_all</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Imludml0YXRpb24tbGlzdC5hZGRfcGxhY2Vob2xkZXIiID0gIueugOWNleS7i+e7jeiHquW3se+8jOW5tuivtOivtOS9oOeahOe6puS8tOimgeaxguWQpyI7Cg==</text>
+      <register name="0" type="4">
+        <text>男约女</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFt2aWV3QWxsQnV0dG9uIHNldENvbnRlbnRFZGdlSW5zZXRzOlVJRWRnZUluc2V0c01ha2UoNCwgOCwgNCwgOCldOwo=</text>
