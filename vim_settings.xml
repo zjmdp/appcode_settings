@@ -673,12 +673,12 @@
         <mark key="^" line="514" column="59" />
         <mark key="." line="514" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471358797664">
-        <mark key="'" line="69" column="5" />
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="27" />
-        <mark key="." line="69" column="27" />
-        <mark key="^" line="69" column="27" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471439926367">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.h" timestamp="1471333941367">
         <mark key="'" line="0" column="0" />
@@ -752,12 +752,12 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471357185193">
-        <mark key="'" line="172" column="6" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
-        <mark key="^" line="226" column="68" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471440044846">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="36" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/CategoryCell2.m" timestamp="1470801797151">
         <mark key="[" line="8" column="29" />
@@ -841,10 +841,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1471335772528">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" timestamp="1471439539249">
         <mark key="'" line="285" column="17" />
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="116" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="289" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1471328986415">
         <mark key="'" line="94" column="0" />
@@ -1053,9 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.h" />
-      <jump line="54" column="55" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
-      <jump line="93" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
       <jump line="94" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/ImagePicker.m" />
       <jump line="151" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="341" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -1153,13 +1150,16 @@
       <jump line="12" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
       <jump line="172" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="69" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="15" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="164" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>TOCropViewControllerDelegate</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICBVSUJ1dHRvbiAqdmlld0FsbEJ1dHRvbiA9IFtVSUJ1dHRvbiBuZXddOwogICAgICAgIFt2aWV3QWxsQnV0dG9uLnRpdGxlTGFiZWwgc2V0Rm9udDpGT05UX05PUk1BTF07CiAgICAgICAgW3ZpZXdBbGxCdXR0b24gc2V0VGl0bGVDb2xvcjpTWVNURU1fR1JBWSBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICAgICAgW3ZpZXdBbGxCdXR0b24gc2V0VGl0bGU6TlNMb2NhbGl6ZWRTdHJpbmcoQCJpbnZpdGF0aW9uLWxpc3Qudmlld19hbGwiLCBuaWwpIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsKICAgICAgICBAd2Vha2lmeShzZWxmKQogICAgICAgIHZpZXdBbGxCdXR0b24ucmFjX2NvbW1hbmQgPSBbW1JBQ0NvbW1hbmQgYWxsb2NdIGluaXRXaXRoU2lnbmFsQmxvY2s6XlJBQ1NpZ25hbCAqKGlkIGlucHV0KSB7CiAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikKICAgICAgICAgICAgSW52aXRhdGlvbkxpc3RWaWV3Q29udHJvbGxlciAqdmMgPSBbSW52aXRhdGlvbkxpc3RWaWV3Q29udHJvbGxlciBuZXddOwogICAgICAgICAgICBbc2VsZi5uYXZpZ2F0aW9uQ29udHJvbGxlciBwdXNoVmlld0NvbnRyb2xsZXI6dmMgYW5pbWF0ZWQ6WUVTXTsKICAgICAgICAgICAgcmV0dXJuIFtSQUNTaWduYWwgZW1wdHldOwogICAgICAgIH1dOwogICAgICAgIHJldHVybiB2aWV3QWxsQnV0dG9uOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>inv</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
@@ -1168,40 +1168,40 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>inv</text>
+        <text>showhu</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2RlZmluZSBJTlZJVEFUSU9OX1BBVEggICAgICAgICAgICAgICAgIEAiL3YyL2ludml0YXRpb25zIgo=</text>
+        <text encoding="base64">ICAgIE1vbnN0ZXJTdHlsZURpYWxvZyAqZGlhbG9nID0gW1tNb25zdGVyU3R5bGVEaWFsb2cgYWxsb2NdIGluaXRXaXRoVGl0bGU6TlNMb2NhbGl6ZWRTdHJpbmcoQCJzeXN0ZW0ud2FybmluZyIsIG5pbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1lc3NhZ2U6TlNMb2NhbGl6ZWRTdHJpbmcoQCJjb21tZW50LWxpc3QuZGVsZXRlX2NvbmZpcm0iLCBuaWwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOk1vbnN0ZXJTdHlsZURpYWxvZ1R5cGVDcnkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FuY2VsQnV0dG9uVGl0bGU6TlNMb2NhbGl6ZWRTdHJpbmcoQCJzeXN0ZW0uY2FuY2VsIiwgbmlsKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmZpcm1CdXR0b25UaXRsZTpOU0xvY2FsaXplZFN0cmluZyhAInN5c3RlbS5jb25maXJtIiwgbmlsKV07CiAgICBAd2Vha2lmeShzZWxmKQogICAgW2RpYWxvZy5yYWNfYnV0dG9uQ2xpY2tlZFNpZ25hbCBzdWJzY3JpYmVOZXh0Ol4oTlNOdW1iZXIgKmluZGV4KSB7CiAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQogICAgICAgIGlmIChbaW5kZXggaW50ZWdlclZhbHVlXSA9PSAxKSB7CiAgICAgICAgICAgICBpZiAoc2VsZi5wb3N0LnBvc3RJZCAhPSBrU2VuZGluZ1Bvc3RJZCkgewogICAgICAgICAgICAgICAgIGlmIChbc2VsZi5kZWxlZ2F0ZSByZXNwb25kc1RvU2VsZWN0b3I6QHNlbGVjdG9yKG9uUG9zdENlbGxEZWxldGVTdWNjZXNzOildKSB7CiAgICAgICAgICAgICAgICAgICAgIFtzZWxmLmRlbGVnYXRlIG9uUG9zdENlbGxEZWxldGVTdWNjZXNzOnNlbGZdOwogICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICBbUmVwb3J0ZXIgZXZlbnQ6a05ld0V2ZW50UG9zdERlbGV0ZV07CiAgICAgICAgICAgICAgICAgW1tbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBkZWxldGVQb3N0QnlJZDpzZWxmLnBvc3QucG9zdElkXQogICAgICAgICAgICAgICAgICBzdWJzY3JpYmVOZXh0Ol4oaWQgeCkgewogICAgICAgICAgICAgICAgICAgICAgTFNHTG9nRGVidWcoQCJkZWxldGUgcG9zdCBzdWNjZXNzZnVsbHkiKTsKICAgICAgICAgICAgICAgICAgfSBlcnJvcjpeKE5TRXJyb3IgKmVycm9yKSB7CiAgICAgICAgICAgICAgICAgICAgICBMU0dMb2dEZWJ1ZyhAImRlbGV0ZSBwb3N0IGZhaWxkIik7CiAgICAgICAgICAgICAgICAgIH1dOwoKICAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgIGlmIChbc2VsZi5kZWxlZ2F0ZSByZXNwb25kc1RvU2VsZWN0b3I6QHNlbGVjdG9yKG9uUG9zdENlbGxEZWxldGVGYWlsZWQ6Y2VsbDopXSkgewogICAgICAgICAgICAgICAgICAgICBbc2VsZi5kZWxlZ2F0ZSBvblBvc3RDZWxsRGVsZXRlRmFpbGVkOm5pbCBjZWxsOnNlbGZdOwogICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9XTsKICAgIFtkaWFsb2cgc2hvd107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuaW52aXRhdGlvbiA9IGludgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtzZWxmIGhpZGVBbGxIVURdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmZlZWRDb3ZlckltYWdlVmlldyBzZF9zZXRJbWFnZVdpdGhVUkw6VVJMKGludml0YXRpb24uZmVlZC4pIHBsYWNlaG9sZGVySW1hZ2U6PCMoVUlJbWFnZSAqKXBsYWNlaG9sZGVyIz5dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbC5mCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWxmLnBvc3QucG9zdElkICE9IGtTZW5kaW5nUG9zdElkKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKFtzZWxmLmRlbGVnYXRlIHJlc3BvbmRzVG9TZWxlY3RvcjpAc2VsZWN0b3Iob25Qb3N0Q2VsbERlbGV0ZVN1Y2Nlc3M6KV0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYuZGVsZWdhdGUgb25Qb3N0Q2VsbERlbGV0ZVN1Y2Nlc3M6c2VsZl07CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIFtSZXBvcnRlciBldmVudDprTmV3RXZlbnRQb3N0RGVsZXRlXTsKICAgICAgICAgICAgICAgICAgICBbW1tXZWJTZXJ2aWNlIHNoYXJlZFNlcnZpY2VdIGRlbGV0ZVBvc3RCeUlkOnNlbGYucG9zdC5wb3N0SWRdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJzY3JpYmVOZXh0Ol4oaWQgeCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTFNHTG9nRGVidWcoQCJkZWxldGUgcG9zdCBzdWNjZXNzZnVsbHkiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZXJyb3I6XihOU0Vycm9yICplcnJvcikgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExTR0xvZ0RlYnVnKEAiZGVsZXRlIHBvc3QgZmFpbGQiKTsKICAgICAgICAgICAgICAgICAgICB9XTsKCiAgICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgICAgICBpZiAoW3NlbGYuZGVsZWdhdGUgcmVzcG9uZHNUb1NlbGVjdG9yOkBzZWxlY3RvcihvblBvc3RDZWxsRGVsZXRlRmFpbGVkOmNlbGw6KV0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgW3NlbGYuZGVsZWdhdGUgb25Qb3N0Q2VsbERlbGV0ZUZhaWxlZDpuaWwgY2VsbDpzZWxmXTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbW1tXZWJTZXJ2aWNlIHNoYXJlZFNlcnZpY2VdIGRlbGV0ZUludml0YXRpb25zQnlJZDpzZWxmLmludml0YXRpb24uaW52aXRhdGlvbklkXQogICAgICAgICAgICAgICAgc3Vic2NyaWJlTmV4dDpeKGlkIHgpIHsKICAgICAgICAgICAgICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCiAgICAgICAgICAgICAgICAgICAgaWYoW3NlbGYuZGVsZWdhdGUgcmVzcG9uZHNUb1NlbGVjdG9yOkBzZWxlY3Rvcihvbkludml0YXRpb25DZWxsRGVsZXRlU3VjY2VzczopXSl7CiAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLmRlbGVnYXRlIG9uSW52aXRhdGlvbkNlbGxEZWxldGVTdWNjZXNzOnNlbGZdOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gZXJyb3I6XihOU0Vycm9yICplcnJvcikgewogICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikKICAgICAgICAgICAgICAgICAgICBpZihbc2VsZi5kZWxlZ2F0ZSByZXNwb25kc1RvU2VsZWN0b3I6QHNlbGVjdG9yKG9uSW52aXRhdGlvbkNlbGxEZWxldGVGYWlsZWQ6Y2VsbDopXSl7CiAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLmRlbGVnYXRlIG9uSW52aXRhdGlvbkNlbGxEZWxldGVGYWlsZWQ6ZXJyb3IgY2VsbDpzZWxmXTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9XTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihJU19JUEhPTkVfNlApewogICAgICAgICAgICB4ID0gNDU7CiAgICAgICAgfWVsc2UgaWYoSVNfSVBIT05FXzYpewogICAgICAgICAgICB4ID0gMjU7CiAgICAgICAgfWVsc2UgaWYoSVNfSVBIT05FXzUpewogICAgICAgICAgICB4ID0gMDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNb25zdGVyU3R5bGVEaWFsb2cgKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IHg7CiAgICAgICAgaWYoSVNfSVBIT05FXzZQKXsKICAgICAgICAgICAgeCA9IDQ1OwogICAgICAgIH1lbHNlIGlmKElTX0lQSE9ORV82KXsKICAgICAgICAgICAgeCA9IDI1OwogICAgICAgIH1lbHNlIGlmKElTX0lQSE9ORV81KXsKICAgICAgICAgICAgeCA9IDA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmKHNlbGYuZmVlZElkICE9ICAwKXsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExTR0xvZ0RlYnVnKEAiY2VsbCBmcmFtZTolQCIsIE5TU3RyaW5nRnJvbUNHUmVjdChzZWxmLmZyYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRhYmxlVmlldy50YWJsZUZvb3RlclZpZXcgPSB2aWV3QWxsQnV0dG9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
