@@ -10,7 +10,7 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="236" column="67" />
       </file>
-      <file name="/a.dummy" timestamp="1471510128376">
+      <file name="/a.dummy" timestamp="1471512425251">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="4" />
@@ -762,8 +762,8 @@
         <mark key="^" line="13" column="48" />
         <mark key="." line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" timestamp="1471509122961">
-        <mark key="'" line="85" column="4" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" timestamp="1471512431563">
+        <mark key="'" line="487" column="44" />
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
@@ -1105,15 +1105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.m" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.m" />
-      <jump line="84" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
-      <jump line="11" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InviteCompanionViewController.m" />
-      <jump line="7" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.h" />
-      <jump line="11" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
-      <jump line="201" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.h" />
-      <jump line="46" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="11" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.m" />
       <jump line="12" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.m" />
       <jump line="12" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Invitation.m" />
@@ -1205,6 +1196,15 @@
       <jump line="55" column="57" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="56" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="58" column="57" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="351" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="77" column="80" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="390" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="65" column="32" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="247" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="261" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="299" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="487" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1223,7 +1223,7 @@
         <text>VALUEDARRAY</text>
       </register>
       <register name="/" type="4">
-        <text>feedcon</text>
+        <text>reload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEZlZWREZXRhaWxWaWV3Q29udHJvbGxlciAqdmMgPSBbRmVlZERldGFpbFZpZXdDb250cm9sbGVyIG5ld107CiAgICB2Yy5oaWRlc0JvdHRvbUJhcldoZW5QdXNoZWQgPSBZRVM7CiAgICBGZWVkICpmZWVkID0gW0ZlZWQgbmV3XTsKICAgIGZlZWQuZmVlZElkID0gc2VsZi5wb3N0LmZlZWQuZmVlZElkOwogICAgdmMudmlld01vZGVsID0gW1tGZWVkRGV0YWlsVmlld01vZGVsIGFsbG9jXSBpbml0V2l0aE1vZGVsOmZlZWRdOwogICAgW1tVdGlscyBnZXROYXZpZ2F0aW9uQ29udHJvbGxlcl0gcHVzaFZpZXdDb250cm9sbGVyOnZjIGFuaW1hdGVkOllFU107Cg==</text>
@@ -1260,16 +1260,14 @@
       </register>
     </registers>
     <search>
-      <last-search>feedcon</last-search>
+      <last-search>reload</last-search>
       <last-offset />
-      <last-pattern>feedcon</last-pattern>
+      <last-pattern>reload</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>publish</entry>
-        <entry>login</entry>
         <entry>nothing</entry>
         <entry>view_all</entry>
         <entry>showhu</entry>
@@ -1288,6 +1286,8 @@
         <entry>self.post</entry>
         <entry>sendMsg</entry>
         <entry>feedcon</entry>
+        <entry>loadre</entry>
+        <entry>reload</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
