@@ -164,8 +164,10 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.m" timestamp="1471846316960">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.m" timestamp="1471847420305">
         <mark key="'" line="78" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/TextQuoteCollectionCell.m" timestamp="1469441029977">
         <mark key="'" line="39" column="15" />
@@ -440,6 +442,11 @@
         <mark key="." line="133" column="100" />
         <mark key="^" line="133" column="100" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.h" timestamp="1471847384952">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="74" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.h" timestamp="1471333941367">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="49" />
@@ -630,6 +637,17 @@
         <mark key="^" line="44" column="39" />
         <mark key="." line="44" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTitleTextMediaItem.m" timestamp="1471847547649">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTitleTextMediaItem.h" timestamp="1471847401068">
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+        <mark key="^" line="11" column="70" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.h" timestamp="1471588513198">
         <mark key="'" line="13" column="19" />
         <mark key="[" line="33" column="0" />
@@ -646,7 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
       <jump line="805" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="391" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="211" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -746,13 +763,14 @@
       <jump line="72" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="76" column="54" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/FeedDetailViewModel.h" />
       <jump line="78" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5yb3RhdGVCdXR0b25zSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmFzcGVjdFJhdGlvUGlja2VyQnV0dG9uSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLnJvdGF0ZUNsb2Nrd2lzZUJ1dHRvbkhpZGRlbiA9IFlFUzsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgQ0dGbG9hdCB3aWR0aCA9IDIxMC5mOwovLyAgICBDR0Zsb2F0IGhlaWdodCA9IFtWaWV3VXRpbHMgaGVpZ2h0T2ZUZXh0Rm9yU3RyaW5nOnNlbGYudGl0bGUgYW5kRm9udDpGT05UX05PUk1BTCBtYXhTaXplOkNHU2l6ZU1ha2UoMjEwIC0gMjQsIENHRkxPQVRfTUlOKV07Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudGl0bGUgPSBuaWw7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
@@ -761,40 +779,40 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>titie</text>
       </register>
       <register name="/" type="4">
         <text>feedId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRBcnRpY2xlU2VuZFN1Y2Nlc3NmdWxseUZyb21GZWVkICAgICAgICAgID0gQCJhcnRpY2xlX3NlbmRfc3VjY2Vzc2Z1bGx5X2Zyb21fZmVlZCI7Cg==</text>
+        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgTlNTdHJpbmcgKmNvbnRlbnQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgQ0dGbG9hdCB3aWR0aCA9IDIxMC5mOwovLyAgICBDR0Zsb2F0IGhlaWdodCA9IFtWaWV3VXRpbHMgaGVpZ2h0T2ZUZXh0Rm9yU3RyaW5nOnNlbGYudGl0bGUgYW5kRm9udDpGT05UX05PUk1BTCBtYXhTaXplOkNHU2l6ZU1ha2UoMjEwIC0gMjQsIENHRkxPQVRfTUlOKV07Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudGl0bGUgPSBuaWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">LSAoaW5zdGFuY2V0eXBlKWluaXRXaXRoSW1hZ2VVcmw6KE5TVVJMICopdXJsIGNvbnRlbnQ6KE5TU3RyaW5nICopY29udGVudHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzZWxmLmZlZWQgIT0gbmlsKXsKICAgICAgICAgICAgRmVlZCAqZmVlZCA9IFtGZWVkIG5ld107CiAgICAgICAgICAgIGZlZWQuZmVlZElkID0gc2VsZi5mZWVkSWQ7CiAgICAgICAgICAgIGZlZWQub2JqZWN0SWQgPSBzZWxmLmZlZWRJZDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3QWxsQnV0dG9uLmxheWVyLmNvcm5lclJhZGl1cyA9IDQuZjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmludmkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QGltcGxlbWVudGF0aW9uIEpTUVBob3RvVGl0bGVUZXh0TWVkaWFJdGVtCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QGludGVyZmFjZSBKU1FQaG90b1RleHRNZWRpYUl0ZW0oKQoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BuCg==</text>
+        <text encoding="base64">Ly8gICAgQ0dGbG9hdCB3aWR0aCA9IDIxMC5mOwovLyAgICBDR0Zsb2F0IGhlaWdodCA9IFtWaWV3VXRpbHMgaGVpZ2h0T2ZUZXh0Rm9yU3RyaW5nOnNlbGYudGl0bGUgYW5kRm9udDpGT05UX05PUk1BTCBtYXhTaXplOkNHU2l6ZU1ha2UoMjEwIC0gMjQsIENHRkxPQVRfTUlOKV07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
