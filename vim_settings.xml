@@ -115,6 +115,7 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/GuessLikeCell.m" timestamp="1471943571234" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1471927265583">
         <mark key="'" line="59" column="49" />
         <mark key="[" line="30" column="19" />
@@ -175,12 +176,12 @@
         <mark key="'" line="138" column="12" />
         <mark key="." line="22" column="143" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1471846210282">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1471944397201">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="233" column="91" />
-        <mark key="]" line="233" column="91" />
-        <mark key="." line="233" column="91" />
-        <mark key="^" line="233" column="102" />
+        <mark key="[" line="251" column="72" />
+        <mark key="]" line="251" column="78" />
+        <mark key="." line="251" column="78" />
+        <mark key="^" line="251" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -291,10 +292,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleListViewController.m" timestamp="1471923775183">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" timestamp="1471851366844">
         <mark key="'" line="75" column="16" />
         <mark key="[" line="1091" column="91" />
@@ -356,12 +353,12 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1471851393821">
-        <mark key="'" line="212" column="45" />
-        <mark key="[" line="1003" column="91" />
-        <mark key="]" line="1003" column="111" />
-        <mark key="." line="1003" column="111" />
-        <mark key="^" line="1003" column="111" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1471944052554">
+        <mark key="'" line="67" column="11" />
+        <mark key="[" line="852" column="92" />
+        <mark key="]" line="853" column="47" />
+        <mark key="." line="853" column="47" />
+        <mark key="^" line="853" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/PostSearchViewController.m" timestamp="1470993286434">
         <mark key="'" line="12" column="16" />
@@ -461,11 +458,12 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="52" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471850158672">
-        <mark key="[" line="133" column="105" />
-        <mark key="]" line="133" column="127" />
-        <mark key="." line="133" column="127" />
-        <mark key="^" line="133" column="127" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1471944321794">
+        <mark key="'" line="137" column="28" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="71" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="76" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InviteCompanionCell.h" timestamp="1471333941367">
         <mark key="'" line="0" column="0" />
@@ -516,11 +514,12 @@
         <mark key="." line="43" column="89" />
         <mark key="^" line="43" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471841239539">
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" timestamp="1471944311371">
+        <mark key="'" line="26" column="54" />
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="." line="259" column="0" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/SimpleFeedViewModel.m" timestamp="1468911997471">
         <mark key="'" line="12" column="16" />
@@ -697,11 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
-      <jump line="76" column="54" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/FeedDetailViewModel.h" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/JSQPhotoTextMediaItem.h" />
-      <jump line="231" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="277" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="353" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="113" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
@@ -797,13 +791,18 @@
       <jump line="678" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="85" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="67" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="258" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
+      <jump line="33" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="134" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
+      <jump line="26" column="54" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5yb3RhdGVCdXR0b25zSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmFzcGVjdFJhdGlvUGlja2VyQnV0dG9uSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLnJvdGF0ZUNsb2Nrd2lzZUJ1dHRvbkhpZGRlbiA9IFlFUzsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFtSZXBvcnRlciBldmVudDprTmV3RXZlbnRJbnZpdGF0aW9uRGVsZXRlXTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
@@ -812,56 +811,54 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>InvitationCenterClick</text>
       </register>
       <register name="/" type="4">
-        <text>descLa</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOU011dGFibGVQYXJhZ3JhcGhTdHlsZSAqcGFyYWdyYXBoU3R5bGUgPSBbW05TTXV0YWJsZVBhcmFncmFwaFN0eWxlIGFsbG9jXSBpbml0XTsKICAgICAgICBwYXJhZ3JhcGhTdHlsZS5saW5lU3BhY2luZyA9IDQ7CiAgICAgICAgW2F0dHJpYnV0ZWRTdHJpbmcgYWRkQXR0cmlidXRlOk5TUGFyYWdyYXBoU3R5bGVBdHRyaWJ1dGVOYW1lIHZhbHVlOnBhcmFncmFwaFN0eWxlIHJhbmdlOk5TTWFrZVJhbmdlKDAsIHNlbGYucG9zdC5kZXNjLmxlbmd0aCldOwo=</text>
+        <text encoding="base64">ICAgICAgICBbUmVwb3J0ZXIgZXZlbnQ6a05ld0V2ZW50SW52aXRhdGlvbkNlbnRlckNsaWNrXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFthdHRyaWJ1dGVkU3RyaW5nIGFkZEF0dHJpYnV0ZTpOU1BhcmFncmFwaFN0eWxlQXR0cmlidXRlTmFtZSB2YWx1ZTpwYXJhZ3JhcGhTdHlsZSByYW5nZTpOU01ha2VSYW5nZSgwLCBzZWxmLnBvc3QuZGVzYy5sZW5ndGgpXTsK</text>
+        <text encoding="base64">ICAgIFtSZXBvcnRlciBldmVudDprTmV3RXZlbnRJbnZpdGF0aW9uRGVsZXRlXTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIENHRmxvYXQgZGVzY0hlaWdodCA9IFtWaWV3VXRpbHMgaGVpZ2h0T2ZUZXh0Rm9yU3RyaW5nOnBvc3QuZGVzYyBhbmRGb250OkZPTlRfTk9STUFMIG1heFNpemU6Q0dTaXplTWFrZShTQ1JFRU5fV0lEVEggLSAyMCwgQ0dGTE9BVF9NQVgpXTsK</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRGZWVkQ2xpY2tGcm9tSW52aXRhdGlvbiAgICAgICA9IEAiZmVlZF9jbGlja19mcm9tX2ludml0YXRpb24iOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbVmlld1V0aWxzIGhlaWdodE9mVGV4dEZvclN0cmluZzo8IyhOU1N0cmluZyAqKWFTdHJpbmcjPiBhdHRyaWJ1dGVzOjwjKE5TRGljdGlvbmFyeSAqKWF0dHJpYnV0ZXMjPiBtYXhTaXplOjwjKENHU2l6ZSlhU2l6ZSM+XQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFthdHRyaWJ1dGVkU3RyaW5nIGFkZEF0dHJpYnV0ZTpOU1BhcmFncmFwaFN0eWxlQXR0cmlidXRlTmFtZSB2YWx1ZTpwYXJhZ3JhcGhTdHlsZSByYW5nZTpOU01ha2VSYW5nZSgwLCBzZWxmLnBvc3QuZGVzYy5sZW5ndGgpXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIENHRmxvYXQgZGVzY0hlaWdodCA9IFtWaWV3VXRpbHMgaGVpZ2h0T2ZUZXh0Rm9yU3RyaW5nOnBvc3QuZGVzYyBhbmRGb250OkZPTlRfTk9STUFMIG1heFNpemU6Q0dTaXplTWFrZShTQ1JFRU5fV0lEVEggLSAyMCwgQ0dGTE9BVF9NQVgpXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVkU3RyaW5nLnN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICBbVmlld1V0aWxzIGhlaWdodE9mVGV4dEZvclN0cmluZzo8IyhOU1N0cmluZyAqKWFTdHJpbmcjPiBhdHRyaWJ1dGVzOjwjKE5TRGljdGlvbmFyeSAqKWF0dHJpYnV0ZXMjPiBtYXhTaXplOjwjKENHU2l6ZSlhU2l6ZSM+XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLmRlc2NMYWJlbCBzZXRUZXh0OnNlbGYucG9zdC5kZXNjXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhdHRyaWJ1dGVkU3RyaW5nLnN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYucmlnaHQK</text>
+        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLmRlc2NMYWJlbCBzZXRUZXh0OnNlbGYucG9zdC5kZXNjXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHNlbGYubmF2aWdhdGlvbkl0ZW0ucmlnaHRCYXJCdXR0b25JdGVtLmVuYWJsZWQgPSBOTzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>descLa</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>descLa</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendfe</entry>
-        <entry>notification</entry>
         <entry>articleed</entry>
         <entry>loadData</entry>
         <entry>first</entry>
@@ -880,6 +877,8 @@
         <entry>url</entry>
         <entry>descLabel</entry>
         <entry>descLa</entry>
+        <entry>invitationlist</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
