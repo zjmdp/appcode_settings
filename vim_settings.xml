@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1471934478282">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1471954288957">
+        <mark key="'" line="79" column="4" />
         <mark key="[" line="364" column="21" />
         <mark key="]" line="364" column="68" />
         <mark key="." line="364" column="68" />
@@ -696,7 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="353" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="113" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="819" column="48" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
@@ -796,6 +795,7 @@
       <jump line="33" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
       <jump line="134" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
       <jump line="26" column="54" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
+      <jump line="79" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -814,7 +814,7 @@
         <text>InvitationCenterClick</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>crop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbUmVwb3J0ZXIgZXZlbnQ6a05ld0V2ZW50SW52aXRhdGlvbkNlbnRlckNsaWNrXTsK</text>
@@ -851,15 +851,14 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>crop</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>crop</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>articleed</entry>
         <entry>loadData</entry>
         <entry>first</entry>
         <entry>noti</entry>
@@ -879,6 +878,7 @@
         <entry>descLa</entry>
         <entry>invitationlist</entry>
         <entry>delete</entry>
+        <entry>crop</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
