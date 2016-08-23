@@ -309,6 +309,12 @@
         <mark key="." line="33" column="54" />
         <mark key="^" line="33" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1471869329135">
+        <mark key="'" line="207" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1471935104784">
+        <mark key="'" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1471923876762">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="171" column="53" />
@@ -479,6 +485,9 @@
         <mark key="." line="537" column="52" />
         <mark key="^" line="537" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/ReactiveCocoa/ReactiveCocoa/RACTuple.h" timestamp="1471869453824">
+        <mark key="'" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/FeedOperationCell.h" timestamp="1471869773696">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -596,6 +605,9 @@
         <mark key="^" line="42" column="16" />
         <mark key="." line="42" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/TOCropViewController/TOCropViewController.h" timestamp="1471575601167">
+        <mark key="'" line="162" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" timestamp="1471575488683">
         <mark key="[" line="319" column="0" />
         <mark key="]" line="319" column="0" />
@@ -684,8 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="500" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
-      <jump line="22" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="108" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="733" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="32" column="135" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
@@ -784,6 +794,8 @@
       <jump line="318" column="82" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="272" column="25" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="37" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="4" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -802,7 +814,7 @@
         <text>right</text>
       </register>
       <register name="/" type="4">
-        <text>notifi</text>
+        <text>rea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYubmF2aWdhdGlvbkl0ZW0ucmlnaHRCYXJCdXR0b25JdGVtID0gcHVibGlzaEl0ZW07Cg==</text>
@@ -839,15 +851,14 @@
       </register>
     </registers>
     <search>
-      <last-search>notifi</last-search>
+      <last-search>rea</last-search>
       <last-offset />
-      <last-pattern>notifi</last-pattern>
+      <last-pattern>rea</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
         <entry>sendFeed</entry>
         <entry>addIn</entry>
         <entry>AUTO</entry>
@@ -867,6 +878,7 @@
         <entry>hideall</entry>
         <entry>hideAll</entry>
         <entry>notifi</entry>
+        <entry>rea</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
