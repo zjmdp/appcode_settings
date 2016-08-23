@@ -63,7 +63,7 @@
         <mark key="." line="121" column="27" />
         <mark key="^" line="121" column="27" />
       </file>
-      <file name="/LLDB" timestamp="1471926307268">
+      <file name="/LLDB" timestamp="1471927731213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/BadgeCollectionViewController.m" timestamp="1468232424487">
@@ -108,18 +108,18 @@
         <mark key="." line="348" column="30" />
         <mark key="^" line="348" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.h" timestamp="1471921594044">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.h" timestamp="1471927257703">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+        <mark key="^" line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1471924092137">
-        <mark key="'" line="59" column="31" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="79" column="74" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1471927265583">
+        <mark key="'" line="59" column="49" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TopicPostListViewController.m" timestamp="1471923975070">
         <mark key="'" line="22" column="0" />
@@ -309,12 +309,12 @@
         <mark key="." line="1091" column="91" />
         <mark key="^" line="1091" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/OperationCell.m" timestamp="1471926297521">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/OperationCell.m" timestamp="1471927962282">
         <mark key="'" line="8" column="11" />
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="49" />
-        <mark key="." line="63" column="49" />
-        <mark key="^" line="63" column="49" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="38" />
+        <mark key="." line="33" column="54" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1471923876762">
         <mark key="'" line="0" column="0" />
@@ -703,7 +703,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="58" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/TOCropViewController/TOCropViewController.h" />
       <jump line="162" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/TOCropViewController/TOCropViewController.h" />
       <jump line="47" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="392" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/ProfileCenterHeader.m" />
@@ -803,13 +802,14 @@
       <jump line="261" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.h" />
       <jump line="230" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Post.m" />
       <jump line="13" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/FeedOperationCell.m" />
+      <jump line="58" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPQ3JvcFZpZXdDb250cm9sbGVyICpjcm9wVmlld0NvbnRyb2xsZXIgPSBbW1RPQ3JvcFZpZXdDb250cm9sbGVyIGFsbG9jXSBpbml0V2l0aEltYWdlOltpbWFnZXMgZmlyc3RPYmplY3RdXTsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5yb3RhdGVCdXR0b25zSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmFzcGVjdFJhdGlvUGlja2VyQnV0dG9uSGlkZGVuID0gWUVTOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLnJvdGF0ZUNsb2Nrd2lzZUJ1dHRvbkhpZGRlbiA9IFlFUzsKICAgICAgICAgICAgICAgIGNyb3BWaWV3Q29udHJvbGxlci5kZWxlZ2F0ZSA9IHNlbGY7CiAgICAgICAgICAgICAgICBjcm9wVmlld0NvbnRyb2xsZXIuYXNwZWN0UmF0aW9QcmVzZXQgPSBUT0Nyb3BWaWV3Q29udHJvbGxlckFzcGVjdFJhdGlvUHJlc2V0Q3VzdG9tOwogICAgICAgICAgICAgICAgY3JvcFZpZXdDb250cm9sbGVyLmN1c3RvbUFzcGVjdFJhdGlvID0gQ0dTaXplTWFrZShTQ1JFRU5fV0lEVEgsIFNDUkVFTl9XSURUSCAqIDUwMCAvIDc1MCk7CiAgICAgICAgICAgICAgICBbc2VsZiBwcmVzZW50Vmlld0NvbnRyb2xsZXI6Y3JvcFZpZXdDb250cm9sbGVyIGFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0V2l0aDpOU0RhdGUuZGF0ZV0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
@@ -818,40 +818,40 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>loaddata</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgbWlucyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxmLm1pbnV0ZUxhYmVsIHNldFRleHQ6W2Jhbm5lci5wYXJhbTIgc3Vic3RyaW5nV2l0aFJhbmdlOk5TTWFrZVJhbmdlKDAsIDEpXV07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0V2l0aDpOU0RhdGUuZGF0ZV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihTZWNUcnVzdEdldENlcnRpZmljYXRlQ291bnQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXJ0V2l0aDpbTlNEYXRlIGRhdGVdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbUkFDU2lnbmFsIGludGVyXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob3VyID0gc2Vjb25kcyAvIDM2MDA7CiAgICAgICAgICAgICAgICAgICAgbWlucyA9IChzZWNvbmRzICUgMzYwMCkgLyA2MDsKICAgICAgICAgICAgICAgICAgICBzZWNzID0gc2Vjb25kcyAlIDYwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihzZWNvbmRzIDwgMCl7CiAgICAgICAgICAgICAgICAgICAgICAgIFt0aW1lRGlzcG9zYWJsZSBkaXNwb3NlXTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR3aQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5zc3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaG91ciA9IDA7CiAgICAgICAgICAgICAgICAgICAgaW50IG1pbnMgPSAwOwogICAgICAgICAgICAgICAgICAgIGludCBzZWNzID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgaG91ciA9IDA7CiAgICAgICAgICAgICAgICAgICAgaW50IG1pbnMgPSAwOwogICAgICAgICAgICAgICAgICAgIGludCBzZWNzID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5TU3RyaW5nICpmaXJzdCA9IGJhbm5lci5wYXJhbTIgc3UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaG91ciA9IHNlY29uZHMgLyAzNjAwOwogICAgICAgICAgICAgICAgICAgICAgICBtaW5zID0gKHNlY29uZHMgJSAzNjAwKSAvIDYwOwogICAgICAgICAgICAgICAgICAgICAgICBzZWNzID0gc2Vjb25kcyAlIDYwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
