@@ -312,8 +312,8 @@
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1471869329135">
         <mark key="'" line="207" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1471935104784">
-        <mark key="'" line="4" column="5" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1471937366626">
+        <mark key="'" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/APPMacro.h" timestamp="1471923876762">
         <mark key="'" line="0" column="0" />
@@ -696,11 +696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="733" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="32" column="135" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="11" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/WebViewController.m" />
-      <jump line="87" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/WebViewController.m" />
       <jump line="30" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/PlaceOrderWebViewController.m" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" />
       <jump line="14" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
@@ -796,6 +791,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="37" column="44" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
       <jump line="4" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="29" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="35" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="41" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="45" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
+      <jump line="53" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -814,7 +814,7 @@
         <text>right</text>
       </register>
       <register name="/" type="4">
-        <text>rea</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlbGYubmF2aWdhdGlvbkl0ZW0ucmlnaHRCYXJCdXR0b25JdGVtID0gcHVibGlzaEl0ZW07Cg==</text>
@@ -851,15 +851,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rea</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>rea</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sendFeed</entry>
         <entry>addIn</entry>
         <entry>AUTO</entry>
         <entry>sendfe</entry>
@@ -879,6 +878,7 @@
         <entry>hideAll</entry>
         <entry>notifi</entry>
         <entry>rea</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
