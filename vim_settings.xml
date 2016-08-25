@@ -656,12 +656,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1471588542549">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1472106950488">
         <mark key="'" line="500" column="12" />
-        <mark key="[" line="718" column="0" />
-        <mark key="]" line="718" column="0" />
-        <mark key="." line="718" column="0" />
-        <mark key="^" line="521" column="0" />
+        <mark key="[" line="525" column="4" />
+        <mark key="]" line="525" column="23" />
+        <mark key="^" line="525" column="23" />
+        <mark key="." line="525" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/BannerCollectionViewCell.m" timestamp="1471877584841">
         <mark key="'" line="21" column="8" />
@@ -839,7 +839,7 @@
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>MAX</text>
+        <text>feedNavc</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -848,13 +848,13 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>MAX</text>
+        <text>feedNavc</text>
       </register>
       <register name="/" type="4">
         <text>edgeinset</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAodm9pZClsb2FkVmlld3sKICAgIFtzdXBlciBsb2FkVmlld107CiAgICBzZWxmLnRhYmxlVmlldyA9IFtVSVRhYmxlVmlldyBuZXddOwogICAgc2VsZi50YWJsZVZpZXcuZGVsZWdhdGUgPSBzZWxmOwogICAgc2VsZi50YWJsZVZpZXcuZGF0YVNvdXJjZSA9IHNlbGY7CiAgICBzZWxmLnRhYmxlVmlldy5zZXBhcmF0b3JTdHlsZSA9IFVJVGFibGVWaWV3Q2VsbFNlcGFyYXRvclN0eWxlTm9uZTsKLy8gICAgW3NlbGYudGFibGVWaWV3IHNldEJhY2tncm91bmRDb2xvcjpDT05UUk9MTEVSX0JHX0NPTE9SXTsKICAgIFVJTmliICpwb3N0Q2VsbE5pYiA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprUG9zdENlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RDZWxsTmliIGZvckNlbGxSZXVzZUlkZW50aWZpZXI6a1Bvc3RDZWxsSWRlbnRpZmllcl07CiAgICBVSU5pYiAqcG9zdEZlZWRDZWxsTmliID0gW1VJTmliIG5pYldpdGhOaWJOYW1lOmtQb3N0RmVlZENlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RGZWVkQ2VsbE5pYiBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtQb3N0RmVlZENlbGxJZGVudGlmaWVyXTsKICAgIFtzZWxmLnZpZXcgYWRkU3VidmlldzpzZWxmLnRhYmxlVmlld107CiAgICBbc2VsZi50YWJsZVZpZXcgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgIG1ha2UuZWRnZXMuZXF1YWxUbyhzZWxmLnRhYmxlVmlldy5zdXBlcnZpZXcpOwogICAgfV07Cn0K</text>
+        <text encoding="base64">ICAgIGZlZWROYXZjLm5hdmlnYXRpb25CYXIuc2hhZG93SW1hZ2UgPSBbVUlJbWFnZSBuZXddOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3LmNvbnRlbnRJbnNldCA9IFVJRWRnZUluc2V0c01ha2UoMCwgMCwgMCwgMCk7Cg==</text>
