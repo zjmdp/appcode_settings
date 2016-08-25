@@ -10,7 +10,7 @@
         <mark key="." line="364" column="68" />
         <mark key="^" line="364" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1472093330260">
+      <file name="/a.dummy" timestamp="1472113796933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="4" />
@@ -158,12 +158,12 @@
         <mark key="." line="21" column="147" />
         <mark key="^" line="21" column="147" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Tag/TagDetailViewController.m" timestamp="1471920090831">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Tag/TagDetailViewController.m" timestamp="1472113510435">
         <mark key="'" line="129" column="25" />
-        <mark key="[" line="280" column="18" />
-        <mark key="]" line="280" column="18" />
-        <mark key="." line="280" column="18" />
-        <mark key="^" line="280" column="17" />
+        <mark key="[" line="346" column="5" />
+        <mark key="]" line="347" column="3" />
+        <mark key="." line="347" column="3" />
+        <mark key="^" line="347" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/CategoryPageView.m" timestamp="1471870290472">
         <mark key="'" line="92" column="0" />
@@ -287,11 +287,11 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="126" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1472020500489">
-        <mark key="[" line="538" column="23" />
-        <mark key="]" line="538" column="26" />
-        <mark key="." line="538" column="26" />
-        <mark key="^" line="538" column="26" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1472113796566">
+        <mark key="[" line="397" column="29" />
+        <mark key="]" line="397" column="30" />
+        <mark key="." line="397" column="30" />
+        <mark key="^" line="397" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.h" timestamp="1471851283384">
         <mark key="'" line="17" column="11" />
@@ -506,11 +506,11 @@
         <mark key="^" line="276" column="101" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1472020488370">
-        <mark key="[" line="538" column="23" />
-        <mark key="]" line="538" column="39" />
-        <mark key="." line="538" column="39" />
-        <mark key="^" line="538" column="39" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1472113806208">
+        <mark key="[" line="395" column="29" />
+        <mark key="]" line="395" column="34" />
+        <mark key="." line="395" column="34" />
+        <mark key="^" line="395" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/FeedOperationCell.h" timestamp="1471869773696">
         <mark key="[" line="5" column="0" />
@@ -839,7 +839,7 @@
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>feedNavc</text>
+        <text>Newest</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -848,7 +848,7 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>feedNavc</text>
+        <text>Newest</text>
       </register>
       <register name="/" type="4">
         <text>edgeinset</text>
