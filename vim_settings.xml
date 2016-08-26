@@ -157,12 +157,13 @@
         <mark key="." line="43" column="69" />
         <mark key="^" line="43" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1472181767418">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="143" column="69" />
-        <mark key="]" line="144" column="52" />
-        <mark key="." line="144" column="52" />
-        <mark key="^" line="144" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1472185142632">
+        <mark key="a" line="160" column="22" />
+        <mark key="'" line="181" column="76" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="131" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" timestamp="1472098175587">
         <mark key="'" line="53" column="4" />
@@ -701,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="47" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
-      <jump line="134" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" />
       <jump line="26" column="54" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="79" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="36" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
@@ -801,13 +800,15 @@
       <jump line="52" column="75" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="19" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
       <jump line="486" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" />
+      <jump line="132" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
+      <jump line="181" column="76" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi52aWV3IGFkZFN1YnZpZXc6ZmlsdGVyVmlld107CiAgICAgICAgW2ZpbHRlclZpZXcgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhmaWx0ZXJWaWV3LnN1cGVydmlldyk7CiAgICAgICAgICAgIG1ha2UudHJhaWxpbmcuZXF1YWxUbyhmaWx0ZXJWaWV3LnN1cGVydmlldyk7CiAgICAgICAgICAgIG1ha2UudG9wLmVxdWFsVG8oc2VsZi5zZWdtZW50ZWRDb250cm9sLm1hc19ib3R0b20pOwogICAgICAgICAgICBtYWtlLmhlaWdodC5lcXVhbFRvKEAzMCk7CiAgICAgICAgfV07Cgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -816,49 +817,49 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>.mas_width</text>
+        <text>SYSTEM_BLACK</text>
       </register>
       <register name="/" type="4">
-        <text>banner</text>
+        <text>right</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVSUJ1dHRvbiAqZmlsdGVyQnV0dG9uID0gW1VJQnV0dG9uIG5ld107CiAgICAgICAgW2ZpbHRlckJ1dHRvbiBzZXRUaXRsZTpOU0xvY2FsaXplZFN0cmluZyhAInN1Yi1jYXRlZ29yeS5maWx0ZXJfdGl0bGUiLCBuaWwpIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsKICAgICAgICBbZmlsdGVyQnV0dG9uIHNldFRpdGxlQ29sb3I6U1lTVEVNX0JMQUNLIGZvclN0YXRlOlVJQ29udHJvbFN0YXRlTm9ybWFsXTsKICAgICAgICBbZmlsdGVyQnV0dG9uLnRpdGxlTGFiZWwgc2V0Rm9udDpGT05UX05PUk1BTF07Cg==</text>
+        <text encoding="base64">ICAgICAgICBVSVZpZXcgKnNlcGFyYXRvclZpZXcgPSBbVUlWaWV3IG5ld107CiAgICAgICAgW3NlcGFyYXRvclZpZXcgc2V0QmFja2dyb3VuZENvbG9yOkNPTlRST0xMRVJfQkdfQ09MT1JdOwogICAgICAgIFtmaWx0ZXJWaWV3IGFkZFN1YnZpZXc6c2VwYXJhdG9yVmlld107CiAgICAgICAgW3NlcGFyYXRvclZpZXcgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLmxlYWRpbmcudHJhaWxpbmcudG9wLmVxdWFsVG8oc2VwYXJhdG9yVmlldy5zdXBlcnZpZXcpOwogICAgICAgICAgICBtYWtlLmhlaWdodC5lcXVhbFRvKEAoSEFMRl9QVCkpOwogICAgICAgIH1dOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZi52aWV3IGFkZFN1YnZpZXc6ZmlsdGVyVmlld107CiAgICAgICAgW2ZpbHRlclZpZXcgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhmaWx0ZXJWaWV3LnN1cGVydmlldyk7CiAgICAgICAgICAgIG1ha2UudHJhaWxpbmcuZXF1YWxUbyhmaWx0ZXJWaWV3LnN1cGVydmlldyk7CiAgICAgICAgICAgIG1ha2UudG9wLmVxdWFsVG8oc2VsZi5zZWdtZW50ZWRDb250cm9sLm1hc19ib3R0b20pOwogICAgICAgICAgICBtYWtlLmhlaWdodC5lcXVhbFRvKEAzMCk7CiAgICAgICAgfV07Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5sZWFkaW5nLnRyYWlsaW5nLnRvcC5lcXVhbFRvKHNlcGFyYXRvclZpZXcuc3VwZXJ2aWV3KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJWaWV3Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBtYWtlLmxlYWRpbmcuZXF1YWxUbyhmaWx0ZXJCdXR0b24ubWFzX3RyYWlsaW5nKTsKLy8gICAgICAgICAgICBtYWtlLndpZHRoLmVxdWFsVG8oZmlsdGVyQnV0dG9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbZmlsdGVyQnV0dG9uLnRpdGxlTGFiZWwgc2V0VGV4dENvbG9yOjwjKFVJQ29sb3IgKil0ZXh0Q29sb3IjPl07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ib3R0b20uZXF1YWxUbygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbZmlsdGVyQnV0dG9uIHNldFRpdGxlRWRnZUluc2V0czo8IyhVSUVkZ2VJbnNldHMpdGl0bGVFZGdlSW5zZXRzIz5dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS5ibwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1aXZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFrZS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJWaWV3LnNlbGVjdGVkSW1hZ2VWaWV3LmhpZGRlbiA9IFlFUzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>banner</last-search>
+      <last-search>right</last-search>
       <last-offset />
-      <last-pattern>banner</last-pattern>
+      <last-pattern>right</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -878,12 +879,12 @@
         <entry>style</entry>
         <entry>group</entry>
         <entry>zip</entry>
-        <entry>right</entry>
         <entry>has</entry>
         <entry>mjrefreshheader</entry>
         <entry>contentinset</entry>
         <entry>edgeinset</entry>
         <entry>banner</entry>
+        <entry>right</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
