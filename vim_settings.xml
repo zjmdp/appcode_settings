@@ -182,9 +182,6 @@
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1472464381832">
         <mark key="'" line="290" column="4" />
-        <mark key="[" line="228" column="61" />
-        <mark key="]" line="228" column="61" />
-        <mark key="." line="228" column="61" />
         <mark key="^" line="227" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
@@ -542,9 +539,6 @@
         <mark key="." line="228" column="61" />
         <mark key="^" line="228" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerEditorContainerController.m" timestamp="1472459293376">
-        <mark key="'" line="19" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/ViewModels/SimpleFeedViewModel.m" timestamp="1468911997471">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="17" column="30" />
@@ -725,7 +719,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="77" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/FilterView.m" />
       <jump line="25" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/FilterView.m" />
       <jump line="59" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/FilterView.m" />
       <jump line="126" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
@@ -825,13 +818,14 @@
       <jump line="103" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/InvitationListViewController.m" />
       <jump line="24" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.h" />
       <jump line="19" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
+      <jump line="378" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerEditorContainerController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlclRvcENvbnN0cmFpbnQuY29uc3RhbnQgPSAoZW5kT3JpZ2luWSAtIGJlZ2luT3JpZ2luWSkgPj0gMjAgPyAwIDogLShDR1JlY3RHZXRIZWlnaHQoc2VsZi5pbWFnZUVkaXRDb250YWluZXJWaWV3LmJvdW5kcyktMjAtNDQpOwovLyAgICAgICAgICAgICAgICB0b3BGcmFtZS5vcmlnaW4ueSA9IChlbmRPcmlnaW5ZIC0gYmVnaW5PcmlnaW5ZKSA+PSAyMCA/IDAgOiAtKENHUmVjdEdldEhlaWdodChzZWxmLmltYWdlRWRpdENvbnRhaW5lclZpZXcuYm91bmRzKS0yMC00NCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -840,40 +834,40 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>constain</text>
       </register>
       <register name="/" type="4">
         <text>invitationlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRBcnRpY2xlQ2xpY2tGcm9tRXhwbG9yZSAgICAgICA9IEAiYXJ0aWNsZV9jbGlja19mcm9tX2V4cGxvcmUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlclRvcENvbnN0cmFpbnQuY29uc3RhbnQgPSAoZW5kT3JpZ2luWSAtIGJlZ2luT3JpZ2luWSkgPj0gMjAgPyAwIDogLShDR1JlY3RHZXRIZWlnaHQoc2VsZi5pbWFnZUVkaXRDb250YWluZXJWaWV3LmJvdW5kcyktMjAtNDQpOwovLyAgICAgICAgICAgICAgICB0b3BGcmFtZS5vcmlnaW4ueSA9IChlbmRPcmlnaW5ZIC0gYmVnaW5PcmlnaW5ZKSA+PSAyMCA/IDAgOiAtKENHUmVjdEdldEhlaWdodChzZWxmLmltYWdlRWRpdENvbnRhaW5lclZpZXcuYm91bmRzKS0yMC00NCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBrTmV3RXZlbnRJbnZpdGF0aW9uQ2VudGVyQ2xpY2tGcm9tRmVlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBrTmV3RXZlbnRJbnZpdGF0aW9uQ2VudGVyQ2xpY2tGcm9tRmVlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlckNvbnRhaW5lclZpZXcuaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zdGlja2VyQ29udGFpbmVyVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlckNvbnRhaW5lclZpZXcuaGVpZ2h0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zdGlja2VyQ29udGFpbmVyVmlldwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RpY2tlckNvbnRhaW5lclZpZXdGcmFtZSBtYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RpY2tlckNvbnRhaW5lclZpZXdGcmFtZSBtYQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGlvbkZyYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
