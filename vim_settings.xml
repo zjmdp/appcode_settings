@@ -358,12 +358,12 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1472451528678">
-        <mark key="'" line="67" column="11" />
-        <mark key="[" line="153" column="20" />
-        <mark key="]" line="153" column="19" />
-        <mark key="^" line="153" column="19" />
-        <mark key="." line="153" column="19" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1472477004864">
+        <mark key="'" line="1549" column="0" />
+        <mark key="[" line="191" column="37" />
+        <mark key="]" line="191" column="42" />
+        <mark key="." line="191" column="42" />
+        <mark key="^" line="191" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/PostSearchViewController.m" timestamp="1470993286434">
         <mark key="'" line="12" column="16" />
@@ -640,6 +640,13 @@
         <mark key="^" line="89" column="70" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.h" timestamp="1472476378384">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1472030262075">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="33" column="0" />
@@ -653,6 +660,11 @@
         <mark key="]" line="525" column="23" />
         <mark key="^" line="525" column="23" />
         <mark key="." line="525" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerCollectionViewController.m" timestamp="1472475859936">
+        <mark key="[" line="92" column="55" />
+        <mark key="]" line="92" column="55" />
+        <mark key="." line="92" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/MarkdownEditorViewController.m" timestamp="1469093035766">
         <mark key="'" line="114" column="0" />
@@ -719,25 +731,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/FilterView.m" />
-      <jump line="59" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/FilterView.m" />
-      <jump line="126" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="15" column="144" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="283" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="299" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="294" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="24" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="312" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="188" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="71" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="187" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="74" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="192" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="189" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuTitleButton.m" />
-      <jump line="290" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="286" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenu.m" />
-      <jump line="36" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuUICalc.m" />
-      <jump line="68" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuUICalc.m" />
       <jump line="38" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
       <jump line="23" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="39" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -819,13 +812,32 @@
       <jump line="24" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.h" />
       <jump line="19" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" />
       <jump line="378" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerEditorContainerController.m" />
+      <jump line="408" column="20" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/StickerEditorContainerController.m" />
+      <jump line="148" column="38" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="149" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="147" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="151" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="153" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="154" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="155" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="156" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="157" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="159" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="160" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="161" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="170" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="191" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="145" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.h" />
+      <jump line="196" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="1544" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlclRvcENvbnN0cmFpbnQuY29uc3RhbnQgPSAoZW5kT3JpZ2luWSAtIGJlZ2luT3JpZ2luWSkgPj0gMjAgPyAwIDogLShDR1JlY3RHZXRIZWlnaHQoc2VsZi5pbWFnZUVkaXRDb250YWluZXJWaWV3LmJvdW5kcyktMjAtNDQpOwovLyAgICAgICAgICAgICAgICB0b3BGcmFtZS5vcmlnaW4ueSA9IChlbmRPcmlnaW5ZIC0gYmVnaW5PcmlnaW5ZKSA+PSAyMCA/IDAgOiAtKENHUmVjdEdldEhlaWdodChzZWxmLmltYWdlRWRpdENvbnRhaW5lclZpZXcuYm91bmRzKS0yMC00NCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>introVcHeight - [UIApplication sharedApplication].statusBarFrame.size.height - self.navigationController.navigationBar.size.height</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -834,49 +846,49 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>constain</text>
+        <text>introVcHeight - [UIApplication sharedApplication].statusBarFrame.size.height - self.navigationController.navigationBar.size.height</text>
       </register>
       <register name="/" type="4">
-        <text>invitationlist</text>
+        <text>self.tableView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlclRvcENvbnN0cmFpbnQuY29uc3RhbnQgPSAoZW5kT3JpZ2luWSAtIGJlZ2luT3JpZ2luWSkgPj0gMjAgPyAwIDogLShDR1JlY3RHZXRIZWlnaHQoc2VsZi5pbWFnZUVkaXRDb250YWluZXJWaWV3LmJvdW5kcyktMjAtNDQpOwovLyAgICAgICAgICAgICAgICB0b3BGcmFtZS5vcmlnaW4ueSA9IChlbmRPcmlnaW5ZIC0gYmVnaW5PcmlnaW5ZKSA+PSAyMCA/IDAgOiAtKENHUmVjdEdldEhlaWdodChzZWxmLmltYWdlRWRpdENvbnRhaW5lclZpZXcuYm91bmRzKS0yMC00NCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKHNlbGYudGFibGVWaWV3LnN1cGVydmlldyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlZWQK</text>
+        <text encoding="base64">ICAgIGlmKHNjcm9sbFZpZXcuY29udGVudE9mZnNldC55IDwgc2NyZWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrTmV3RXZlbnRJbnZpdGF0aW9uQ2VudGVyQ2xpY2tGcm9tRmVlZAo=</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc3RpY2tlckNvbnRhaW5lclZpZXcuaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zdGlja2VyQ29udGFpbmVyVmlldwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKHNlbGYudGFibGVWaWV3LnN1cGVydmlldyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RpY2tlckNvbnRhaW5lclZpZXdGcmFtZSBtYQo=</text>
+        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>invitationlist</last-search>
+      <last-search>self.tableView</last-search>
       <last-offset />
-      <last-pattern>invitationlist</last-pattern>
+      <last-pattern>self.tableView</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -884,9 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contentinset</entry>
-        <entry>edgeinset</entry>
-        <entry>banner</entry>
         <entry>right</entry>
         <entry>sectioninsets</entry>
         <entry>delete</entry>
@@ -904,6 +913,9 @@
         <entry>topView</entry>
         <entry>topic_click</entry>
         <entry>invitationlist</entry>
+        <entry>addsubview</entry>
+        <entry>addSubView:table</entry>
+        <entry>self.tableView</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
