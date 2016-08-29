@@ -10,7 +10,7 @@
         <mark key="." line="364" column="68" />
         <mark key="^" line="364" column="68" />
       </file>
-      <file name="/a.dummy" timestamp="1472203529736">
+      <file name="/a.dummy" timestamp="1472440060544">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="4" />
@@ -279,11 +279,11 @@
         <mark key="^" line="126" column="45" />
         <mark key="." line="126" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1472437995284">
-        <mark key="[" line="501" column="29" />
-        <mark key="]" line="501" column="30" />
-        <mark key="." line="501" column="30" />
-        <mark key="^" line="501" column="30" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/zh-Hans.lproj/Localizable.strings" timestamp="1472440069291">
+        <mark key="[" line="446" column="36" />
+        <mark key="]" line="446" column="37" />
+        <mark key="." line="446" column="37" />
+        <mark key="^" line="446" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/MZFormSheetPresentationController/MZTransition.h" timestamp="1472178880882">
         <mark key="[" line="36" column="0" />
@@ -845,8 +845,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbW1JBQ1NpZ25hbCByYWNfc2lnbmFsRm9yU2VsZWN0b3I6QHNlbGVjdG9yKHZpZXdXaWxsQXBwZWFyOildCiAgICAgICAgICAgICAgICBzdWJzY3JpYmVOZXh0Ol4oaWQgeCkgewogICAgICAgICAgICAgICAgICAgIFtmaWx0ZXJNZW51IHJlbW92ZUZyb21TdXBlcnZpZXddOwogICAgICAgICAgICAgICAgfV07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>态</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -855,7 +855,7 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>态</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
