@@ -111,12 +111,12 @@
         <mark key="^" line="86" column="119" />
         <mark key="." line="86" column="119" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1472461228799">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1472464413408">
         <mark key="'" line="19" column="16" />
-        <mark key="[" line="83" column="58" />
-        <mark key="]" line="83" column="63" />
-        <mark key="." line="83" column="63" />
-        <mark key="^" line="83" column="63" />
+        <mark key="[" line="72" column="57" />
+        <mark key="]" line="72" column="56" />
+        <mark key="." line="72" column="56" />
+        <mark key="^" line="72" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/TopicPostListViewController.m" timestamp="1471940685623">
         <mark key="'" line="22" column="0" />
@@ -180,12 +180,12 @@
         <mark key="." line="53" column="92" />
         <mark key="^" line="53" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1472461183924">
-        <mark key="'" line="289" column="4" />
-        <mark key="[" line="248" column="101" />
-        <mark key="]" line="248" column="104" />
-        <mark key="." line="248" column="104" />
-        <mark key="^" line="248" column="104" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1472464381832">
+        <mark key="'" line="290" column="4" />
+        <mark key="[" line="228" column="61" />
+        <mark key="]" line="228" column="61" />
+        <mark key="." line="228" column="61" />
+        <mark key="^" line="227" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
@@ -831,7 +831,7 @@
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Feed</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -840,13 +840,13 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>Feed</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>invitationlist</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbUmVwb3J0ZXIgZXZlbnQ6a05ld0V2ZW50SW52aXRhdGlvbkNlbnRlckNsaWNrRnJvbUZlZWRdOwo=</text>
+        <text encoding="base64">c3RhdGljIE5TU3RyaW5nICpjb25zdCBrTmV3RXZlbnRBcnRpY2xlQ2xpY2tGcm9tRXhwbG9yZSAgICAgICA9IEAiYXJ0aWNsZV9jbGlja19mcm9tX2V4cGxvcmUiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBrTmV3RXZlbnRJbnZpdGF0aW9uQ2VudGVyQ2xpY2tGcm9tRmVlZAo=</text>
