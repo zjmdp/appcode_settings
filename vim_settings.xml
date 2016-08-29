@@ -358,12 +358,12 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1472477004864">
-        <mark key="'" line="1549" column="0" />
-        <mark key="[" line="191" column="37" />
-        <mark key="]" line="191" column="42" />
-        <mark key="." line="191" column="42" />
-        <mark key="^" line="191" column="42" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1472479734400">
+        <mark key="'" line="1544" column="0" />
+        <mark key="[" line="1533" column="54" />
+        <mark key="]" line="1533" column="54" />
+        <mark key="." line="1533" column="54" />
+        <mark key="^" line="1533" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/PostSearchViewController.m" timestamp="1470993286434">
         <mark key="'" line="12" column="16" />
@@ -673,6 +673,7 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="40" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.m" timestamp="1472479154060" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" timestamp="1470664033568">
         <mark key="'" line="206" column="21" />
         <mark key="[" line="253" column="0" />
@@ -731,12 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" />
-      <jump line="23" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="39" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="146" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="147" column="15" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
-      <jump line="148" column="59" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="149" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="150" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="151" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
@@ -831,13 +826,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.h" />
       <jump line="196" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="1544" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="950" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="188" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="1555" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="171" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="890" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="1539" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>introVcHeight - [UIApplication sharedApplication].statusBarFrame.size.height - self.navigationController.navigationBar.size.height</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBbc2VsZiBydW5PbkJhY2tncm91bmRUaHJlYWQ6XnsKICAgICAgICB9XTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -846,49 +847,49 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>introVcHeight - [UIApplication sharedApplication].statusBarFrame.size.height - self.navigationController.navigationBar.size.height</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>self.tableView</text>
+        <text>didmove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKHNlbGYudGFibGVWaWV3LnN1cGVydmlldyk7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3ID0gW1tVSVRhYmxlVmlldyBhbGxvY10gaW5pdFdpdGhGcmFtZTpDR1JlY3RaZXJvCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU6VUlUYWJsZVZpZXdTdHlsZUdyb3VwZWRdOwovLyAgICBzZWxmLnRhYmxlVmlldy5hdXRvcmVzaXppbmdNYXNrID0gVUlWaWV3QXV0b3Jlc2l6aW5nRmxleGlibGVXaWR0aCB8IFVJVmlld0F1dG9yZXNpemluZ0ZsZXhpYmxlSGVpZ2h0OwogICAgc2VsZi50YWJsZVZpZXcuZGVsZWdhdGUgPSBzZWxmOwogICAgc2VsZi50YWJsZVZpZXcuZGF0YVNvdXJjZSA9IHNlbGY7CiAgICBzZWxmLnRhYmxlVmlldy5zZXBhcmF0b3JTdHlsZSA9IFVJVGFibGVWaWV3Q2VsbFNlcGFyYXRvclN0eWxlTm9uZTsKICAgIHNlbGYudGFibGVWaWV3LnRhYmxlRm9vdGVyVmlldyA9IFtbVUlWaWV3IGFsbG9jXSBpbml0V2l0aEZyYW1lOkNHUmVjdFplcm9dOwogICAgVUlOaWIgKm5pYiA9IFtVSU5pYiBuaWJXaXRoTmliTmFtZTprU2ltcGxlRmVlZENlbGxJZGVudGlmaWVyIGJ1bmRsZTpuaWxdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOm5pYiBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtTaW1wbGVGZWVkQ2VsbElkZW50aWZpZXJdOwogICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyQ2xhc3M6W0ZlZWROb3RpY2VDZWxsIGNsYXNzXSBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtGZWVkTm90aWNlQ2VsbElkZW50aWZpZXJdOwogICAgc2VsZi50YWJsZVZpZXcuc2VwYXJhdG9yU3R5bGUgPSBVSVRhYmxlVmlld0NlbGxTZXBhcmF0b3JTdHlsZU5vbmU7CiAgICBbc2VsZi52aWV3IGFkZFN1YnZpZXc6c2VsZi50YWJsZVZpZXddOwoKLy8gICAgQHdlYWtpZnkoc2VsZikKLy8gICAgR29SZWZyZXNoSGVhZGVyVmlldyAqaGVhZGVyID0gW0dvUmVmcmVzaEhlYWRlclZpZXcgaGVhZGVyV2l0aFJlZnJlc2hpbmdCbG9jazpeewovLyAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQovLyAgICAgICAgW3NlbGYgbG9hZERhdGFdOwovLyAgICB9XTsKLy8gICAgaGVhZGVyLmxhc3RVcGRhdGVkVGltZUxhYmVsLmhpZGRlbiA9IFlFUzsKLy8gICAgaGVhZGVyLnN0YXRlTGFiZWwuaGlkZGVuID0gWUVTOwovLyAgICBzZWxmLnRhYmxlVmlldy5tal9oZWFkZXIgPSBoZWFkZXI7Ci8vCi8vICAgIENHRmxvYXQgc2Vjb25kUGFnZUNvbnRlbnRPZmZzZXQgPSBTQ1JFRU5fSEVJR0hUIC0gc2VsZi5uYXZpZ2F0aW9uQ29udHJvbGxlci5uYXZpZ2F0aW9uQmFyLmhlaWdodDsKLy8gICAgTUpSZWZyZXNoQXV0b05vcm1hbEZvb3RlciAqZm9vdGVyID0gW01KUmVmcmVzaEF1dG9Ob3JtYWxGb290ZXIgZm9vdGVyV2l0aFJlZnJlc2hpbmdCbG9jazpeewovLyAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQovLyAgICAgICAgaWYoc2VsZi5pbnRyb1ZjID09IG5pbCl7CiAgICAgICAgICAgIEZlZWRJbnRyb1ZpZXdDb250cm9sbGVyICppbnRyb1ZjID0gW1tGZWVkSW50cm9WaWV3Q29udHJvbGxlciBhbGxvY10gaW5pdFdpdGhIZWFkZXJFbmFibGVkOllFU107CiAgICAgICAgICAgIGludHJvVmMudmlld01vZGVsID0gc2VsZi52aWV3TW9kZWw7Ci8vICAgICAgICAgICAgaW50cm9WYy5zY3JvbGxWaWV3ID0gc2VsZi5zY3JvbGxWaWV3OwogICAgICAgICAgICBbc2VsZiBhZGRDaGlsZFZpZXdDb250cm9sbGVyOmludHJvVmNdOwovLyAgICAgICAgICAgIGludHJvVmMudmlldy5mcmFtZSA9IENHUmVjdE1ha2UoMCwgc2Vjb25kUGFnZUNvbnRlbnRPZmZzZXQsIENHUmVjdEdldFdpZHRoKHNlbGYuc2Nyb2xsVmlldy5ib3VuZHMpLCBpbnRyb1ZjSGVpZ2h0KTsKLy8gICAgICAgICAgICBpbnRyb1ZjLnZpZXcuYXV0b3Jlc2l6aW5nTWFzayA9IFVJVmlld0F1dG9yZXNpemluZ0ZsZXhpYmxlV2lkdGggfCBVSVZpZXdBdXRvcmVzaXppbmdGbGV4aWJsZUhlaWdodDsKLy8gICAgICAgICAgICBbc2VsZi5zY3JvbGxWaWV3IGFkZFN1YnZpZXc6aW50cm9WYy52aWV3XTsKICAgICAgICAgICAgW3NlbGYudmlldyBhZGRTdWJ2aWV3OmludHJvVmMudmlld107CiAgICAgICAgICAgIFtpbnRyb1ZjIGRpZE1vdmVUb1BhcmVudFZpZXdDb250cm9sbGVyOnNlbGZdOwogICAgICAgICAgICBzZWxmLmludHJvVmMgPSBpbnRyb1ZjOwogICAgW3NlbGYudGFibGVWaWV3IG1hc19tYWtlQ29uc3RyYWludHM6XihNQVNDb25zdHJhaW50TWFrZXIgKm1ha2UpIHsKICAgICAgICBtYWtlLnRvcC5sZWFkaW5nLnRyYWlsaW5nLmVxdWFsVG8oc2VsZi50YWJsZVZpZXcuc3VwZXJ2aWV3KTsKICAgICAgICBtYWtlLmhlaWdodC5lcXVhbFRvKEAoW3NlbGYgZ2V0Vmlld0hlaWdodF0pKTsKICAgIH1dOwogICAgW2ludHJvVmMudmlldyBtYXNfbWFrZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhzZWxmLnRhYmxlVmlldy5tYXNfYm90dG9tKTsKICAgICAgICBtYWtlLmxlYWRpbmcudHJhaWxpbmcuZXF1YWxUbyhpbnRyb1ZjLnZpZXcpOwogICAgICAgIG1ha2UuaGVpZ2h0LmVxdWFsVG8oQChbc2VsZiBnZXRWaWV3SGVpZ2h0XSkpOwogICAgfV07Ci8vICAgICAgICB9Ci8vICAgICAgICBbVUlWaWV3IGFuaW1hdGVXaXRoRHVyYXRpb246MC41IGRlbGF5OjAuMCBvcHRpb25zOlVJVmlld0FuaW1hdGlvbk9wdGlvbkxheW91dFN1YnZpZXdzIGFuaW1hdGlvbnM6XnsKLy8gICAgICAgICAgICBzZWxmLnNjcm9sbFZpZXcuY29udGVudE9mZnNldCA9IENHUG9pbnRNYWtlKDAsIHNlY29uZFBhZ2VDb250ZW50T2Zmc2V0KTsKLy8gICAgICAgIH0gY29tcGxldGlvbjpeKEJPT0wgZmluaXNoZWQpIHsKLy8gICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcubWpfZm9vdGVyIGVuZFJlZnJlc2hpbmddOwovLyAgICAgICAgfV07CiAgICAgICAgW1JlcG9ydGVyIGV2ZW50OmtOZXdFdmVudEZlZWRQdWxsVG9EZXRhaWxdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKHNjcm9sbFZpZXcuY29udGVudE9mZnNldC55IDwgc2NyZWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZiBydW5PbkJhY2tncm91bmRUaHJlYWQ6XnsKICAgICAgICB9XTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW1VJVmlldyBhbmltYXRlV2l0aER1cmF0aW9uOjAuNSBhbmltYXRpb25zOl57CiAgICAgICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcgbWFzX3VwZGF0ZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhzZWxmLnRhYmxlVmlldy5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KC1bc2VsZiBnZXRWaWV3SGVpZ2h0XSk7CiAgICAgICAgICAgICAgICB9XTsKICAgICAgICAgICAgICAgIFtzZWxmLnZpZXcgbGF5b3V0SWZOZWVkZWRdOwogICAgICAgICAgICB9XTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW1VJVmlldyBhbmltYXRlV2l0aER1cmF0aW9uOjAuNSBhbmltYXRpb25zOl57CiAgICAgICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcgbWFzX3VwZGF0ZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhzZWxmLnRhYmxlVmlldy5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KC1bc2VsZiBnZXRWaWV3SGVpZ2h0XSk7CiAgICAgICAgICAgICAgICB9XTsKICAgICAgICAgICAgICAgIFtzZWxmLnZpZXcgbGF5b3V0SWZOZWVkZWRdOwogICAgICAgICAgICB9XTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJvdHRvbVZpZXcgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKHNlbGYudGFibGVWaWV3LnN1cGVydmlldyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBbVUlWaWV3IGFuaW1hdGVXaXRoRHVyYXRpb246MC41IGFuaW1hdGlvbnM6XnsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3IG1hc191cGRhdGVDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICAgICAgbWFrZS50b3AuZXF1YWxUbyhzZWxmLnRhYmxlVmlldy5zdXBlcnZpZXcpLndpdGgub2Zmc2V0KC1bc2VsZiBnZXRWaWV3SGVpZ2h0XSk7CiAgICAgICAgICAgIH1dOwogICAgICAgICAgICBbc2VsZi52aWV3IGxheW91dElmTmVlZGVkXTsKICAgICAgICB9XTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmIHJ1bm9uCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.tableView</last-search>
+      <last-search>didmove</last-search>
       <last-offset />
-      <last-pattern>self.tableView</last-pattern>
+      <last-pattern>didmove</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -896,7 +897,6 @@
     </search>
     <history>
       <history-search>
-        <entry>right</entry>
         <entry>sectioninsets</entry>
         <entry>delete</entry>
         <entry>reg</entry>
@@ -916,6 +916,7 @@
         <entry>addsubview</entry>
         <entry>addSubView:table</entry>
         <entry>self.tableView</entry>
+        <entry>didmove</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
