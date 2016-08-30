@@ -63,6 +63,9 @@
         <mark key="." line="121" column="27" />
         <mark key="^" line="121" column="27" />
       </file>
+      <file name="/LLDB" timestamp="1472569902841">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/BadgeCollectionViewController.m" timestamp="1468232424487">
         <mark key="'" line="183" column="15" />
         <mark key="[" line="207" column="33" />
@@ -338,6 +341,13 @@
         <mark key="]" line="171" column="53" />
         <mark key="." line="171" column="53" />
         <mark key="^" line="171" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" timestamp="1472569698903">
+        <mark key="'" line="233" column="13" />
+        <mark key="[" line="143" column="99" />
+        <mark key="]" line="143" column="112" />
+        <mark key="." line="143" column="112" />
+        <mark key="^" line="143" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PoiDetailViewController.m" timestamp="1471920216137">
         <mark key="'" line="37" column="11" />
@@ -726,7 +736,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
       <jump line="63" column="69" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
       <jump line="68" column="74" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
       <jump line="77" column="48" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
@@ -826,13 +835,14 @@
       <jump line="50" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreCenterViewController.m" />
       <jump line="48" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="323" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
+      <jump line="233" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">I2ltcG9ydCA8VExZU2h5TmF2QmFyL1RMWVNoeU5hdkJhck1hbmFnZXIuaD4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3IHNldHN0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>@&quot;.hint&quot;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -841,10 +851,10 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>@&quot;.hint&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>dialog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFBvc3RIZWFkZXJWaWV3ICpoZWFkZXJWaWV3ID0gW1tOU0J1bmRsZSBtYWluQnVuZGxlXSBsb2FkTmliTmFtZWQ6QCJQb3N0SGVhZGVyVmlldyIgb3duZXI6c2VsZiBvcHRpb25zOm5pbF1bMF07CiAgICBbaGVhZGVyVmlldyBjb25maWd1cmVWaWV3V2l0aDpzZWxmLmRhdGFTb3VyY2VzW3NlY3Rpb25dIHdpdGhDaGF0RW5hYmxlZDpOT107CiAgICByZXR1cm4gaGVhZGVyVmlldzsK</text>
@@ -881,16 +891,14 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search>dialog</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>dialog</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry>crop</entry>
         <entry>uila</entry>
         <entry>descLab</entry>
         <entry>icon_</entry>
@@ -909,6 +917,8 @@
         <entry>gro</entry>
         <entry>style</entry>
         <entry>group</entry>
+        <entry>monster</entry>
+        <entry>dialog</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
