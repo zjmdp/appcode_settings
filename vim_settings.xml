@@ -113,6 +113,7 @@
         <mark key="." line="32" column="45" />
         <mark key="^" line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/WeixinSDK/WXApi.h" timestamp="1472607224975" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1471927265583">
         <mark key="'" line="59" column="49" />
         <mark key="[" line="30" column="19" />
@@ -221,6 +222,12 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="49" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/WeixinSDKHelper.m" timestamp="1472607506271">
+        <mark key="[" line="115" column="65" />
+        <mark key="]" line="115" column="65" />
+        <mark key="." line="115" column="65" />
+        <mark key="^" line="115" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Post.h" timestamp="1471958481403">
         <mark key="'" line="44" column="1" />
         <mark key="[" line="134" column="0" />
@@ -267,6 +274,7 @@
         <mark key="." line="229" column="0" />
         <mark key="^" line="228" column="74" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/WeixinSDK/WXApiObject.h" timestamp="1472607414956" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/GuessFeedListViewController.h" timestamp="1467881184911">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="0" />
@@ -346,12 +354,12 @@
         <mark key="." line="171" column="53" />
         <mark key="^" line="171" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" timestamp="1472604995573">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" timestamp="1472608416020">
         <mark key="'" line="219" column="12" />
-        <mark key="[" line="218" column="82" />
-        <mark key="]" line="218" column="96" />
-        <mark key="." line="218" column="96" />
-        <mark key="^" line="218" column="96" />
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+        <mark key="^" line="234" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/PoiDetailViewController.m" timestamp="1471920216137">
         <mark key="'" line="37" column="11" />
@@ -503,6 +511,10 @@
         <mark key="]" line="273" column="59" />
         <mark key="^" line="276" column="101" />
         <mark key="." line="272" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/AcquiredBadgeView.m" timestamp="1472607899855">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Base.lproj/Localizable.strings" timestamp="1472020488370">
         <mark key="[" line="538" column="23" />
@@ -845,8 +857,8 @@
       <register name="a" type="2">
         <text encoding="base64">I2ltcG9ydCA8VExZU2h5TmF2QmFyL1RMWVNoeU5hdkJhck1hbmFnZXIuaD4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>WXSceneSession</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGhlaWdodCArPSAoc2VsZi5pbWFnZXMuY291bnQgLSAxKSAqIGltYWdlTWFyZ2luOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -855,40 +867,40 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>WXSceneSession</text>
+        <text>startPos</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDR0Zsb2F0IHJhdGlvID0gaW1hZ2Uuc2l6ZS53aWR0aCAvIGZpeGVkV2lkdGg7CiAgICAgICAgaGVpZ2h0ICs9IHJhdGlvICogaW1hZ2Uuc2l6ZS5oZWlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgIFVJSW1hZ2UgKmJvdHRvbUltYWdlID0gW1VJSW1hZ2UgaW1hZ2VOYW1lZDpAInNoYXJlX2JhcmNvZGUucG5nIl07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodCArPSAoc2VsZi5pbWFnZXMuY291bnQgLSAxKSAqIGltYWdlTWFyZ2luOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gbmlsOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQgKz0xMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFtmaXJzdEltYWdlIGRyYXdJblJlY3Q6Zmlyc3RJbWFnZUZyYW1lXTsKICAgIFtzZWNvbmRJbWFnZSBkcmF3SW5SZWN0OnNlY29uZEZyYW1lXTsK</text>
+        <text encoding="base64">ICAgIGJvdHRvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFVJSW1hZ2VKUEVHUmVwcmVzZW50YXRpb24oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQgKz0gcmF0aW8gKiBpbWFnZS5zaXplLmhlaWdodDsK</text>
+        <text encoding="base64">ICAgIG5zbG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIENHRmxvYXQgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
