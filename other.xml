@@ -1,4 +1,7 @@
 <application>
+  <component name="OCRunConfigurationsSettings">
+    <option name="STOP_RUNNING_SESSION_AUTOMATICALLY" value="true" />
+  </component>
   <component name="XcodeSettings">
     <option name="selectedXcode" value="/Applications/Xcode.app/Contents/Developer" />
     <option name="detectedXcodes">
