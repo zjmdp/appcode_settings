@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1472719198329">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1472723050754">
+        <mark key="'" line="402" column="157" />
         <mark key="[" line="100" column="63" />
         <mark key="]" line="100" column="64" />
         <mark key="." line="100" column="64" />
@@ -781,8 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="593" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" />
-      <jump line="44" column="110" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" />
       <jump line="221" column="71" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" />
       <jump line="409" column="38" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
       <jump line="109" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/BuyTicketSuccessViewController.m" />
@@ -881,6 +880,8 @@
       <jump line="311" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/MobileInputViewController.m" />
       <jump line="91" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="317" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="104" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="402" column="157" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -899,7 +900,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>NSP</text>
+        <text>desc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBOU011dGFibGVQYXJhZ3JhcGhTdHlsZSAqcGFyYWdyYXBoU3R5bGUgPSBbW05TTXV0YWJsZVBhcmFncmFwaFN0eWxlIGFsbG9jXSBpbml0XTsKICAgICAgICBwYXJhZ3JhcGhTdHlsZS5saW5lU3BhY2luZyA9IDQ7CiAgICAgICAgcGFyYWdyYXBoU3R5bGUubGluZUJyZWFrTW9kZSA9IE5TTGluZUJyZWFrQnlUcnVuY2F0aW5nVGFpbDsKICAgICAgICBbYXR0cmlidXRlZFN0cmluZyBhZGRBdHRyaWJ1dGU6TlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWUgdmFsdWU6cGFyYWdyYXBoU3R5bGUgcmFuZ2U6TlNNYWtlUmFuZ2UoMCwgc2VsZi5wb3N0LmRlc2MubGVuZ3RoKV07Cg==</text>
@@ -936,15 +937,14 @@
       </register>
     </registers>
     <search>
-      <last-search>NSP</last-search>
+      <last-search>desc</last-search>
       <last-offset />
-      <last-pattern>NSP</last-pattern>
+      <last-pattern>desc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>remainTime</entry>
         <entry>change</entry>
         <entry>delegate</entry>
         <entry>setTitleColor</entry>
@@ -964,6 +964,7 @@
         <entry>setContent</entry>
         <entry>nspa</entry>
         <entry>NSP</entry>
+        <entry>desc</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
