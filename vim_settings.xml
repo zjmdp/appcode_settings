@@ -123,10 +123,10 @@
         <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/NormalFeedCell.m" timestamp="1473043709819">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="147" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="63" column="147" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZLDropDownMenu/ZLDropDownMenuUICalc.m" timestamp="1472203740336">
         <mark key="'" line="68" column="14" />
@@ -691,6 +691,13 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1473046108018">
+        <mark key="'" line="369" column="42" />
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="67" />
+        <mark key="^" line="75" column="67" />
+        <mark key="." line="75" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1472030262075">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="33" column="0" />
@@ -777,15 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="160" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="161" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="170" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="191" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="145" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroViewController.h" />
-      <jump line="196" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="950" column="83" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="188" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="1555" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="171" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -877,13 +875,22 @@
       <jump line="23" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="24" column="93" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="451" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/WritePostViewController2.m" />
+      <jump line="21" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="39" column="39" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="452" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="73" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="451" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="72" column="48" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="359" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
+      <jump line="366" column="42" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VsZi50YWJsZVZpZXcgZGVsZXRlU2VjdGlvbnM6W05TSW5kZXhTZXQgaW5kZXhTZXRXaXRoSW5kZXg6Y3VycmVudEluZGV4UGF0aC5zZWN0aW9uXQogICAgICAgICAgICAgICAgICAgICAgd2l0aFJvd0FuaW1hdGlvbjpVSVRhYmxlVmlld1Jvd0FuaW1hdGlvbkF1dG9tYXRpY107Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3IHl5X3NldEltYWdlV2l0aFVSTDpVUkwoY292ZXIudXJsKSBwbGFjZWhvbGRlcjpQTEFDRUhPTERFUiBvcHRpb246WVlXZWJJbWFnZU9wdGlvblNldEltYWdlV2l0aEZhZGVBbmltYXRpb24gY29tcGxldGlvbjpuaWxdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>self.mapView.annotations</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIHNlbGYuc2h5TmF2QmFyTWFuYWdlci5zY3JvbGxWaWV3ID0gc2VsZi50YWJsZVZpZXc7Cg==</text>
@@ -892,49 +899,49 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>self.mapView.annotations</text>
       </register>
       <register name="/" type="4">
-        <text>shareto</text>
+        <text>self.mapView.anno</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c3RhdGljIE5TSW50ZWdlciBjb25zdCBTRUNUSU9OX0ZFRUQgICAgICAgICAgPSA0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3IHl5X3NldEltYWdlV2l0aFVSTDpVUkwoY292ZXIudXJsKSBwbGFjZWhvbGRlcjpQTEFDRUhPTERFUiBvcHRpb246WVlXZWJJbWFnZU9wdGlvblNldEltYWdlV2l0aEZhZGVBbmltYXRpb24gY29tcGxldGlvbjpuaWxdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3LmxheWVyIHl5X3NldEltYWdlV2l0aFVSTDo8IyhOU1VSTCAqKWltYWdlVVJMIz4gcGxhY2Vob2xkZXI6PCMoVUlJbWFnZSAqKXBsYWNlaG9sZGVyIz5dOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gTk87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExTR0xvZ0RlYnVnKEAic3dpdGNoIGNoYW5nZWQiKTsK</text>
+        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3IHl5X3NldEltYWdlV2l0aFVSTDpVUkwoY292ZXIudXJsKSBwbGFjZWhvbGRlcjpQTEFDRUhPTERFUiBvcHRpb246WVlXZWJJbWFnZU9wdGlvblNldEltYWdlV2l0aEZhZGVBbmltYXRpb24gY29tcGxldGlvbjpuaWxdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFtzZWxmLmNvdmVySW1hZ2VWaWV3LmxheWVyIHl5X3NldEltYWdlV2l0aFVSTDo8IyhOU1VSTCAqKWltYWdlVVJMIz4gcGxhY2Vob2xkZXI6PCMoVUlJbWFnZSAqKXBsYWNlaG9sZGVyIz5dOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmKHN3aXRjaENvbnRyb2wuaXNPbil7Cg==</text>
+        <text encoding="base64">ICAgIExTR0xvZ0RlYnVnKEAic3dpdGNoIGNoYW5nZWQiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5TTG9nKCBAIlRoZSBzd2l0Y2ggaXMgJUAiLCBzd2l0Y2hDb250cm9sLm9uID8gQCJPTiIgOiBAIk9GRiIgKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIChVSVN3aXRjaCAqKQo=</text>
+        <text encoding="base64">ICAgIGlmKHN3aXRjaENvbnRyb2wuaXNPbil7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKHNlbGYpCg==</text>
+        <text encoding="base64">ICAgIE5TTG9nKCBAIlRoZSBzd2l0Y2ggaXMgJUAiLCBzd2l0Y2hDb250cm9sLm9uID8gQCJPTiIgOiBAIk9GRiIgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2gK</text>
+        <text encoding="base64">ICAgIChVSVN3aXRjaCAqKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shareto</last-search>
+      <last-search>self.mapView.anno</last-search>
       <last-offset />
-      <last-pattern>shareto</last-pattern>
+      <last-pattern>self.mapView.anno</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -942,10 +949,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.tableView</entry>
-        <entry>didmove</entry>
-        <entry>tableFooter</entry>
-        <entry>insert</entry>
         <entry>feedintro</entry>
         <entry>loadRe</entry>
         <entry>self.selectedPoi</entry>
@@ -962,6 +965,10 @@
         <entry>onfeed</entry>
         <entry>feedsele</entry>
         <entry>shareto</entry>
+        <entry>categ</entry>
+        <entry>removeAno</entry>
+        <entry>removeA</entry>
+        <entry>self.mapView.anno</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
