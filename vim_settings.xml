@@ -347,8 +347,11 @@
         <mark key="." line="12" column="61" />
         <mark key="^" line="12" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/GoWebViewController.m" timestamp="1473177608945">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Common/GoWebViewController.m" timestamp="1473179710700">
         <mark key="'" line="11" column="41" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" timestamp="1471851366844">
         <mark key="'" line="75" column="16" />
@@ -400,6 +403,12 @@
         <mark key="]" line="212" column="55" />
         <mark key="^" line="212" column="55" />
         <mark key="." line="212" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.h" timestamp="1473155911342">
+        <mark key="'" line="211" column="0" />
+        <mark key="[" line="43" column="53" />
+        <mark key="]" line="43" column="53" />
+        <mark key="." line="43" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+User.h" timestamp="1473056845961">
         <mark key="'" line="7" column="11" />
@@ -868,6 +877,12 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.h" timestamp="1473143344067">
+        <mark key="'" line="13" column="19" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Invitation.m" timestamp="1471334138793">
         <mark key="'" line="12" column="26" />
         <mark key="[" line="27" column="63" />
@@ -1011,28 +1026,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFtbQXBwRGVsZWdhdGUgc2hhcmVkQXBwRGVsZWdhdGVdIGhhbmRsZU9wZW5VUkw6VVJMIGJhc2VOYXZjOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXJdOwogICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvblJlc3BvbnNlUG9saWN5Q2FuY2VsKTsK</text>
+        <text encoding="base64">LSBzZXR0b29sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFtbQXBwRGVsZWdhdGUgc2hhcmVkQXBwRGVsZWdhdGVdIGhhbmRsZU9wZW5VUkw6VVJMIGJhc2VOYXZjOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXJdOwogICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvblJlc3BvbnNlUG9saWN5Q2FuY2VsKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFthcHBdCg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSAodm9pZCl3ZWJWaWV3OihXS1dlYlZpZXcgKil3ZWJWaWV3IGRpZFJlY2VpdmVTZXJ2ZXJSZWRpcmVjdEZvclByb3Zpc2lvbmFsTmF2aWdhdGlvbjooV0tOYXZpZ2F0aW9uICopbmF2aWdhdGlvbiB7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSAodm9pZCl3ZWJWaWV3OihEWk5XZWJWaWV3ICopd2ViVmlldyBkaWRTdGFydFByb3Zpc2lvbmFsTmF2aWdhdGlvbjooV0tOYXZpZ2F0aW9uICopbmF2aWdhdGlvbiB7CiAgICBOU1VSTCAqVVJMID0gbmF2aWdhdGlvbi5yZXF1ZXN0LlVSTDsKfQo=</text>
+        <text encoding="base64">ICAgIFthcHBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEcK</text>
+        <text encoding="base64">LSAodm9pZCl3ZWJWaWV3OihXS1dlYlZpZXcgKil3ZWJWaWV3IGRpZFJlY2VpdmVTZXJ2ZXJSZWRpcmVjdEZvclByb3Zpc2lvbmFsTmF2aWdhdGlvbjooV0tOYXZpZ2F0aW9uICopbmF2aWdhdGlvbiB7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
