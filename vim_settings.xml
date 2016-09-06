@@ -197,6 +197,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppConstant.h" timestamp="1473150692096">
+        <mark key="'" line="215" column="74" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/NearbyFeedAnnotaion.h" timestamp="1467781675385">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="24" />
@@ -438,12 +444,12 @@
         <mark key="^" line="95" column="26" />
         <mark key="." line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1473180692432">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1473182056909">
         <mark key="'" line="165" column="21" />
-        <mark key="[" line="1087" column="0" />
-        <mark key="]" line="1087" column="0" />
-        <mark key="." line="1087" column="0" />
-        <mark key="^" line="1089" column="79" />
+        <mark key="[" line="1093" column="0" />
+        <mark key="]" line="1093" column="0" />
+        <mark key="." line="1093" column="0" />
+        <mark key="^" line="1095" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Search/PostSearchViewController.m" timestamp="1470993286434">
         <mark key="'" line="12" column="16" />
@@ -553,12 +559,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1473177251914">
-        <mark key="'" line="328" column="51" />
-        <mark key="[" line="320" column="0" />
-        <mark key="]" line="320" column="50" />
-        <mark key="^" line="159" column="5" />
-        <mark key="." line="159" column="5" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1473182127181">
+        <mark key="'" line="148" column="40" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Vendors/ZSSRichTextEditor/ZSSRichTextEditor.m" timestamp="1469108519487">
         <mark key="'" line="140" column="4" />
@@ -899,9 +904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
-      <jump line="217" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/FilterItem.h" />
       <jump line="12" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
       <jump line="224" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
       <jump line="219" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" />
@@ -999,13 +1001,16 @@
       <jump line="69" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="165" column="21" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="161" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="233" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="148" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNlbGYuZmlsdGVycyA9IFtbQXBwRGVsZWdhdGUgc2hhcmVkQXBwRGVsZWdhdGVdIGdldEZpbHRlcnNdOwogICAgc2VsZi5zb3J0SXRlbXMgPSBAW1tbU29ydEl0ZW0gYWxsb2NdIGluaXRXaXRoU29ydEZpbGVkOkAiZGVmYXVsdCIgZGlzcGxheU5hbWU6TlNMb2NhbGl6ZWRTdHJpbmcoQCJzb3J0LWl0ZW0uZGVmYXVsdCIsIEAi5pm66IO95o6S5bqPIildLAogICAgICAgICAgICBbW1NvcnRJdGVtIGFsbG9jXSBpbml0V2l0aFNvcnRGaWxlZDpAInByaWNlIiBkaXNwbGF5TmFtZTpOU0xvY2FsaXplZFN0cmluZyhAInNvcnQtaXRlbS5wcmljZSIsIEAi5Lu35qC85pyA5L2OIildLAogICAgICAgICAgICBbW1NvcnRJdGVtIGFsbG9jXSBpbml0V2l0aFNvcnRGaWxlZDpAImRpc3RhbmNlIiBkaXNwbGF5TmFtZTpOU0xvY2FsaXplZFN0cmluZyhAInNvcnQtaXRlbS5kaXN0YW5jZSIsIEAi56a75oiR5pyA6L+RIildLAogICAgICAgICAgICBbW1NvcnRJdGVtIGFsbG9jXSBpbml0V2l0aFNvcnRGaWxlZDpAImhvdCIgZGlzcGxheU5hbWU6TlNMb2NhbGl6ZWRTdHJpbmcoQCJzb3J0LWl0ZW0uaG90IiwgQCLkurrmsJTmnIDpq5giKV0sCiAgICAgICAgICAgIFtbU29ydEl0ZW0gYWxsb2NdIGluaXRXaXRoU29ydEZpbGVkOkAibmV3IiBkaXNwbGF5TmFtZTpOU0xvY2FsaXplZFN0cmluZyhAInNvcnQtaXRlbS5uZXciLCBAIuacgOaWsOS4iue6vyIpXV07CiAgICBpZihWQUxVRURBUlJBWShzZWxmLmZpbHRlcnMpKXsKICAgICAgICBaTERyb3BEb3duTWVudSAqZmlsdGVyTWVudSA9IFtbWkxEcm9wRG93bk1lbnUgYWxsb2NdIGluaXRdOwogICAgICAgIFtzZWxmLnZpZXcgYWRkU3VidmlldzpmaWx0ZXJNZW51XTsKICAgICAgICBmaWx0ZXJNZW51LmRlbGVnYXRlID0gc2VsZjsKICAgICAgICBmaWx0ZXJNZW51LmRhdGFTb3VyY2UgPSBzZWxmOwogICAgICAgIFtmaWx0ZXJNZW51IG1hc19tYWtlQ29uc3RyYWludHM6XihNQVNDb25zdHJhaW50TWFrZXIgKm1ha2UpIHsKICAgICAgICAgICAgbWFrZS50b3AubGVhZGluZy50cmFpbGluZy5lcXVhbFRvKGZpbHRlck1lbnUuc3VwZXJ2aWV3KTsKICAgICAgICAgICAgbWFrZS5oZWlnaHQubWFzX2VxdWFsVG8oMzYpOwogICAgICAgIH1dOwoKICAgICAgICBbc2VsZi50YWJsZVZpZXcgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLnRvcC5lcXVhbFRvKGZpbHRlck1lbnUubWFzX2JvdHRvbSkud2l0aC5vZmZzZXQoMTApOwogICAgICAgICAgICBtYWtlLmxlYWRpbmcudHJhaWxpbmcuYm90dG9tLmVxdWFsVG8oc2VsZi50YWJsZVZpZXcuc3VwZXJ2aWV3KTsKICAgICAgICB9XTsKCiAgICB9IGVsc2V7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gb3BlblVSTDpVUkxdOwo=</text>
+        <text encoding="base64">ICAgIHByb2dyZXNzVmlldwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLnNvcnRJdGVtcyA9IEBbW1tTb3J0SXRlbSBhbGxvY10gaW5pdFdpdGhTb3J0RmlsZWQ6QCJkZWZhdWx0IiBkaXNwbGF5TmFtZTpOU0xvY2FsaXplZFN0cmluZyhAInNvcnQtaXRlbS5kZWZhdWx0IiwgQCLmmbrog73mjpLluo8iKV0sCiAgICAgICAgICAgICAgICAgICAgICAgIFtbU29ydEl0ZW0gYWxsb2NdIGluaXRXaXRoU29ydEZpbGVkOkAicHJpY2UiIGRpc3BsYXlOYW1lOk5TTG9jYWxpemVkU3RyaW5nKEAic29ydC1pdGVtLnByaWNlIiwgQCLku7fmoLzmnIDkvY4iKV0sCiAgICAgICAgICAgICAgICAgICAgICAgIFtbU29ydEl0ZW0gYWxsb2NdIGluaXRXaXRoU29ydEZpbGVkOkAiZGlzdGFuY2UiIGRpc3BsYXlOYW1lOk5TTG9jYWxpemVkU3RyaW5nKEAic29ydC1pdGVtLmRpc3RhbmNlIiwgQCLnprvmiJHmnIDov5EiKV0sCiAgICAgICAgICAgICAgICAgICAgICAgIFtbU29ydEl0ZW0gYWxsb2NdIGluaXRXaXRoU29ydEZpbGVkOkAiaG90IiBkaXNwbGF5TmFtZTpOU0xvY2FsaXplZFN0cmluZyhAInNvcnQtaXRlbS5ob3QiLCBAIuS6uuawlOacgOmrmCIpXSwKICAgICAgICAgICAgICAgICAgICAgICAgW1tTb3J0SXRlbSBhbGxvY10gaW5pdFdpdGhTb3J0RmlsZWQ6QCJuZXciIGRpc3BsYXlOYW1lOk5TTG9jYWxpemVkU3RyaW5nKEAic29ydC1pdGVtLm5ldyIsIEAi5pyA5paw5LiK57q/IildXTsK</text>
@@ -1017,46 +1022,46 @@
         <text>none</text>
       </register>
       <register name="/" type="4">
-        <text>tableFoo</text>
+        <text>addSub</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBOU1VSTCAqVVJMID0gbmF2aWdhdGlvbkFjdGlvbi5yZXF1ZXN0LlVSTDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgZmFrZVByb2dyZXNzVmlld1N0YXJ0TG9hZGluZ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gb3BlblVSTDpVUkxdOwo=</text>
+        <text encoding="base64">ICAgIHByb2dyZXNzVmlldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFtbVUlBcHBsaWNhdGlvbiBzaGFyZWRBcHBsaWNhdGlvbl0gb3BlblVSTDpVUkxdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSBzZXR0b29sCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSBzZXR0b29sCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFtbQXBwRGVsZWdhdGUgc2hhcmVkQXBwRGVsZWdhdGVdIGhhbmRsZU9wZW5VUkw6VVJMIGJhc2VOYXZjOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXJdOwogICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvblJlc3BvbnNlUG9saWN5Q2FuY2VsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIFtbQXBwRGVsZWdhdGUgc2hhcmVkQXBwRGVsZWdhdGVdIGhhbmRsZU9wZW5VUkw6VVJMIGJhc2VOYXZjOnNlbGYubmF2aWdhdGlvbkNvbnRyb2xsZXJdOwogICAgZGVjaXNpb25IYW5kbGVyKFdLTmF2aWdhdGlvblJlc3BvbnNlUG9saWN5Q2FuY2VsKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFthcHBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tableFoo</last-search>
+      <last-search>addSub</last-search>
       <last-offset />
-      <last-pattern>tableFoo</last-pattern>
+      <last-pattern>addSub</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -1064,8 +1069,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isweixin</entry>
-        <entry>categor</entry>
         <entry>self.cate</entry>
         <entry>loadData</entry>
         <entry>titleForCo</entry>
@@ -1084,6 +1087,8 @@
         <entry>setTo</entry>
         <entry>setToolbarH</entry>
         <entry>tableFoo</entry>
+        <entry>update</entry>
+        <entry>addSub</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
