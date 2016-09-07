@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1473236882466">
+      <file name="/a.dummy" timestamp="1473238928866">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="4" />
@@ -354,12 +354,12 @@
         <mark key="." line="58" column="83" />
         <mark key="^" line="58" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1473237341635">
-        <mark key="'" line="221" column="0" />
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Services/WebService+Feed.m" timestamp="1473239016389">
+        <mark key="'" line="227" column="0" />
+        <mark key="[" line="64" column="79" />
+        <mark key="]" line="65" column="5" />
+        <mark key="." line="65" column="5" />
+        <mark key="^" line="65" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Feed.m" timestamp="1473166070296">
         <mark key="'" line="121" column="89" />
@@ -1003,7 +1003,7 @@
         <text encoding="base64">ICAgIHNlbGYuc2VhcmNoQmFyLmVuYWJsZXNSZXR1cm5LZXlBdXRvbWF0aWNhbGx5ID0gTk87Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2VsYwo=</text>
+        <text encoding="base64">ICAgIGlmKGZpbHRlcnMuYWxsa2UpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">Ly8gICAgW3NlbGYudGFibGVWaWV3IHJlZ2lzdGVyTmliOnBvc3RSZXBseSBmb3JDZWxsUmV1c2VJZGVudGlmaWVyOmtQb3N0UmVwbHlDZWxsSWRlbnRpZmllcl07Cg==</text>
@@ -1012,7 +1012,7 @@
         <text encoding="base64">I3ByYWdtYSBtYXJrIFRPQ3JvcFZpZXdDb250cm9sbGVyRGVsZWdhdGUKLSAodm9pZCljcm9wVmlld0NvbnRyb2xsZXI6KFRPQ3JvcFZpZXdDb250cm9sbGVyICopY3JvcFZpZXdDb250cm9sbGVyIGRpZENyb3BUb0ltYWdlOihVSUltYWdlICopaW1hZ2Ugd2l0aFJlY3Q6KENHUmVjdCljcm9wUmVjdCBhbmdsZTooTlNJbnRlZ2VyKWFuZ2xlIHsKICAgIFtzZWxmIG9uQ292ZXJBZGRlZDppbWFnZV07CiAgICBbY3JvcFZpZXdDb250cm9sbGVyIGRpc21pc3NWaWV3Q29udHJvbGxlckFuaW1hdGVkOllFUyBjb21wbGV0aW9uOm5pbF07Cn0K</text>
       </register>
       <register name="-" type="4">
-        <text>ge:self.selectedFilterDict</text>
+        <text>NSString</text>
       </register>
       <register name="/" type="4">
         <text>self.loaddata</text>
@@ -1021,31 +1021,31 @@
         <text encoding="base64">I2RlZmluZSBGSUxURVJfUEFUSCAgICAgICAgICAgICAgICAgICAgIEAiL3YyL2ZpbHRlcnMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2VsYwo=</text>
+        <text encoding="base64">ICAgIGlmKGZpbHRlcnMuYWxsa2UpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LSAoUkFDU2lnbmFsICopZ2V0RmVlZHNXaXRoRmlsdGVyczooTlNEaWN0aW9uYXJ5ICopZmlsdGVycyB7Cn0K</text>
+        <text encoding="base64">ICAgIE5TRGljdGlvbmFyeSAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbc2VsZl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFtSQUNPYnNlcnZlKCgoTmVhcmJ5Q2VudGVyVmlld0NvbnRyb2xsZXIgKikgc2VsZi5wYXJlbnRWaWV3Q29udHJvbGxlciksIHNlbGVjdGVkQ2F0ZWdvcnkpCiAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmliZU5leHQ6XihpZCB4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZiBsb2FkRGF0YVdpdGhOZXh0VXJsOm5pbF07CiAgICAgICAgICAgICAgICAgICAgICAgIH1dOwo=</text>
+        <text encoding="base64">ICAgIHNlbGYuc2VsYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5TU3RyaW5nICpjYXRlZ29yeSA9ICgoTmVhcmJ5Q2VudGVyVmlld0NvbnRyb2xsZXIgKilzZWxmLnBhcmVudFZpZXdDb250cm9sbGVyKS5zZWxlY3RlZENhdGVnb3J5Lm5hbWU7CiAgICBpZighVkFMVUVEU1RSSU5HKGNhdGVnb3J5KSl7CiAgICAgICAgY2F0ZWdvcnkgPSBAImFsbCI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgc2VsZi5sb2FkRGF0YURpc3Bvc2FibGUgPSBbW1tXZWJTZXJ2aWNlIHNoYXJlZFNlcnZpY2VdIGdldEZlZWRzQnlQYXRoOm5leHRVcmwKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhdGVnb3J5OmNhdGVnb3J5Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmlsdGVyczpzZWxmLnNlbGVjdGVkRmlsdGVyRGljdF0K</text>
+        <text encoding="base64">LSAoUkFDU2lnbmFsICopZ2V0RmVlZHNXaXRoRmlsdGVyczooTlNEaWN0aW9uYXJ5ICopZmlsdGVycyB7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeTpjYXRlZ29yeQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbc2VsZl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFtSQUNPYnNlcnZlKCgoTmVhcmJ5Q2VudGVyVmlld0NvbnRyb2xsZXIgKikgc2VsZi5wYXJlbnRWaWV3Q29udHJvbGxlciksIHNlbGVjdGVkQ2F0ZWdvcnkpCiAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmliZU5leHQ6XihpZCB4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZiBsb2FkRGF0YVdpdGhOZXh0VXJsOm5pbF07CiAgICAgICAgICAgICAgICAgICAgICAgIH1dOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
