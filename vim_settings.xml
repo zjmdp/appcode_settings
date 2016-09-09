@@ -2,14 +2,60 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1473435478043">
+        <mark key="[" line="66" column="105" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="36" />
+        <mark key="." line="68" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1473435609570">
+        <mark key="'" line="398" column="12" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="167" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="399" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="157" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="169" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="398" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+    </jumps>
+    <registers>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text>setTo</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>setTo</last-search>
+      <last-offset />
+      <last-pattern>setTo</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>hidden</entry>
+        <entry>Toobar</entry>
+        <entry>toobar</entry>
+        <entry>setTo</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
