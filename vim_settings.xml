@@ -854,8 +854,8 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1473396232948">
-        <mark key="'" line="373" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" timestamp="1473408232745">
+        <mark key="'" line="44" column="11" />
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="49" />
         <mark key="." line="371" column="31" />
@@ -1048,7 +1048,6 @@
       <jump line="834" column="31" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="840" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
       <jump line="133" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Chat/ChatRoomViewController.m" />
-      <jump line="44" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" />
       <jump line="373" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="426" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
@@ -1083,6 +1082,7 @@
       <jump line="45" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleViewController.m" />
       <jump line="22" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" />
       <jump line="10" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseViewController.m" />
+      <jump line="44" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseFeedListViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1101,7 +1101,7 @@
         <text>self.class.</text>
       </register>
       <register name="/" type="4">
-        <text>deal</text>
+        <text>sub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LSAodm9pZClkZWFsbG9jewo=</text>
@@ -1138,9 +1138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>deal</last-search>
+      <last-search>sub</last-search>
       <last-offset />
-      <last-pattern>deal</last-pattern>
+      <last-pattern>sub</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,7 +1148,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reload</entry>
         <entry>bypath</entry>
         <entry>right</entry>
         <entry>rightBar</entry>
@@ -1168,6 +1167,7 @@
         <entry>dea</entry>
         <entry>dealloc</entry>
         <entry>deal</entry>
+        <entry>sub</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
