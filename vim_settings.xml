@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" timestamp="1473473786463">
+        <mark key="'" line="176" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" timestamp="1473473482466">
+        <mark key="'" line="171" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1473435478043">
         <mark key="[" line="66" column="105" />
         <mark key="]" line="68" column="36" />
@@ -20,19 +26,23 @@
       <jump line="157" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
       <jump line="169" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
       <jump line="398" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" />
+      <jump line="169" column="27" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" />
+      <jump line="171" column="16" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" />
+      <jump line="176" column="39" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
     </jumps>
     <registers>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>setTo</text>
+        <text>cache</text>
       </register>
     </registers>
     <search>
-      <last-search>setTo</last-search>
+      <last-search>cache</last-search>
       <last-offset />
-      <last-pattern>setTo</last-pattern>
+      <last-pattern>cache</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -42,6 +52,8 @@
         <entry>Toobar</entry>
         <entry>toobar</entry>
         <entry>setTo</entry>
+        <entry>shared</entry>
+        <entry>cache</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
