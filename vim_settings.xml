@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" timestamp="1473483960916">
+        <mark key="[" line="108" column="51" />
+        <mark key="]" line="109" column="31" />
+        <mark key="." line="109" column="31" />
+        <mark key="^" line="109" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" timestamp="1473474565666">
         <mark key="'" line="358" column="12" />
       </file>
@@ -18,6 +24,7 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="68" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1473484194467" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1473435609570">
         <mark key="'" line="398" column="12" />
       </file>
@@ -56,11 +63,44 @@
       <jump line="358" column="12" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
     </jumps>
     <registers>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>_data =</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYgc2hvd0FjdGl2aXR5SW5kaWNhdG9yXTsKICAgICAgICAgICAgW3NlbGYgbG9hZERhdGFXaXRoTmV4dFVybDpuaWxdOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBbZmlsdGVyRGljdC5hbGxLZXlzIGVudW1lcmF0ZU9iamVjdHNVc2luZ0Jsb2NrOl4oaWQgb2JqLCBOU1VJbnRlZ2VyIGlkeCwgQk9PTCAqc3RvcCkgewogICAgICAgICAgICBGaWx0ZXJJdGVtICppdGVtID0gX2ZpbHRlckRpY3QKICAgICAgICB9XTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZihTWVNURU1fVkVSU0lPTl9HUkVBVEVSX1RIQU5fT1JfRVFVQUxfVE8oQCI4LjAiKSl7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -95,6 +135,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
