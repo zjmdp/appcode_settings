@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" timestamp="1473473786463">
-        <mark key="'" line="176" column="39" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" timestamp="1473474565666">
+        <mark key="'" line="358" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" timestamp="1473473482466">
         <mark key="'" line="171" column="16" />
+      </file>
+      <file name="/a.dummy" timestamp="1473474301859">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1473435478043">
         <mark key="[" line="66" column="105" />
@@ -30,19 +33,40 @@
       <jump line="169" column="27" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" />
       <jump line="171" column="16" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageManager.h" />
       <jump line="176" column="39" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="19" column="41" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="586" column="96" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="592" column="116" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="474" column="94" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="92" column="45" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="352" column="35" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="452" column="19" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="456" column="26" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="476" column="40" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="521" column="50" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="524" column="39" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="525" column="43" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="553" column="37" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="571" column="33" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="615" column="24" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="623" column="24" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="610" column="32" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="435" column="12" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="647" column="12" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
+      <jump line="358" column="12" filename="$USER_HOME$/Documents/workspace/iOS/YYKit/YYKit/Image/YYWebImageOperation.m" />
     </jumps>
     <registers>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text>_data =</text>
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search>_data =</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern>_data =</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -54,6 +78,10 @@
         <entry>setTo</entry>
         <entry>shared</entry>
         <entry>cache</entry>
+        <entry>scale</entry>
+        <entry>_data</entry>
+        <entry encoding="base64">c2VsZi5kYXRhID0g</entry>
+        <entry>_data =</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
