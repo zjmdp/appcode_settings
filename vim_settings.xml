@@ -67,7 +67,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="19" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/AsyncDisplayKit/examples/Kittens/Sample/KittenNode.mm" timestamp="1473493577667" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1473512201797">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="33" column="68" />
@@ -78,13 +77,18 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="68" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/ASImageDownloadManager.h" timestamp="1473554256401">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="46" />
+        <mark key="." line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/AsyncInvitationListViewController.h" timestamp="1473510525838">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="63" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1473484194467" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" timestamp="1473516913803">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -140,7 +144,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2VsZWN0aW9uU3R5bGUgPSB1aXRhYmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -152,31 +156,31 @@
         <text encoding="base64">LSAoaW5zdGFuY2V0eXBlKWluaXRXaXRoTWVzc2FnZTooTWVzc2FnZSAqKW1lc3NhZ2V7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc2VsZWN0aW9uU3R5bGUgPSB1aXRhYmxlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFtbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBnZXRNZXNzYWdlc0J5VHlwZTo8IyhOU1VJbnRlZ2VyKXR5cGUjPiB3aXRoUGFnZTo8IyhOU1VJbnRlZ2VyKXBhZ2UjPl0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEFTVGV4dENlbGxOb2RlICp0ZXh0Q2VsbE5vZGUgPSBbQVNUZXh0Q2VsbE5vZGUgbmV3XTsKICAgIHRleHRDZWxsTm9kZS50ZXh0ID0gQCJ0ZXN0IjsKICAgIHJldHVybiB0ZXh0Q2VsbE5vZGU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlbGYuc2VsZWN0aW9uU3R5bGUgPSB1aXRhYmxlCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFtbV2ViU2VydmljZSBzaGFyZWRTZXJ2aWNlXSBnZXRNZXNzYWdlc0J5VHlwZTo8IyhOU1VJbnRlZ2VyKXR5cGUjPiB3aXRoUGFnZTo8IyhOU1VJbnRlZ2VyKXBhZ2UjPl0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFTVGV4dENlbGxOb2RlICp0ZXh0Q2VsbE5vZGUgPSBbQVNUZXh0Q2VsbE5vZGUgbmV3XTsKICAgIHRleHRDZWxsTm9kZS50ZXh0ID0gQCJ0ZXN0IjsKICAgIHJldHVybiB0ZXh0Q2VsbE5vZGU7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gIF9pbWFnZU5vZGUuY29udGVudE1vZGUgPSBVSVZpZXdDb250ZW50TW9kZUNlbnRlcjsK</text>
+        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUuVVJMID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
