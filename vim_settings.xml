@@ -57,12 +57,12 @@
         <mark key="^" line="8" column="84" />
         <mark key="." line="8" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" timestamp="1473561140543">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="64" column="19" />
-        <mark key="]" line="64" column="31" />
-        <mark key="." line="64" column="31" />
-        <mark key="^" line="64" column="31" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" timestamp="1473566468268">
+        <mark key="'" line="51" column="88" />
+        <mark key="[" line="298" column="53" />
+        <mark key="]" line="298" column="52" />
+        <mark key="^" line="298" column="52" />
+        <mark key="." line="298" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" timestamp="1473488288631">
         <mark key="[" line="112" column="51" />
@@ -201,57 +201,68 @@
       <jump line="60" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
       <jump line="35" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
       <jump line="103" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="89" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
+      <jump line="94" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="298" column="52" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="25" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="32" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="34" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="42" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="45" column="87" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="48" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="51" column="88" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CGSizeZero</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vICAgICAgICAgICAgc2VsZi5kYXRhU291cmNlcyA9IFtbc2VsZi5kYXRhU291cmNlcyBhcnJheUJ5QWRkaW5nT2JqZWN0c0Zyb21BcnJheTphcnJheVdpdGhvdXREdXBsaWNhdGVdIG11dGFibGVDb3B5XTsK</text>
       </register>
       <register name="-" type="4">
-        <text>CGSizeZero</text>
+        <text>tableView</text>
       </register>
       <register name="/" type="4">
-        <text>shared</text>
+        <text>loadData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgVUlWaWV3ICpub3RoaW5nUGxhY2VIb2xkZXJWaWV3Owo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoc2VsZi5wYWdpbmF0aW9uVHlwZSA9PSBQQUdJTkFUSU9OX1RZUEVfUEFHRSl7Ci8vICAgICAgICAgICAgICAgIFtzZWxmIGxvYWREYXRhV2l0aFBhZ2U6KHNlbGYuY3VycmVudFBhZ2UgKyAxKV07Ci8vICAgICAgICAgICAgfWVsc2V7Ci8vICAgICAgICAgICAgICAgIFtzZWxmIGxvYWREYXRhV2l0aE5leHRVcmw6c2VsZi5uZXh0VXJsXTsKLy8gICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3Vibm9kZTpzZWxmLnRhYmxlVmlld107Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICAgICAgc2VsZi5kYXRhU291cmNlcyA9IFtbc2VsZi5kYXRhU291cmNlcyBhcnJheUJ5QWRkaW5nT2JqZWN0c0Zyb21BcnJheTphcnJheVdpdGhvdXREdXBsaWNhdGVdIG11dGFibGVDb3B5XTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIG5ldyBraXR0ZW5zIHRvIHRoZSBkYXRhIHNvdXJjZSAmIG5vdGlmeSB0YWJsZSBvZiBuZXcgaW5kZXhwYXRocwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgUkFDRGlzcG9zYWJsZSAqbG9hZERhdGFEaXNwb3NhYmxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSAoTlNJbnRlZ2VyKXRhYmxlVmlldzooVUlUYWJsZVZpZXcgKil0YWJsZVZpZXcgbnVtYmVyT2ZSb3dzSW5TZWN0aW9uOihOU0ludGVnZXIpc2VjdGlvbiB7CiAgICByZXR1cm4gc2VsZi5kYXRhU291cmNlcy5jb3VudDsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZmluZCBudW1iZXIgb2Yga2l0dGVucyBpbiB0aGUgZGF0YSBzb3VyY2UgYW5kIGNyZWF0ZSB0aGVpciBpbmRleFBhdGhzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgW3NlbGYgaGFuZGxlRXJyb3I6ZXJyb3JdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGF0YVNvdXJjZXMgPSB4OwogICAgICAgIFtzZWxmLnRhYmxlVmlldyByZWxvYWREYXRhXTsKLy8gICAgICAgICAgICAgICAgW3NlbGYgaGFuZGxlUmVzdWx0OnggYXRQYWdlOml0aFBhZ2VdOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmIGxvYWREYXRhV2l0aFBhZ2U6c2VsZi5jdXJyZW50UGFnZSArIDFdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3LmRlbGVnYXRlID0gc2VsZjsKICAgIHNlbGYudGFibGVWaWV3LmRhdGFTb3VyY2UgPSBzZWxmOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLnRhYmxlVmlldyBlbmRVcGRhdGVzXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2ltcG9ydCAiVUlWaWV3Q29udHJvbGxlcitCYXNlLmgiCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLnRhYmxlVmlldyBiZWdpblVwZGF0ZXNdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgQVNUYWJsZU5vZGUgKnRhYmxlTm9kZTsK</text>
+        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3Vibm9kZTpzZWxmLnRhYmxlVmlld107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>shared</last-search>
+      <last-search>loadData</last-search>
       <last-offset />
-      <last-pattern>shared</last-pattern>
+      <last-pattern>loadData</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -273,6 +284,7 @@
         <entry>InvitationList</entry>
         <entry>sharedImage</entry>
         <entry>shared</entry>
+        <entry>loadData</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
