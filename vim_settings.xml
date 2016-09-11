@@ -18,24 +18,32 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="86" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1473561221954">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/InvitationNode.h" timestamp="1473512125476">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="38" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Message/AsyncNotificationListViewController.m" timestamp="1473560228319">
-        <mark key="'" line="69" column="38" />
-        <mark key="[" line="69" column="38" />
-        <mark key="]" line="69" column="38" />
-        <mark key="." line="69" column="38" />
-        <mark key="^" line="69" column="38" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.m" timestamp="1473561052602">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" timestamp="1473511658643">
-        <mark key="'" line="413" column="95" />
-        <mark key="[" line="886" column="0" />
-        <mark key="]" line="888" column="77" />
-        <mark key="." line="886" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Message/AsyncNotificationListViewController.m" timestamp="1473561428152">
+        <mark key="'" line="56" column="38" />
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="15" />
+        <mark key="^" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" timestamp="1473561213904">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="8" column="90" />
+        <mark key="]" line="8" column="111" />
+        <mark key="." line="8" column="111" />
+        <mark key="^" line="8" column="111" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/InvitationNode.m" timestamp="1473512645804">
         <mark key="[" line="21" column="48" />
@@ -43,15 +51,24 @@
         <mark key="." line="21" column="48" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Message/AsyncNotificationListViewController.h" timestamp="1473561187996">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="8" column="84" />
+        <mark key="^" line="8" column="84" />
+        <mark key="." line="8" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" timestamp="1473561140543">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" timestamp="1473488288631">
         <mark key="[" line="112" column="51" />
         <mark key="]" line="113" column="31" />
         <mark key="." line="113" column="31" />
         <mark key="^" line="113" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/MessageCell.h" timestamp="1473512587177">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Helpers/ASImageDownloadManager.m" timestamp="1473558941946">
         <mark key="[" line="43" column="0" />
@@ -93,10 +110,6 @@
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/InvitationCell.m" timestamp="1473512201797">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="33" column="68" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1473435478043">
         <mark key="[" line="66" column="105" />
         <mark key="]" line="68" column="36" />
@@ -121,6 +134,10 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseRefreshTableViewController.h" timestamp="1473561001035">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="97" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" timestamp="1473560735000">
         <mark key="'" line="103" column="1" />
@@ -184,46 +201,48 @@
       <jump line="60" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
       <jump line="35" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
       <jump line="103" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/MessageNode.m" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="89" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CGSizeZero</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>CGSizeZero</text>
       </register>
       <register name="/" type="4">
         <text>shared</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSAodm9pZClnb3RvUHJvZmlsZTooVUlHZXN0dXJlUmVjb2duaXplciAqKXJlY29nbml6ZXJ7CiAgICBpZiAoc2VsZi5tZXNzYWdlLnVzZXJJZCA+IDApIHsKICAgICAgICBVSVN0b3J5Ym9hcmQgKnNiID0gW1VJU3Rvcnlib2FyZCBzdG9yeWJvYXJkV2l0aE5hbWU6QCJwcm9maWxlIiBidW5kbGU6bmlsXTsKICAgICAgICBQcm9maWxlQ2VudGVyVmlld0NvbnRyb2xsZXIgKnZjID0gW3NiIGluc3RhbnRpYXRlVmlld0NvbnRyb2xsZXJXaXRoSWRlbnRpZmllcjpAInByb2ZpbGVfY2VudGVyIl07CiAgICAgICAgdmMuaGlkZXNCb3R0b21CYXJXaGVuUHVzaGVkID0gWUVTOwogICAgICAgIHZjLnVzZXIgPSBbW1VzZXIgYWxsb2NdIGluaXRXaXRoVXNlcklkOnNlbGYubWVzc2FnZS51c2VySWRdOwogICAgICAgIFtbVXRpbHMgZ2V0TmF2aWdhdGlvbkNvbnRyb2xsZXJdIHB1c2hWaWV3Q29udHJvbGxlcjp2YyBhbmltYXRlZDpZRVNdOwogICAgfQp9Cg==</text>
+        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgVUlWaWV3ICpub3RoaW5nUGxhY2VIb2xkZXJWaWV3Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlbC5mCg==</text>
+        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3Vibm9kZTpzZWxmLnRhYmxlVmlld107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUuY29udGVudE1vZGUgPSBVSVZpZXdDb250ZW50TW9kZVNjYWxlQXNwZWN0Rml0OwogICAgc2VsZi5sb2dvSW1hZ2VOb2RlLmNsaXBzVG9Cb3VuZHMgPSBZRVM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlbGYubG9nb0ltYWdlTm9kZS5jb250ZW50TW9kZSA9IFVJVmlld0NvbnRlbnRNb2RlU2NhbGVBc3BlY3RGaXQ7CiAgICBzZWxmLmxvZ29JbWFnZU5vZGUuY2xpcHNUb0JvdW5kcyA9IFlFUzsK</text>
+        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgUkFDRGlzcG9zYWJsZSAqbG9hZERhdGFEaXNwb3NhYmxlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGYuTlNMb2coQCIiKTsK</text>
+        <text encoding="base64">LSAoTlNJbnRlZ2VyKXRhYmxlVmlldzooVUlUYWJsZVZpZXcgKil0YWJsZVZpZXcgbnVtYmVyT2ZSb3dzSW5TZWN0aW9uOihOU0ludGVnZXIpc2VjdGlvbiB7CiAgICByZXR1cm4gc2VsZi5kYXRhU291cmNlcy5jb3VudDsKfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEcK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgW3NlbGYgaGFuZGxlRXJyb3I6ZXJyb3JdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENHU2l6ZSBjb3ZlckltYWdlU2l6ZSA9IHNlbGYuY292ZXJJbWFnZU5vZGUuY2FsY3VsYXRlZFNpemU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGF0YVNvdXJjZXMgPSB4OwogICAgICAgIFtzZWxmLnRhYmxlVmlldyByZWxvYWREYXRhXTsKLy8gICAgICAgICAgICAgICAgW3NlbGYgaGFuZGxlUmVzdWx0OnggYXRQYWdlOml0aFBhZ2VdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUuY2FsY3VsYXRlZFNpemU7Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYudGFibGVWaWV3LmRlbGVnYXRlID0gc2VsZjsKICAgIHNlbGYudGFibGVWaWV3LmRhdGFTb3VyY2UgPSBzZWxmOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGl0bGVOb2RlLmZyYW1lID0gQ0dSZWN0TWFrZShrT3V0ZXJQYWRkaW5nICsga0F2YXRhckltYWdlU2l6ZSArIGtJbm5lclBhZGRpbmcsIGtPdXRlclBhZGRpbmcsIHRpdGxlU2l6ZS53aWR0aCwgdGl0bGVTaXplLmhlaWdodCk7Cg==</text>
+        <text encoding="base64">I2ltcG9ydCAiVUlWaWV3Q29udHJvbGxlcitCYXNlLmgiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgQVNUYWJsZU5vZGUgKnRhYmxlTm9kZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
