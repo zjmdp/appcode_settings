@@ -31,19 +31,17 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Message/AsyncNotificationListViewController.m" timestamp="1473561428152">
-        <mark key="'" line="56" column="38" />
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="15" />
-        <mark key="^" line="51" column="15" />
-        <mark key="." line="51" column="15" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Message/AsyncNotificationListViewController.m" timestamp="1473571619778">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" timestamp="1473561213904">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="8" column="90" />
-        <mark key="]" line="8" column="111" />
-        <mark key="." line="8" column="111" />
-        <mark key="^" line="8" column="111" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" timestamp="1473571631151">
+        <mark key="'" line="46" column="35" />
+        <mark key="[" line="9" column="49" />
+        <mark key="]" line="9" column="67" />
+        <mark key="." line="9" column="67" />
+        <mark key="^" line="9" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/InvitationNode.m" timestamp="1473512645804">
         <mark key="[" line="21" column="48" />
@@ -57,12 +55,11 @@
         <mark key="^" line="8" column="84" />
         <mark key="." line="8" column="84" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" timestamp="1473566468268">
-        <mark key="'" line="51" column="88" />
-        <mark key="[" line="298" column="53" />
-        <mark key="]" line="298" column="52" />
-        <mark key="^" line="298" column="52" />
-        <mark key="." line="298" column="52" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" timestamp="1473571803615">
+        <mark key="'" line="77" column="22" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="128" column="39" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/CategoryFeedListViewController.m" timestamp="1473488288631">
         <mark key="[" line="112" column="51" />
@@ -110,6 +107,17 @@
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASCollectionNode.h" timestamp="1473570480337" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncViewController.h" timestamp="1473570174288">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseViewController.m" timestamp="1473570240734">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/SettingViewController.m" timestamp="1473435478043">
         <mark key="[" line="66" column="105" />
         <mark key="]" line="68" column="36" />
@@ -125,6 +133,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="63" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncViewController.m" timestamp="1473570270152">
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/YYWebImage/YYWebImage/YYWebImageManager.h" timestamp="1473557059705">
         <mark key="'" line="219" column="5" />
@@ -206,70 +220,87 @@
       <jump line="87" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="150" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="298" column="52" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="296" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="11" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="297" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="104" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="127" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="25" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="97" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="56" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="1" column="1" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="59" column="9" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="63" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="37" column="30" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="120" column="17" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
-      <jump line="25" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="32" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="34" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="42" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="45" column="87" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="48" column="43" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
       <jump line="51" column="88" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="77" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.m" />
+      <jump line="9" column="67" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
+      <jump line="38" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
+      <jump line="43" column="2" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
+      <jump line="46" column="35" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncRefreshTableViewController.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgc2VsZi5kYXRhU291cmNlcyA9IFtbc2VsZi5kYXRhU291cmNlcyBhcnJheUJ5QWRkaW5nT2JqZWN0c0Zyb21BcnJheTphcnJheVdpdGhvdXREdXBsaWNhdGVdIG11dGFibGVDb3B5XTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTlNNdXRhYmxlQXJyYXkgKmluZGV4UGF0aHMgPSBbW05TTXV0YWJsZUFycmF5IGFsbG9jXSBpbml0XTsKICAgICAgICAgICAgZm9yIChOU0ludGVnZXIgaSA9IDA7IGkgPCBkYXRhLmNvdW50OyBpKyspIHsKICAgICAgICAgICAgICAgIFtpbmRleFBhdGhzIGFkZE9iamVjdDpbTlNJbmRleFBhdGggaW5kZXhQYXRoRm9yUm93OmkgaW5TZWN0aW9uOjBdXTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxmLmRhdGFTb3VyY2VzID0gW2RhdGEgbXV0YWJsZUNvcHldOwogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcgaW5zZXJ0Um93c0F0SW5kZXhQYXRoczppbmRleFBhdGhzIHdpdGhSb3dBbmltYXRpb246VUlUYWJsZVZpZXdSb3dBbmltYXRpb25GYWRlXTsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3IGVuZFVwZGF0ZXNdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>tableView</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>loadData</text>
+        <text>disable</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoc2VsZi5wYWdpbmF0aW9uVHlwZSA9PSBQQUdJTkFUSU9OX1RZUEVfUEFHRSl7Ci8vICAgICAgICAgICAgICAgIFtzZWxmIGxvYWREYXRhV2l0aFBhZ2U6KHNlbGYuY3VycmVudFBhZ2UgKyAxKV07Ci8vICAgICAgICAgICAgfWVsc2V7Ci8vICAgICAgICAgICAgICAgIFtzZWxmIGxvYWREYXRhV2l0aE5leHRVcmw6c2VsZi5uZXh0VXJsXTsKLy8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTlNNdXRhYmxlQXJyYXkgKmluZGV4UGF0aHMgPSBbW05TTXV0YWJsZUFycmF5IGFsbG9jXSBpbml0XTsKICAgICAgICAgICAgZm9yIChOU0ludGVnZXIgaSA9IDA7IGkgPCBkYXRhLmNvdW50OyBpKyspIHsKICAgICAgICAgICAgICAgIFtpbmRleFBhdGhzIGFkZE9iamVjdDpbTlNJbmRleFBhdGggaW5kZXhQYXRoRm9yUm93OmkgaW5TZWN0aW9uOjBdXTsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZWxmLmRhdGFTb3VyY2VzID0gW2RhdGEgbXV0YWJsZUNvcHldOwogICAgICAgICAgICBbc2VsZi50YWJsZVZpZXcgaW5zZXJ0Um93c0F0SW5kZXhQYXRoczppbmRleFBhdGhzIHdpdGhSb3dBbmltYXRpb246VUlUYWJsZVZpZXdSb3dBbmltYXRpb25GYWRlXTsKICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3IGVuZFVwZGF0ZXNdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgc2VsZi5kYXRhU291cmNlcyA9IFtbc2VsZi5kYXRhU291cmNlcyBhcnJheUJ5QWRkaW5nT2JqZWN0c0Zyb21BcnJheTphcnJheVdpdGhvdXREdXBsaWNhdGVdIG11dGFibGVDb3B5XTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2VsZi50YWJsZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWRkIG5ldyBraXR0ZW5zIHRvIHRoZSBkYXRhIHNvdXJjZSAmIG5vdGlmeSB0YWJsZSBvZiBuZXcgaW5kZXhwYXRocwo=</text>
+        <text encoding="base64">ICAgIHNlbGYuZGlzYWJsZUxvYWRpbmdXaGVuU3RhcnQgPSBZRVM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRhU291cmNlcyA9IFtkYXRhIG11dGFibGVDb3B5XTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZmluZCBudW1iZXIgb2Yga2l0dGVucyBpbiB0aGUgZGF0YSBzb3VyY2UgYW5kIGNyZWF0ZSB0aGVpciBpbmRleFBhdGhzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYuZGF0YVNvdXJjZXMgYWRkT2JqZWN0c0Zyb21BcnJheTphcnJheVdpdGhvdXREdXBsaWNhdGVdOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFtzZWxmIGxvYWREYXRhV2l0aFBhZ2U6c2VsZi5jdXJyZW50UGFnZSArIDFdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTlNJbnRlZ2VyIGV4aXN0aW5nUm93cyA9IHNlbGYuZGF0YVNvdXJjZXMuY291bnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLnRhYmxlVmlldyBlbmRVcGRhdGVzXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYudGFibGVWaWV3IHJlbG9hZERhdGFdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFtzZWxmLnRhYmxlVmlldyBiZWdpblVwZGF0ZXNdOwo=</text>
+        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3VidmlldzpzZWxmLnRhYmxlVmlld107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtzZWxmLnZpZXcgYWRkU3Vibm9kZTpzZWxmLnRhYmxlVmlld107Cg==</text>
+        <text encoding="base64">ICAgIHNlbGYgYWRkc3Vibm9kZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loadData</last-search>
+      <last-search>disable</last-search>
       <last-offset />
-      <last-pattern>loadData</last-pattern>
+      <last-pattern>disable</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
-        <entry>Toobar</entry>
         <entry>toobar</entry>
         <entry>setTo</entry>
         <entry>cache</entry>
@@ -285,6 +316,11 @@
         <entry>sharedImage</entry>
         <entry>shared</entry>
         <entry>loadData</entry>
+        <entry>reload</entry>
+        <entry>tableView</entry>
+        <entry>self.tableNode</entry>
+        <entry>loadDataWi</entry>
+        <entry>disable</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
