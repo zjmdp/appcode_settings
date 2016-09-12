@@ -139,18 +139,19 @@
         <mark key="^" line="348" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASTableViewProtocols.h" timestamp="1473670040969" />
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.m" timestamp="1473674305049">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.m" timestamp="1473674530664">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="46" column="28" />
         <mark key="^" line="47" column="96" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.h" timestamp="1473670754041">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="7" column="43" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.h" timestamp="1473674532760">
+        <mark key="'" line="7" column="11" />
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/HorizontalScrollFeedCell.m" timestamp="1472459593703">
         <mark key="[" line="86" column="118" />
@@ -235,12 +236,12 @@
         <mark key="." line="43" column="69" />
         <mark key="^" line="43" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/ArticleNode.m" timestamp="1473671143880">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="105" column="161" />
-        <mark key="]" line="106" column="11" />
-        <mark key="." line="106" column="11" />
-        <mark key="^" line="106" column="11" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/ArticleNode.m" timestamp="1473674550968">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="72" column="3" />
+        <mark key="." line="72" column="3" />
+        <mark key="^" line="72" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/SubCategoryFeedListViewController.m" timestamp="1473408998345">
         <mark key="'" line="343" column="46" />
@@ -1054,7 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="126" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="141" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="142" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -1154,6 +1154,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.m" />
       <jump line="87" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
+      <jump line="7" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostBottomNode.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1169,13 +1170,13 @@
         <text encoding="base64">ICAgICAgICBjYXNlIFBPU1RfVFlQRV9CQU5ORVI6ewogICAgICAgICAgICBCYW5uZXJGZWVkQ2VsbCAqY2VsbCA9IFt0YWJsZVZpZXcgZGVxdWV1ZVJldXNhYmxlQ2VsbFdpdGhJZGVudGlmaWVyOmtCYW5uZXJGZWVkQ2VsbElkZW50aWZpZXIgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICAgICAgICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6cG9zdC5iYW5uZXJzXTsKICAgICAgICAgICAgcmV0dXJuIGNlbGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_commentNodes</text>
+        <text>initwi</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIENHU2l6ZSBsaWtlQ291bnRTaXplID0gc2VsZi5saWtlQ291bnROb2RlLmNhbGN1bGF0ZWRTaXplOwo=</text>
+        <text encoding="base64">LSAoaW5zdGFuY2V0eXBlKWluaXRXaXRoUG9zdDooUG9zdCAqKXBvc3R7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1187,25 +1188,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvcml6b250YWxTdGFjayBzZXRjaGlsCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGhvcml6b250YWxTdGFjayBzZXRjaGlsCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBsYXlvdXR0aGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGYuZnJhbWUgb3JpZ2luRm9yQ2VudGVyZWRSZWN0V2l0aFNpCg==</text>
+        <text encoding="base64">LSBsYXlvdXR0aGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuZnJhbWUgb3JpZ2luRm9yQ2VudGVyZWRSZWN0V2l0aFNpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNncmVjdG9yaQo=</text>
+        <text encoding="base64">ICAgIHNlbGYuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYubGlrCg==</text>
+        <text encoding="base64">ICAgIGNncmVjdG9yaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
