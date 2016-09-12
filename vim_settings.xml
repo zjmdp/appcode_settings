@@ -389,12 +389,12 @@
         <mark key="." line="12" column="43" />
         <mark key="^" line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostUserNode.m" timestamp="1473691004697">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomViewNode/PostUserNode.m" timestamp="1473692235035">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="29" />
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+        <mark key="^" line="9" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CollectionViewCell/TextCollectionViewCell.m" timestamp="1472452218073">
         <mark key="'" line="44" column="0" />
@@ -1202,8 +1202,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFtzZWxmLnBvc3QgaW5jcmVhc2VWaWV3ZXJdOwogICAgaWYgKCFzZWxmLnBvc3QubGlrZWQpIHsKICAgICAgICBbc2VsZi5saWtlQnV0dG9uIHNjYWxlWFlBbmltYXRpb25dOwogICAgfQogICAgW3NlbGYucG9zdCBsaWtlXTsKICAgIFtzZWxmIHVwZGF0ZUxpa2VTdGF0ZV07Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>stringValue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">LSAodm9pZCl1cGRhdGVMaWtlU3RhdGV7CiAgICBpZiAoc2VsZi5wb3N0Lmxpa2VkKSB7CiAgICAgICAgW3NlbGYubGlrZUJ1dHRvbiBzZXRJbWFnZTpbVUlJbWFnZSBpbWFnZU5hbWVkOkAicG9zdF9jZWxsX2xpa2Vfc2VsZWN0ZWQiXSBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICB9ZWxzZXsKICAgICAgICBbc2VsZi5saWtlQnV0dG9uIHNldEltYWdlOltVSUltYWdlIGltYWdlTmFtZWQ6QCJwb3N0X2NlbGxfbGlrZV9ub3JtYWwiXSBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICB9CiAgICBbc2VsZi5saWtlc0NvdW50TGFiZWwgc2V0VGV4dDpbTlNTdHJpbmcgc3RyaW5nV2l0aEZvcm1hdDpMUyhAInBvc3QtY2VsbC5saWtlc19jb3VudCIpLCBAKHNlbGYucG9zdC5saWtlQ291bnQpXV07Cn0K</text>
@@ -1227,25 +1227,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
+        <text encoding="base64">LSBpbml0Vwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUucGxhY2Vob2xkZXJGYWRlRHVyYXRpb24gPSAwLjI7CiAgICBzZWxmLmNvdmVySW1hZ2VOb2RlLmRlZmF1bHRJbWFnZSA9IFBMQUNFSE9MREVSOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUucGxhY2Vob2xkZXJGYWRlRHVyYXRpb24gPSAwLjI7CiAgICBzZWxmLmNvdmVySW1hZ2VOb2RlLmRlZmF1bHRJbWFnZSA9IFBMQUNFSE9MREVSOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUucGxhY2Vob2xkZXJJbWFnZSA9IFtVSUltYWdlIGltYWdlTmFtZWQ6PCMoTlNTdHJpbmcgKiluYW1lIz5dCg==</text>
+        <text encoding="base64">ICAgIHNlbGYuY292ZXJJbWFnZU5vZGUucGxhY2Vob2xkZXJGYWRlRHVyYXRpb24gPSAwLjI7CiAgICBzZWxmLmNvdmVySW1hZ2VOb2RlLmRlZmF1bHRJbWFnZSA9IFBMQUNFSE9MREVSOwogICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
