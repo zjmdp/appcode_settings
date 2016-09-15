@@ -877,11 +877,12 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" timestamp="1473904710081">
-        <mark key="[" line="153" column="58" />
-        <mark key="]" line="153" column="60" />
-        <mark key="." line="153" column="60" />
-        <mark key="^" line="153" column="60" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" timestamp="1473923757799">
+        <mark key="'" line="45" column="46" />
+        <mark key="[" line="45" column="71" />
+        <mark key="]" line="46" column="44" />
+        <mark key="." line="46" column="44" />
+        <mark key="^" line="46" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedIntroContainerViewController.m" timestamp="1472532375121">
         <mark key="[" line="73" column="49" />
@@ -895,11 +896,11 @@
         <mark key="." line="55" column="75" />
         <mark key="^" line="55" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/BannerCellNode.m" timestamp="1473922625036">
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="22" />
-        <mark key="." line="25" column="22" />
-        <mark key="^" line="25" column="22" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/BannerCellNode.m" timestamp="1473923337018">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Tag/TagDetailViewController.m" timestamp="1473168754104">
         <mark key="'" line="129" column="25" />
@@ -1315,10 +1316,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/CategoryCellNode.m" timestamp="1473905711314">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/CategoryCellNode.m" timestamp="1473923405634">
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="24" column="9" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="24" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/NearbyFeedMapViewController.m" timestamp="1473407193455">
         <mark key="'" line="22" column="11" />
@@ -1362,8 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/PostCellNode.m" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/BaseAsyncPostListViewController.h" />
       <jump line="329" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="140" column="26" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
       <jump line="149" column="59" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Explore/ExploreViewController.m" />
@@ -1462,13 +1462,15 @@
       <jump line="30" column="2" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/GoAutoSlideNode.h" />
       <jump line="156" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/GoAutoSlideNode.m" />
       <jump line="227" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/GoAutoSlideNode.m" />
+      <jump line="21" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" />
+      <jump line="45" column="46" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/GoAutoSlideView/Classes/GoAutoSlideView.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIEFTTmV0d29ya0ltYWdlTm9kZSAqaW1hZ2VOb2RlID0gW1tBU05ldHdvcmtJbWFnZU5vZGUgYWxsb2NdIGluaXRXaXRoQ2FjaGU6W0FTSW1hZ2VDYWNoZU1hbmFnZXIgc2hhcmVkTWFuYWdlcl0gZG93bmxvYWRlcjpbQVNJbWFnZURvd25sb2FkTWFuYWdlciBzaGFyZWRNYW5hZ2VyXV07CiAgICBCYW5uZXIgKmJhbm5lciA9IHNlbGYuYmFubmVyc1twYWdlXTsKICAgIGltYWdlTm9kZS5VUkwgPSBVUkwoYmFubmVyLmNvdmVyVXJsKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>self.backView</text>
+        <text>bounds</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">LSAodm9pZCl1cGRhdGVMaWtlU3RhdGV7CiAgICBpZiAoc2VsZi5wb3N0Lmxpa2VkKSB7CiAgICAgICAgW3NlbGYubGlrZUJ1dHRvbiBzZXRJbWFnZTpbVUlJbWFnZSBpbWFnZU5hbWVkOkAicG9zdF9jZWxsX2xpa2Vfc2VsZWN0ZWQiXSBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICB9ZWxzZXsKICAgICAgICBbc2VsZi5saWtlQnV0dG9uIHNldEltYWdlOltVSUltYWdlIGltYWdlTmFtZWQ6QCJwb3N0X2NlbGxfbGlrZV9ub3JtYWwiXSBmb3JTdGF0ZTpVSUNvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICB9CiAgICBbc2VsZi5saWtlc0NvdW50TGFiZWwgc2V0VGV4dDpbTlNTdHJpbmcgc3RyaW5nV2l0aEZvcm1hdDpMUyhAInBvc3QtY2VsbC5saWtlc19jb3VudCIpLCBAKHNlbGYucG9zdC5saWtlQ291bnQpXV07Cn0K</text>
@@ -1477,52 +1479,52 @@
         <text encoding="base64">ICAgICAgICBjYXNlIFBPU1RfVFlQRV9CQU5ORVI6ewogICAgICAgICAgICBCYW5uZXJGZWVkQ2VsbCAqY2VsbCA9IFt0YWJsZVZpZXcgZGVxdWV1ZVJldXNhYmxlQ2VsbFdpdGhJZGVudGlmaWVyOmtCYW5uZXJGZWVkQ2VsbElkZW50aWZpZXIgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICAgICAgICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6cG9zdC5iYW5uZXJzXTsKICAgICAgICAgICAgcmV0dXJuIGNlbGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>self.backView</text>
+        <text>bounds</text>
       </register>
       <register name="/" type="4">
-        <text>contentSize</text>
+        <text>contentsize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgTlNNdXRhYmxlQXJyYXkgKmNvbnRlbnROb2RlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTlNMb2coQCJzZWxmLmJvdW5kczogJUAiLCBOU1N0cmluZ0Zyb21DR1JlY3Qoc2VsZi5ib3VuZHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYuYmFja1ZpZXcgY29uZmlndXJlVmlldzpzZWxmLmJhbm5lcnNdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnNnYAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBCYW5uZXJDZWxsICpiYW5uZXJDZWxsID0gW0Jhbm5lckNlbGwgbmV3XTsKLy8gICAgICAgICAgICBbYmFubmVyQ2VsbCBjb25maWd1cmVDZWxsOnNlbGYuYmFubmVyc107Ci8vICAgICAgICAgICAgcmV0dXJuIGJhbm5lckNlbGwuY29udGVudFZpZXc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTFNHTG9nRGVidWcoQCIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBbYmFubmVyVmlldyBjb25maWd1cmVWaWV3OnNlbGYuYmFubmVyc107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgW25vZGUgc2V0TmVlZHNMYXlvdXRdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld3MgYWRkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltYWdlTm9kZTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW2NhdGVnb3J5Q2VsbCBjb25maWd1cmVDZWxsOnNlbGYuY2F0ZWdvcmllc107Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgW2Jhbm5lclZpZXcgY29uZmlndXJlVmlldzpzZWxmLmJhbm5lcnNdOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIF9iYWNrVmlldwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW3NlbGYuYmFja1ZpZXcgY29uZmlndXJlVmlldzpzZWxmLmJhbm5lcnNdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAoQVNEaXNwbGF5Tm9kZSAqKUdvQXV0b1NsaWRlTm9kZTooR29BdXRvU2xpZGVOb2RlICopR29BdXRvU2xpZGVOb2RlIG5vZGVBdFBhZ2U6KE5TSW50ZWdlcilwYWdlIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBCYW5uZXJDZWxsICpiYW5uZXJDZWxsID0gW0Jhbm5lckNlbGwgbmV3XTsKLy8gICAgICAgICAgICBbYmFubmVyQ2VsbCBjb25maWd1cmVDZWxsOnNlbGYuYmFubmVyc107Ci8vICAgICAgICAgICAgcmV0dXJuIGJhbm5lckNlbGwuY29udGVudFZpZXc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contentSize</last-search>
+      <last-search>contentsize</last-search>
       <last-offset />
-      <last-pattern>contentSize</last-pattern>
+      <last-pattern>contentsize</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -1530,7 +1532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>36</entry>
         <entry>heightFor</entry>
         <entry>cellfor</entry>
         <entry>hotTags</entry>
@@ -1550,6 +1551,7 @@
         <entry>tableView</entry>
         <entry>height</entry>
         <entry>contentSize</entry>
+        <entry>contentsize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
