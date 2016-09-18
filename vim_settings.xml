@@ -301,10 +301,17 @@
         <mark key="^" line="7" column="33" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/AvatarCellNode.m" timestamp="1474192560568">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/AvatarCellNode.h" timestamp="1474192698424">
+        <mark key="[" line="8" column="55" />
+        <mark key="]" line="8" column="55" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="8" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/AvatarCellNode.m" timestamp="1474192696056">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="26" column="65" />
+        <mark key="^" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/GuessFeedListViewController.h" timestamp="1467881184911">
         <mark key="'" line="0" column="0" />
@@ -857,12 +864,12 @@
         <mark key="." line="14" column="75" />
         <mark key="^" line="14" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/FeedDetailNode/FeedGoersNode.m" timestamp="1474192082200">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="58" />
-        <mark key="^" line="63" column="58" />
-        <mark key="." line="63" column="58" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/FeedDetailNode/FeedGoersNode.m" timestamp="1474192824112">
+        <mark key="'" line="60" column="50" />
+        <mark key="[" line="72" column="63" />
+        <mark key="]" line="73" column="63" />
+        <mark key="." line="73" column="63" />
+        <mark key="^" line="73" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Models/Banner.m" timestamp="1473842649848">
         <mark key="'" line="92" column="0" />
@@ -1179,6 +1186,7 @@
         <mark key="." line="78" column="84" />
         <mark key="^" line="78" column="84" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/Details/ASCollectionViewFlowLayoutInspector.h" timestamp="1474192737826" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/PostCellCollectionLayout.m" timestamp="1473756166216">
         <mark key="'" line="10" column="16" />
         <mark key="[" line="158" column="0" />
@@ -1276,12 +1284,6 @@
         <mark key="]" line="30" column="67" />
         <mark key="." line="30" column="67" />
         <mark key="^" line="30" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" timestamp="1474173953722">
-        <mark key="'" line="268" column="26" />
-        <mark key="[" line="266" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="^" line="268" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedPostListViewController.h" timestamp="1473740169985">
         <mark key="[" line="6" column="0" />
@@ -1400,8 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="93" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
-      <jump line="497" column="99" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="500" column="14" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="501" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="513" column="27" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
@@ -1500,13 +1500,15 @@
       <jump line="83" column="45" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="229" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
       <jump line="230" column="10" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedDetailViewController.m" />
+      <jump line="13" column="117" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/FeedDetailNode/FeedGoersNode.m" />
+      <jump line="60" column="50" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/FeedDetailNode/FeedGoersNode.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">LSAodm9pZCl1cGRhdGVMaWtlU3RhdGVXaXRoRmVlZDooRmVlZCAqKWZlZWQ7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>asrange</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">LSAodm9pZCl1cGRhdGVMaWtlU3RhdGVXaXRoRmVlZDooRmVlZCAqKWZlZWQgewogICAgc2VsZi5mZWVkID0gZmVlZDsKICAgIFtzZWxmIHVwZGF0ZUxpa2VzSW5mb107CiAgICBbc2VsZiBzZXROZWVkc0xheW91dF07Cn0K</text>
@@ -1515,43 +1517,43 @@
         <text encoding="base64">ICAgICAgICBjYXNlIFBPU1RfVFlQRV9CQU5ORVI6ewogICAgICAgICAgICBCYW5uZXJGZWVkQ2VsbCAqY2VsbCA9IFt0YWJsZVZpZXcgZGVxdWV1ZVJldXNhYmxlQ2VsbFdpdGhJZGVudGlmaWVyOmtCYW5uZXJGZWVkQ2VsbElkZW50aWZpZXIgZm9ySW5kZXhQYXRoOmluZGV4UGF0aF07CiAgICAgICAgICAgIFtjZWxsIGNvbmZpZ3VyZUNlbGw6cG9zdC5iYW5uZXJzXTsKICAgICAgICAgICAgcmV0dXJuIGNlbGw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>layout</text>
+        <text>asrange</text>
       </register>
       <register name="/" type="4">
         <text>loadDetail</text>
       </register>
-      <register name="0" type="4">
-        <text>feed-goers.title</text>
+      <register name="0" type="2">
+        <text encoding="base64">LSAoaW5zdGFuY2V0eXBlKWluaXRXaXRoQXZhdGFyVXJsOihOU1N0cmluZyAqKWF2YXRhclVybHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldXRybiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBsYXlvdXRUYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlbC5mYXZhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LSBsYXlvdQo=</text>
+        <text encoding="base64">LSBsYXlvdXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLlVSTCA9IAo=</text>
+        <text encoding="base64">I2ltcG9ydCA8Rm91bmRhdGlvbi9Gb3VuZGF0aW9uLmg+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV1dHJuIFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnNpbmQK</text>
+        <text encoding="base64">LSBsYXlvdXRUYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
