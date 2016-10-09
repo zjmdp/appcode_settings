@@ -384,12 +384,12 @@
         <mark key="." line="84" column="13" />
         <mark key="^" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1475993354628">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1475995691250">
         <mark key="'" line="196" column="33" />
-        <mark key="[" line="271" column="42" />
-        <mark key="]" line="271" column="42" />
-        <mark key="." line="271" column="42" />
-        <mark key="^" line="271" column="42" />
+        <mark key="[" line="282" column="104" />
+        <mark key="]" line="283" column="94" />
+        <mark key="." line="283" column="94" />
+        <mark key="^" line="283" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/GoActionSheet.m" timestamp="1470206752592">
         <mark key="'" line="15" column="0" />
@@ -1344,8 +1344,8 @@
         <mark key="." line="90" column="55" />
         <mark key="^" line="90" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1475993617747">
-        <mark key="'" line="822" column="0" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1475995290275">
+        <mark key="'" line="819" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="35" />
         <mark key="." line="817" column="10" />
@@ -1395,7 +1395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="41" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="460" column="84" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="745" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
       <jump line="746" column="34" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Profile/ProfileCenterViewController.m" />
@@ -1495,6 +1494,7 @@
       <jump line="195" column="33" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" />
       <jump line="34" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
       <jump line="817" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
+      <jump line="819" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
