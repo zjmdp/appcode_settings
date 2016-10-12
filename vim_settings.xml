@@ -10,7 +10,7 @@
         <mark key="." line="30" column="51" />
         <mark key="^" line="30" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1476179903600">
+      <file name="/a.dummy" timestamp="1476238978076">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
@@ -425,7 +425,11 @@
         <mark key="." line="84" column="13" />
         <mark key="^" line="84" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/ImageTargetGLView.mm" timestamp="1476195983693" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/ImageTargetGLView.mm" timestamp="1476238969964">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/FeedCenterViewController.m" timestamp="1475998444230">
         <mark key="'" line="89" column="4" />
         <mark key="[" line="257" column="0" />
@@ -1436,7 +1440,7 @@
         <mark key="^" line="36" column="33" />
         <mark key="." line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/ImageTargets/ImageTargetsEAGLView.mm" timestamp="1476190803579">
+      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/ImageTargets/ImageTargetsEAGLView.mm" timestamp="1476238977512">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="61" column="0" />
       </file>
@@ -1660,7 +1664,7 @@
         <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMsIHN0cm9uZykgQVNCdXR0b25Ob2RlICpwbGF5QnV0dG9uTm9kZTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIHsKICAgIC8vIC0tLSBEYXRhIHByaXZhdGUgdG8gdGhpcyB1bml0IC0tLQoKICAgIC8vIFRlYXBvdCB0ZXh0dXJlIGZpbGVuYW1lcwogICAgY29uc3QgY2hhciogdGV4dHVyZUZpbGVuYW1lc1tdID0gewogICAgICAgICJUZXh0dXJlVGVhcG90QnJhc3MucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdEJsdWUucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdFJlZC5wbmciLAogICAgICAgICJidWlsZGluZ190ZXh0dXJlLmpwZWciCiAgICB9OwogICAgCiAgICAvLyBNb2RlbCBzY2FsZSBmYWN0b3IKICAgIGNvbnN0IGZsb2F0IGtPYmplY3RTY2FsZU5vcm1hbCA9IDMuMGY7CiAgICBjb25zdCBmbG9hdCBrT2JqZWN0U2NhbGVPZmZUYXJnZXRUcmFja2luZyA9IDEyLjBmOwp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAiVGV4dHVyZVRlYXBvdEJsdWUucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdFJlZC5wbmciLAogICAgICAgICJidWlsZGluZ190ZXh0dXJlLmpwZWciCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICBpZihWQUxVRURTVFJJTkcoY292ZXIudmlkZW9VcmwpKXsKICAgICAgICAgICAgc2VsZi5wbGF5QnV0dG9uTm9kZSA9IFtBU0J1dHRvbk5vZGUgbmV3XTsKICAgICAgICAgICAgW3NlbGYucGxheUJ1dHRvbk5vZGUgc2V0QmFja2dyb3VuZEltYWdlOltVSUltYWdlIGltYWdlTmFtZWQ6QCJpY29uX3BsYXkiXSBmb3JTdGF0ZTpBU0NvbnRyb2xTdGF0ZU5vcm1hbF07CiAgICAgICAgICAgIFtzZWxmLnBsYXlCdXR0b25Ob2RlIGFkZFRhcmdldDpzZWxmIGFjdGlvbjpAc2VsZWN0b3IocGxheVZpZGVvKSBmb3JDb250cm9sRXZlbnRzOkFTQ29udHJvbE5vZGVFdmVudFRvdWNoVXBJbnNpZGVdOwogICAgICAgIH0K</text>
@@ -1681,34 +1685,34 @@
         <text encoding="base64">bmFtZXNwYWNlIHsKICAgIC8vIC0tLSBEYXRhIHByaXZhdGUgdG8gdGhpcyB1bml0IC0tLQoKICAgIC8vIFRlYXBvdCB0ZXh0dXJlIGZpbGVuYW1lcwogICAgY29uc3QgY2hhciogdGV4dHVyZUZpbGVuYW1lc1tdID0gewogICAgICAgICJUZXh0dXJlVGVhcG90QnJhc3MucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdEJsdWUucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdFJlZC5wbmciLAogICAgICAgICJidWlsZGluZ190ZXh0dXJlLmpwZWciCiAgICB9OwogICAgCiAgICAvLyBNb2RlbCBzY2FsZSBmYWN0b3IKICAgIGNvbnN0IGZsb2F0IGtPYmplY3RTY2FsZU5vcm1hbCA9IDMuMGY7CiAgICBjb25zdCBmbG9hdCBrT2JqZWN0U2NhbGVPZmZUYXJnZXRUcmFja2luZyA9IDEyLjBmOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiVGV4dHVyZVRlYXBvdEJsdWUucG5nIiwKICAgICAgICAiVGV4dHVyZVRlYXBvdFJlZC5wbmciLAogICAgICAgICJidWlsZGluZ190ZXh0dXJlLmpwZWciCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHByaXZhdGUKVGV4dHVyZSogYXVnbWVudGF0aW9uVGV4dHVyZVtrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXNdOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">QHByaXZhdGUKVGV4dHVyZSogYXVnbWVudGF0aW9uVGV4dHVyZVtrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXNdOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QHByb3BlcnR5IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMpIFRleHR1cmUqIGF1Z21lbnRhdGlvblRleHR1cmVba051bUF1Z21lbnRhdGlvblRleHR1cmVzXTsK</text>
+        <text encoding="base64">QHByb3BlcnR5IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2RlZmluZSBrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXMgNAoK</text>
+        <text encoding="base64">QHByb3BlcnR5IChub25hdG9taWMpIFRleHR1cmUqIGF1Z21lbnRhdGlvblRleHR1cmVba051bUF1Z21lbnRhdGlvblRleHR1cmVzXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2RlZmluZSBrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXMgNAo=</text>
+        <text encoding="base64">I2RlZmluZSBrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXMgNAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSByZW5kZXIK</text>
+        <text encoding="base64">I2RlZmluZSBrTnVtQXVnbWVudGF0aW9uVGV4dHVyZXMgNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoWUVTID09IFtzZWxmLnZhcHAgaXNSZXRpbmFEaXNwbGF5XSkgewogICAgICAgICAgICBbc2VsZiBzZXRDb250ZW50U2NhbGVGYWN0b3I6W1VJU2NyZWVuIG1haW5TY3JlZW5dLm5hdGl2ZVNjYWxlXTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">LSByZW5kZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
