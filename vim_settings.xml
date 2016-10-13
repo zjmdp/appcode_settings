@@ -1368,12 +1368,12 @@
         <mark key="^" line="8" column="45" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" timestamp="1476345958626">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="184" column="106" />
-        <mark key="]" line="184" column="118" />
-        <mark key="." line="184" column="118" />
-        <mark key="^" line="184" column="118" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" timestamp="1476352235281">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="49" column="46" />
+        <mark key="." line="49" column="46" />
+        <mark key="^" line="49" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/AddWeixinTroopView.m" timestamp="1468295563779">
         <mark key="'" line="10" column="11" />
@@ -1495,19 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="119" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="157" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="109" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ArticleCellNode.m" />
-      <jump line="149" column="23" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ArticleCellNode.m" />
-      <jump line="117" column="52" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ArticleCellNode.m" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
-      <jump line="63" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
-      <jump line="62" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
-      <jump line="72" column="13" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
-      <jump line="47" column="51" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/CustomView/PostHeaderView.m" />
-      <jump line="87" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
-      <jump line="222" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="227" column="18" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="246" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="249" column="22" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
@@ -1595,13 +1582,26 @@
       <jump line="275" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsViewController.mm" />
       <jump line="101" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Application/SampleApplication3DModel.m" />
       <jump line="24" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsViewController.mm" />
+      <jump line="116" column="12" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="179" column="19" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="182" column="36" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="47" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="48" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="49" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="51" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="52" column="8" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="172" column="6" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="173" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="174" column="4" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="220" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/NormalFeedCellNode.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFZ1Zm9yaWE6OlZpZXdMaXN0JiB2aWV3TGlzdCA9IHJlbmRlcmluZ1ByaW1pdGl2ZXMuZ2V0UmVuZGVyaW5nVmlld3MoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFib3ZlQ292ZXJJbWFnZUxheW91dC5jb3JuZXIK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1616,49 +1616,49 @@
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>activate</text>
+        <text>self.coverimage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJPT0wgb2ZmVGFyZ2V0VHJhY2tpbmdFbmFibGVkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2Yy5oaWRlc0JvdHRvbUJhcldoZW5QdXNoZWQgPSBZRVM7Cg==</text>
+        <text encoding="base64">ICAgIGFib3ZlQ292ZXJJbWFnZUxheW91dC5jb3JuZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmIHAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmIHByZXNlbnQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvdmVySW1hZ2VOb2RlLmltYWdlTW9kaWZpY2F0aW9uQmxvY2sgPSBeKFVJSW1hZ2UgKmltYWdlKXsKICAgICAgICAgICAgQ0dGbG9hdCBjb3ZlckltYWdlV2lkdGggPSBTQ1JFRU5fV0lEVEggLSAyICoga091dGVyUGFkZGluZzsKICAgICAgICAgICAgQ0dGbG9hdCBjb3ZlckltYWdlSGVpZ2h0ID0gY292ZXJJbWFnZVdpZHRoICogNTAwIC8gNzUwOwogICAgICAgICAgICBpbWFnZSA9IFtpbWFnZSB5eV9pbWFnZUJ5UmVzaXplVG9TaXplOkNHU2l6ZU1ha2UoY292ZXJJbWFnZVdpZHRoLCBjb3ZlckltYWdlSGVpZ2h0KSBjb250ZW50TW9kZTpVSVZpZXdDb250ZW50TW9kZVNjYWxlQXNwZWN0Rml0XTsKCiAgICAgICAgICAgIFVJSW1hZ2UgKm1vZGlmaWVkSW1hZ2UgPSBuaWw7CiAgICAgICAgICAgIENHUmVjdCByZWN0ID0gKENHUmVjdCl7IENHUG9pbnRaZXJvLCBpbWFnZS5zaXplIH07CiAgICAgICAgICAgIFVJR3JhcGhpY3NCZWdpbkltYWdlQ29udGV4dFdpdGhPcHRpb25zKGltYWdlLnNpemUsIE5PLCBbVUlTY3JlZW4gbWFpblNjcmVlbl0uc2NhbGUpOwogICAgICAgICAgICBbW1VJQmV6aWVyUGF0aCBiZXppZXJQYXRoV2l0aFJvdW5kZWRSZWN0OnJlY3QgYnlSb3VuZGluZ0Nvcm5lcnM6VUlSZWN0Q29ybmVyVG9wTGVmdCB8IFVJUmVjdENvcm5lclRvcFJpZ2h0IGNvcm5lclJhZGlpOkNHU2l6ZU1ha2UoNCwgNCldIGFkZENsaXBdOwogICAgICAgICAgICBbaW1hZ2UgZHJhd0luUmVjdDpyZWN0XTsKICAgICAgICAgICAgbW9kaWZpZWRJbWFnZSA9IFVJR3JhcGhpY3NHZXRJbWFnZUZyb21DdXJyZW50SW1hZ2VDb250ZXh0KCk7CiAgICAgICAgICAgIFVJR3JhcGhpY3NFbmRJbWFnZUNvbnRleHQoKTsKICAgICAgICAgICAgcmV0dXJuIG1vZGlmaWVkSW1hZ2U7CiAgICAgICAgfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1aQo=</text>
+        <text encoding="base64">ICAgICAgICB2Yy5oaWRlc0JvdHRvbUJhcldoZW5QdXNoZWQgPSBZRVM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbc2VsZiBwcl07Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmIHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2Yy5oaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmIHByZXNlbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2Yy5oaWRlCg==</text>
+        <text encoding="base64">ICAgICAgICB1aQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXRhcmdldAo=</text>
+        <text encoding="base64">ICAgICAgICBbc2VsZiBwcl07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsYXNzIFNhbXBsZUFwcFJlbmRlcmVyOwo=</text>
+        <text encoding="base64">ICAgICAgICB2Yy5oaWRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>activate</last-search>
+      <last-search>self.coverimage</last-search>
       <last-offset />
-      <last-pattern>activate</last-pattern>
+      <last-pattern>self.coverimage</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -1666,8 +1666,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.play</entry>
-        <entry>self.playBu</entry>
         <entry>show</entry>
         <entry>content</entry>
         <entry>title</entry>
@@ -1686,6 +1684,8 @@
         <entry>hidden</entry>
         <entry>textCoords</entry>
         <entry>activate</entry>
+        <entry>self.coverImage</entry>
+        <entry>self.coverimage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
