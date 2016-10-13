@@ -162,7 +162,10 @@
         <mark key="." line="64" column="80" />
         <mark key="^" line="64" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Application/SampleApplication3DModel.h" timestamp="1476342113965" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Application/SampleApplication3DModel.h" timestamp="1476343181306" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Application/SampleApplication3DModel.m" timestamp="1476343187497">
+        <mark key="'" line="101" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/ImageTargetGLView.h" timestamp="1476338883419">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -289,18 +292,12 @@
         <mark key="." line="90" column="55" />
         <mark key="^" line="90" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1476329573389">
-        <mark key="[" line="376" column="0" />
-        <mark key="]" line="376" column="0" />
-        <mark key="." line="376" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/VuforiaSamplesAppDelegate.m" timestamp="1476329570869">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="35" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="11" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="112" column="119" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="157" column="40" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewCell/PostCell.m" />
       <jump line="109" column="28" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ArticleCellNode.m" />
@@ -400,6 +397,7 @@
       <jump line="276" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsViewController.mm" />
       <jump line="120" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsViewController.mm" />
       <jump line="275" column="49" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsViewController.mm" />
+      <jump line="101" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Application/SampleApplication3DModel.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -421,7 +419,7 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>hidden</text>
+        <text>textCoords</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJPT0wgb2ZmVGFyZ2V0VHJhY2tpbmdFbmFibGVkOwo=</text>
@@ -461,9 +459,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hidden</last-search>
+      <last-search>textCoords</last-search>
       <last-offset />
-      <last-pattern>hidden</last-pattern>
+      <last-pattern>textCoords</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.avatarImageView</entry>
         <entry>playButton</entry>
         <entry>self.play</entry>
         <entry>self.playBu</entry>
@@ -491,6 +488,7 @@
         <entry>right</entry>
         <entry>hide</entry>
         <entry>hidden</entry>
+        <entry>textCoords</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
