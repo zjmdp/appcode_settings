@@ -10,7 +10,7 @@
         <mark key="." line="30" column="51" />
         <mark key="^" line="30" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1476344892060">
+      <file name="/a.dummy" timestamp="1476349178979">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
@@ -337,12 +337,7 @@
         <mark key="." line="58" column="83" />
         <mark key="^" line="58" column="83" />
       </file>
-      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/ImageTargets/ImageTargetsViewController.mm" timestamp="1476333949305">
-        <mark key="'" line="299" column="42" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="156" column="39" />
-        <mark key="." line="235" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/Details/ASEnvironment.h" timestamp="1476349414761" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/FeedDetailNode/FeedCustomerNode.m" timestamp="1476260235369">
         <mark key="'" line="32" column="115" />
         <mark key="[" line="30" column="0" />
@@ -967,6 +962,7 @@
         <mark key="." line="42" column="92" />
         <mark key="^" line="42" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/Headers/Public/AsyncDisplayKit/ASEnvironment.h" timestamp="1476349106799" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Base/AsyncBaseViewController.m" timestamp="1473749229399">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="53" column="1" />
@@ -1451,6 +1447,12 @@
         <mark key="." line="90" column="55" />
         <mark key="^" line="90" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/App/AppDelegate.m" timestamp="1476348982974">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Login/MobileInputViewController.m" timestamp="1473825070732">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="196" column="7" />
@@ -1598,7 +1600,7 @@
         <text encoding="base64">ICAgIFZ1Zm9yaWE6OlZpZXdMaXN0JiB2aWV3TGlzdCA9IHJlbmRlcmluZ1ByaW1pdGl2ZXMuZ2V0UmVuZGVyaW5nVmlld3MoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>kInnerPadding</text>
+        <text>A</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1610,7 +1612,7 @@
         <text encoding="base64">ICAgICAgICBjb3Zlci52aWRlb1VybCA9IEAiaHR0cDovLzE4MC4xNTMuOTAuMjcvdmhvdDIucXF2aWRlby50Yy5xcS5jb20vdTAzMzBqbzg1OG0ubXA0P3ZrZXk9QkFFNTFCNERBNTgyNDg5QTNBMDBBQTk3MTg5Rjk4QTk3NjJCMDUyMzYwMzc1MzM5Q0VBRjY0QkFCRTUzNzEwMDg5MzdCNTU3OTg5OUZGQjI3NDYzMzdBM0E5QjA4MDk4RUFCNjBBOUE5Mzk4NDMxMTRBNDdBQTRCQjQ0RDBDNjY1MDA5Njk5OTQ4MDJEQzEyQjQ2M0I2QjcwQkEzNDkwNEFBQTUzMkY1NUE5RjQwNTlCRTIyNEQ0MEU3RENBRDdGJmJyPTYyNTA4JnBsYXRmb3JtPTEmZm10PW1wNCZsZXZlbD0wJnR5cGU9bXA0IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>kInnerPadding</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>activate</text>
