@@ -1019,12 +1019,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ChatMessageNode.m" timestamp="1476372005770">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/ChatMessageNode.m" timestamp="1476373976107">
         <mark key="'" line="57" column="8" />
-        <mark key="[" line="88" column="63" />
-        <mark key="]" line="88" column="67" />
-        <mark key="." line="88" column="67" />
-        <mark key="^" line="88" column="67" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="88" column="47" />
+        <mark key="." line="88" column="25" />
+        <mark key="^" line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/ASCellNode/TextCellNode.h" timestamp="1474967063858">
         <mark key="'" line="5" column="0" />
@@ -1711,8 +1711,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFZ1Zm9yaWE6OlZpZXdMaXN0JiB2aWV3TGlzdCA9IHJlbmRlcmluZ1ByaW1pdGl2ZXMuZ2V0UmVuZGVyaW5nVmlld3MoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Center</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50U3RhY2tMYXlvdXQuc3R5bGUuZmxleFNocmluayA9IFlFUzsKICAgICAgICBjb250ZW50U3RhY2tMYXlvdXQuc3R5bGUuZmxleEdyb3cgPSBZRVM7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1724,13 +1724,13 @@
         <text encoding="base64">ICAgICAgICBjb3Zlci52aWRlb1VybCA9IEAiaHR0cDovLzE4MC4xNTMuOTAuMjcvdmhvdDIucXF2aWRlby50Yy5xcS5jb20vdTAzMzBqbzg1OG0ubXA0P3ZrZXk9QkFFNTFCNERBNTgyNDg5QTNBMDBBQTk3MTg5Rjk4QTk3NjJCMDUyMzYwMzc1MzM5Q0VBRjY0QkFCRTUzNzEwMDg5MzdCNTU3OTg5OUZGQjI3NDYzMzdBM0E5QjA4MDk4RUFCNjBBOUE5Mzk4NDMxMTRBNDdBQTRCQjQ0RDBDNjY1MDA5Njk5OTQ4MDJEQzEyQjQ2M0I2QjcwQkEzNDkwNEFBQTUzMkY1NUE5RjQwNTlCRTIyNEQ0MEU3RENBRDdGJmJyPTYyNTA4JnBsYXRmb3JtPTEmZm10PW1wNCZsZXZlbD0wJnR5cGU9bXA0IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>Center</text>
+        <text>messageDescLayout</text>
       </register>
       <register name="/" type="4">
         <text>self.contentNode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFWSU1UeXBlZE1lc3NhZ2UgKm1zZyA9IGNoYXRNZXNzYWdlLmNvbnZlcnNhdGlvbi5sYXN0TWVzc2FnZTsKICAgIGlmIChtc2cgJiYgbXNnLnN0YXR1cyA9PSBBVklNTWVzc2FnZVN0YXR1c0ZhaWxlZCkgewogICAgICAgIHNlbGYuZmFpbGVkSWNvbi5oaWRkZW4gPSBOTzsKICAgICAgICBzZWxmLmZhaWxlZEljb25XaWR0aExheW91dC5jb25zdGFudCA9IDE1LjBmOwogICAgICAgIHNlbGYuZ2FwTGF5b3V0LmNvbnN0YW50ID0gNS4wZjsKICAgIH1lbHNlIHsKICAgICAgICBzZWxmLmZhaWxlZEljb25XaWR0aExheW91dC5jb25zdGFudCA9IDAuMGY7CiAgICAgICAgc2VsZi5nYXBMYXlvdXQuY29uc3RhbnQgPSAwLjBmOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50U3RhY2tMYXlvdXQuc3R5bGUuZmxleFNocmluayA9IFlFUzsKICAgICAgICBjb250ZW50U3RhY2tMYXlvdXQuc3R5bGUuZmxleEdyb3cgPSBZRVM7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmNvbnRlbnROb2RlLnN0eWxlLnNwYWNpbmdBZnRlciA9IGtPdXRlclBhZGRpbmcK</text>
