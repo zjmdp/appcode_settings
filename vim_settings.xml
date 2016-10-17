@@ -734,12 +734,11 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1476722590737">
-        <mark key="'" line="870" column="24" />
-        <mark key="[" line="357" column="64" />
-        <mark key="]" line="357" column="64" />
-        <mark key="." line="357" column="64" />
-        <mark key="^" line="357" column="64" />
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" timestamp="1476723969920">
+        <mark key="'" line="812" column="0" />
+        <mark key="[" line="829" column="0" />
+        <mark key="]" line="829" column="0" />
+        <mark key="." line="829" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Pay/SeatWebViewController.h" timestamp="1474894688200">
         <mark key="'" line="0" column="0" />
@@ -1392,7 +1391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="127" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASTextNode.mm" />
       <jump line="402" column="76" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASTextNode.mm" />
       <jump line="403" column="16" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASTextNode.mm" />
       <jump line="406" column="53" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/AsyncDisplayKit/AsyncDisplayKit/ASTextNode.mm" />
@@ -1492,13 +1490,14 @@
       <jump line="772" column="37" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="795" column="5" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
       <jump line="869" column="24" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
+      <jump line="812" column="0" filename="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/ArticleEditorViewController.m" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VuZEJ1dHRvbiBtYXNfbWFrZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgICAgIG1ha2UuY2VudGVyWS5lcXVhbFRvKHNlbmRCdXR0b24uc3VwZXJ2aWV3KTsKICAgICAgICAgICAgbWFrZS53aWR0aC5lcXVhbFRvKEAoNTApKTsKICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8odGV4dEZpZWxkLm1hc190cmFpbGluZykud2l0aC5vZmZzZXQoMTApOwogICAgICAgIH1dOwogICAgICAgIFt0ZXh0RmllbGQgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLmNlbnRlclkuZXF1YWxUbyh0ZXh0RmllbGQuc3VwZXJ2aWV3KTsKICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8odGV4dEZpZWxkLnN1cGVydmlldykud2l0aC5vZmZzZXQoMTApOwogICAgICAgICAgICBtYWtlLndpZHRoLmVxdWFsVG8oQChTQ1JFRU5fV0lEVEggLSAzICogMTAgLSA1MCkpOwogICAgICAgIH1dOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1519,7 +1518,7 @@
         <text encoding="base64">ICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAc3Ryb25naWZ5KHNlbGYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1531,22 +1530,22 @@
         <text encoding="base64">ICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAd2Vha2lmeShzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEB3ZWFraWZ5KHNlbGYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBzdHJvbmdpZnkoc2VsZikK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBAd2Vha2lmeShzZWxmKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEB3ZWFraWZ5KHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQHN0cm9uZ2lmeShzZWxmKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
