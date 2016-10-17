@@ -10,7 +10,7 @@
         <mark key="." line="30" column="51" />
         <mark key="^" line="30" column="51" />
       </file>
-      <file name="/a.dummy" timestamp="1476434823496">
+      <file name="/a.dummy" timestamp="1476671631137">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="8" />
       </file>
@@ -625,6 +625,7 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/VirtualButtons/VirtualButtonsEAGLView.mm" timestamp="1476671052653" />
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Feed/TopicFeedListViewController.m" timestamp="1476412660533">
         <mark key="'" line="125" column="54" />
         <mark key="[" line="133" column="31" />
@@ -1027,6 +1028,12 @@
         <mark key="]" line="49" column="31" />
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
+      </file>
+      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/VirtualButtons/VirtualButtonsViewController.mm" timestamp="1476671064261">
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="46" />
+        <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/PostNode.h" timestamp="1473755145135">
         <mark key="'" line="0" column="0" />
@@ -1470,7 +1477,7 @@
         <text encoding="base64">ICAgIFZ1Zm9yaWE6OlZpZXdMaXN0JiB2aWV3TGlzdCA9IHJlbmRlcmluZ1ByaW1pdGl2ZXMuZ2V0UmVuZGVyaW5nVmlld3MoKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>e</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1482,10 +1489,10 @@
         <text encoding="base64">ICAgICAgICBjb3Zlci52aWRlb1VybCA9IEAiaHR0cDovLzE4MC4xNTMuOTAuMjcvdmhvdDIucXF2aWRlby50Yy5xcS5jb20vdTAzMzBqbzg1OG0ubXA0P3ZrZXk9QkFFNTFCNERBNTgyNDg5QTNBMDBBQTk3MTg5Rjk4QTk3NjJCMDUyMzYwMzc1MzM5Q0VBRjY0QkFCRTUzNzEwMDg5MzdCNTU3OTg5OUZGQjI3NDYzMzdBM0E5QjA4MDk4RUFCNjBBOUE5Mzk4NDMxMTRBNDdBQTRCQjQ0RDBDNjY1MDA5Njk5OTQ4MDJEQzEyQjQ2M0I2QjcwQkEzNDkwNEFBQTUzMkY1NUE5RjQwNTlCRTIyNEQ0MEU3RENBRDdGJmJyPTYyNTA4JnBsYXRmb3JtPTEmZm10PW1wNCZsZXZlbD0wJnR5cGU9bXA0IjsK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>banan</text>
+        <text>press</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Z2xWZXJ0ZXhQb2ludGVyKDMsIEdMX0ZMT0FULCAwLCBiYW5hbmFWZXJ0cyk7CmdsTm9ybWFsUG9pbnRlcihHTF9GTE9BVCwgMCwgYmFuYW5hTm9ybWFscyk7CmdsVGV4Q29vcmRQb2ludGVyKDIsIEdMX0ZMT0FULCAwLCBiYW5hbmFUZXhDb29yZHMpOwo=</text>
@@ -1525,9 +1532,9 @@
       </register>
     </registers>
     <search>
-      <last-search>banan</last-search>
+      <last-search>press</last-search>
       <last-offset />
-      <last-pattern>banan</last-pattern>
+      <last-pattern>press</last-pattern>
       <last-replace>imageEditContainerView</last-replace>
       <last-substitute>topView</last-substitute>
       <last-dir>1</last-dir>
@@ -1535,7 +1542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
         <entry>hidden</entry>
         <entry>textCoords</entry>
         <entry>activate</entry>
@@ -1555,6 +1561,7 @@
         <entry>tea</entry>
         <entry>texture</entry>
         <entry>banan</entry>
+        <entry>press</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">Pg==</entry>
