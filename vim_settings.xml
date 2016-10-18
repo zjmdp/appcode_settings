@@ -178,7 +178,7 @@
         <mark key="^" line="10" column="79" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsEAGLView.mm" timestamp="1476675978255">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/AR/Features/ImageTargets/ImageTargetsEAGLView.mm" timestamp="1476759238804">
         <mark key="'" line="273" column="50" />
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
@@ -436,7 +436,7 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1476757946326">
+      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/Pods/KINWebBrowser/KINWebBrowser/KINWebBrowserViewController.m" timestamp="1476759155330">
         <mark key="'" line="39" column="11" />
         <mark key="[" line="637" column="0" />
         <mark key="]" line="638" column="0" />
@@ -488,12 +488,6 @@
       <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/ImageTargets/ImageTargetsEAGLView.h" timestamp="1476338440257">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Resources/Assets/ImageTargets/StonesAndChips.xml" timestamp="1476674531750">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="4" column="73" />
-        <mark key="^" line="4" column="73" />
-        <mark key="." line="4" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Controllers/Post/FeedSelectViewController.h" timestamp="1470033812007">
         <mark key="'" line="14" column="0" />
@@ -564,6 +558,10 @@
         <mark key="]" line="152" column="18" />
         <mark key="^" line="152" column="18" />
         <mark key="." line="152" column="18" />
+      </file>
+      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/MultiTargets/MultiTargetsEAGLView.mm" timestamp="1476759135244">
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="462" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/TagCellNode.m" timestamp="1473757286056">
         <mark key="'" line="10" column="0" />
@@ -1049,12 +1047,6 @@
         <mark key="." line="49" column="31" />
         <mark key="^" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/vuforia-sdk-ios/samples/VuforiaSamples-6-0-112/VuforiaSamples/Classes/Features/VirtualButtons/VirtualButtonsViewController.mm" timestamp="1476671064261">
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="46" />
-        <mark key="." line="43" column="46" />
-        <mark key="^" line="43" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/workspace/iOS/LetsGo/LetsGo/Views/TableViewNode/PostNode.h" timestamp="1473755145135">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="15" />
@@ -1496,8 +1488,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICBbc2VuZEJ1dHRvbiBtYXNfbWFrZUNvbnN0cmFpbnRzOl4oTUFTQ29uc3RyYWludE1ha2VyICptYWtlKSB7CiAgICAgICAgICAgIG1ha2UuY2VudGVyWS5lcXVhbFRvKHNlbmRCdXR0b24uc3VwZXJ2aWV3KTsKICAgICAgICAgICAgbWFrZS53aWR0aC5lcXVhbFRvKEAoNTApKTsKICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8odGV4dEZpZWxkLm1hc190cmFpbGluZykud2l0aC5vZmZzZXQoMTApOwogICAgICAgIH1dOwogICAgICAgIFt0ZXh0RmllbGQgbWFzX21ha2VDb25zdHJhaW50czpeKE1BU0NvbnN0cmFpbnRNYWtlciAqbWFrZSkgewogICAgICAgICAgICBtYWtlLmNlbnRlclkuZXF1YWxUbyh0ZXh0RmllbGQuc3VwZXJ2aWV3KTsKICAgICAgICAgICAgbWFrZS5sZWFkaW5nLmVxdWFsVG8odGV4dEZpZWxkLnN1cGVydmlldykud2l0aC5vZmZzZXQoMTApOwogICAgICAgICAgICBtYWtlLndpZHRoLmVxdWFsVG8oQChTQ1JFRU5fV0lEVEggLSAzICogMTAgLSA1MCkpOwogICAgICAgIH1dOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>[NSJSONSerialization isValidJSONObject:data]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSAodm9pZCkgYW5pbWF0ZUJvd2w6KFZ1Zm9yaWE6Ok1hdHJpeDQ0RiopIG1vZGVsVmlld01hdHJpeAp7CiAgICBzdGF0aWMgZmxvYXQgcm90YXRlQm93bEFuZ2xlID0gMC4wZjsKICAgIAogICAgc3RhdGljIGRvdWJsZSBwcmV2VGltZSA9IFtzZWxmIGdldEN1cnJlbnRUaW1lXTsKICAgIGRvdWJsZSB0aW1lID0gW3NlbGYgZ2V0Q3VycmVudFRpbWVdOyAgICAgICAgICAgICAvLyBHZXQgcmVhbCB0aW1lIGRpZmZlcmVuY2UKICAgIGZsb2F0IGR0ID0gKGZsb2F0KSh0aW1lLXByZXZUaW1lKTsgICAgICAgICAgLy8gZnJvbSBmcmFtZSB0byBmcmFtZQogICAgCiAgICByb3RhdGVCb3dsQW5nbGUgKz0gZHQgKiAxODAuMGYvMy4xNDE1ZjsgICAgIC8vIEFuaW1hdGUgYW5nbGUgYmFzZWQgb24gdGltZQogICAgCiAgICBTYW1wbGVBcHBsaWNhdGlvblV0aWxzOjpyb3RhdGVQb3NlTWF0cml4KHJvdGF0ZUJvd2xBbmdsZSwgMC4wZiwgMS4wZiwgMC4wZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZtb2RlbFZpZXdNYXRyaXgtPmRhdGFbMF0pOwogICAgCiAgICBwcmV2VGltZSA9IHRpbWU7Cn0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTlNQYXJhZ3JhcGhTdHlsZUF0dHJpYnV0ZU5hbWU6c3R5bGUK</text>
@@ -1515,7 +1507,7 @@
         <text>subsc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlkIGpzb24gPSBbTlNKU09OU2VyaWFsaXphdGlvbiBKU09OT2JqZWN0V2l0aERhdGE6ZGF0YSBvcHRpb25zOjAgZXJyb3I6bmlsXTsK</text>
+        <text encoding="base64">LSAodm9pZCkgYW5pbWF0ZUJvd2w6KFZ1Zm9yaWE6Ok1hdHJpeDQ0RiopIG1vZGVsVmlld01hdHJpeAp7CiAgICBzdGF0aWMgZmxvYXQgcm90YXRlQm93bEFuZ2xlID0gMC4wZjsKICAgIAogICAgc3RhdGljIGRvdWJsZSBwcmV2VGltZSA9IFtzZWxmIGdldEN1cnJlbnRUaW1lXTsKICAgIGRvdWJsZSB0aW1lID0gW3NlbGYgZ2V0Q3VycmVudFRpbWVdOyAgICAgICAgICAgICAvLyBHZXQgcmVhbCB0aW1lIGRpZmZlcmVuY2UKICAgIGZsb2F0IGR0ID0gKGZsb2F0KSh0aW1lLXByZXZUaW1lKTsgICAgICAgICAgLy8gZnJvbSBmcmFtZSB0byBmcmFtZQogICAgCiAgICByb3RhdGVCb3dsQW5nbGUgKz0gZHQgKiAxODAuMGYvMy4xNDE1ZjsgICAgIC8vIEFuaW1hdGUgYW5nbGUgYmFzZWQgb24gdGltZQogICAgCiAgICBTYW1wbGVBcHBsaWNhdGlvblV0aWxzOjpyb3RhdGVQb3NlTWF0cml4KHJvdGF0ZUJvd2xBbmdsZSwgMC4wZiwgMS4wZiwgMC4wZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZtb2RlbFZpZXdNYXRyaXgtPmRhdGFbMF0pOwogICAgCiAgICBwcmV2VGltZSA9IHRpbWU7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
